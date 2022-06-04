@@ -1,0 +1,1 @@
+- [Minimum Viable CD](https://minimumcd.org/minimumcd/#continuous-integration)

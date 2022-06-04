@@ -1,0 +1,114 @@
+title:: 實例化需求 (Specification by Examples)/Workshop
+
+- #+BEGIN_PINNED
+  <ins>學習 SbE 的目目的與解決的問題：</ins>
+  * 達成開發團隊內部對產品需求產生一致性的共識
+  * 減少溝通需求所花費的時間與成本 (reduce communication effort)
+  * 明確訂定需求範圍 (reduce waste)
+  * 減少Production defect (upfront-design, shift-left testing)
+  * 能快速修改反映需求上的變化 (living-document)
+  #+END_PINNED
+- ## SbE Introduction
+	- 實例化需求(SbE)是一種==協作==的軟體開發方式，使用==具體的案例與自動化驗收測試==來展示==業務需求==的一種模式 ，實例化需求能讓我們用以==正確的方向建置產品== (Build the right product) 。另外，實例化且有一致共識的需求規格，對於後續手動測試、測試自動化及 pipeline 的效率與信心都有莫大的影響，將於後續說明。
+- ## Specification Game and Communication
+	- 今天有一位地主要求建築師說：我想要以一個有十一個頂點的星形多邊形雕刻來裝飾我的外牆！但建築師在嘗試畫出十一星形圖時就發現，光十一頂點星形就有好幾種畫法，遑論還有邊長、角度、大小、顏色等等變異，那麼建築師要如何能確認需求呢？
+	- ![image.png](../assets/image_1651218824789_0.png)
+	- [Figure reference: https://en.wikipedia.org/wiki/Hendecagram](https://en.wikipedia.org/wiki/Hendecagram)
+	- 所以光一個簡單的圖形，光是用白底黑字的文字來描述需求就感受到其中的限制了，更不用說要用文字來溝通==複雜的商業邏輯==是件多沒有效率的事了...
+	- ### Communication Effort
+		- 既然需求是談出來的，那首要解決溝通的成本問題了！從下圖中，兩個或多人之間能直接同步溝通並同時使用聽覺、視覺和語言 (例如輔助以白板這類的工具)，能讓信息流以最有效率的方式傳遞。
+		- ![image.png](../assets/image_1650359893553_0.png)
+		- Reference: Simplilearn (from Ambler, 2002; after Cockburn, 2006)
+	- ### Communication Steps
+		- 既然溝通的方式確立了，接下來就來說說溝通的步驟與重點提要。在 Jeff Patton《User Story Mapping》中有個所謂的＂5C＂循環的概念，正是闡明了溝通的五步驟。
+		- ![image.png](../assets/image_1650359923999_0.png)
+		- #### 步驟一：Card
+			- 需求在進入更詳細的討論時，會被拆解成數個小的使用者故事，而討論時會以故事卡片的方式交付給團隊做討論，卡片上會有標題與 Who (As a)、What (I want) and Why (so that) 三要素。
+			- ![kanban-empty-StoryCard.png](../assets/kanban-empty-StoryCard_1651231006464_0.png)
+			- #+BEGIN_TIP
+			  * One card one idea
+			  * Don't write too much, only the content fits in a card
+			  #+END_TIP
+		- #### 步驟二：Conversation
+			- Conversation，沒錯這可是 5C 中最重要的步驟了，溝通與對話的目的是為了建立基本共識，這共識包含了確認目標 (Problem) 與範圍 (Scope)。
+			- ##### 目標
+				- 客戶都提需求來了，怎麼還要確認目標，這又怎麼說呢？ [[Story of F-16]]
+				  從 F-16 誕生的故事，我們了解到需求的確立是團隊一起參與，通過不斷地提問問題來釐清背後真正想要解決的問題並產生共識。
+				- #+BEGIN_NOTE
+				  * 需求不會是一個明確的解法!
+				  * 需求是模糊的，客戶很難去抽象出他的問題
+				  * 不要想一次把 Spec 定義清楚
+				  #+END_NOTE
+			- ##### 範圍
+				- 通過討論，我們期望能找出 80% ~ 90% 的使用者情境 (並非完善所有需求)，而討論是非常花時間的，估計討論時間會占用約 5% ~ 10% 的開發時間。
+				- <ins>Triple Constraint - why scope important for Agile</ins>
+					- ![image.png](../assets/image_1650354669597_0.png)
+			- card-last-score:: 5
+			  card-repeats:: 1
+			  card-next-schedule:: 2022-05-12T08:48:32.167Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 2.6
+			  card-last-reviewed:: 2022-05-08T08:48:32.173Z
+			  #+BEGIN_TIP
+			  討論需求的目標在確立基本共識
+			  * 目標與問題是不可變的
+			  * 解決方案 (AC) 是可變的
+			  * 用 CARD 溝通 (Face-2-Face + 白板)
+			  [[draws/2022-05-10-02-38-38.excalidraw]] 
+			  #+END_TIP
+		- #### 步驟三：Confirmation
+			- #+BEGIN_TIP
+			  * 知識的詛咒：專家很難用白癡的話敘述一件事，所以呢就 叫白癡用問的！
+			  * 故意用錯誤的描述來引發討論 (何時做：當需求模糊不清。如何做：用具體的==錯誤==例子)
+			  * 學會問＂可不可以不要＂
+			  #+END_TIP
+		- #### 步驟四：Construction
+			- Examples -> Requirements -> Test
+		- #### 步驟五：Consequence
+			- 在每次的迭代後要去驗收結果。
+		-
+		- 大家你覺溝通的五個步驟中，哪個步驟的成本 (cost) 最高？
+		- 大家你覺溝通的五個步驟中，哪個步驟的影響 (impact) 最大？
+	-
+- ## Refinement Meeting Explains
+	- <ins>什麼是產品代辦清單精煉</ins>
+		- 經由一項持續進行的活動對於代辦事項不斷的做梳理、拆解與排序，使其更小且定義更精確，可參考 Scrum guide 的描述：
+		- #+BEGIN_QUOTE
+		  Product Backlog refinement (PBR) is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ==ongoing activity== to add details, such as a description, order, and size. Attributes often vary with the domain of work. [Scrum guide](https://scrumguides.org/scrum-guide.html#product-backlog)
+		  #+END_QUOTE
+	- <ins>精煉會議前置準備</ins>
+		- 通常一個使用者故事能放進精煉會議做AC的討論，一般是經過以下三步驟：
+		  * Phase 0: Preparation of user stories (PO to prioritize, remove dependencies)：通常由 tech lead 與 PO 做先行的討論與排序出重要性並找出無其它依賴能做更細節展開討論的項目，
+		  * Phase 1: Estimate and split stories, consume/maintain product backlog：會議中 PO 說明故事卡內容並交由大家根據複雜度去估點或分拆為更小的使用者故事，重複步驟直到使用者故事複雜度小於 8 或 13 點 (根據團隊習慣)。
+		  * Phase 2: Key example / Acceptance Criteria (for story point under 8/13)：對於夠小的故事根據重要性於會議中開始討論並產出此故事的驗收條件(Acceptance Criteria)。
+	- <ins>會議週期與時間安排</ins>
+		- Week 1 || Week 2
+		- 若以兩週為一個 Sprint 週期來說，PBR 會議通常會安排在一、二週中間找個半天至一天的時間。
+	- #+BEGIN_TIP
+	  __Recommend__:
+	  	* preserve 5-10% of your sprint work hour to do refinement meeting
+	  	* 1 day or 2 separated meetings
+	  #+END_TIP
+	- <ins>會議內實行方法</ins>
+	  * Divide team into several groups
+	  如果人數足夠，可以把團隊分為幾組，每一組內盡量包含功能團隊的各種角色。
+	  * 7 mins for each round
+	  以 7 分鐘為一個輪 (timebox)，分組下去討論。
+	  * Explain AC to whole team
+	  一輪之後，各團隊輪流解釋成果給其它人聽，其它的隊伍可以提出問題質問。每團隊都講過後，各自再下去修改自己團隊的提案。
+	  * 2-3 rounds for each story
+	  兩至三輪後，團隊內應該可以對這個使用者故事能有一個基本的共識了。最後就算自己不是負責這個使用者故事的代碼實現，但是也因為參與過討論，也會了解這個使用者故事的內容了！
+	- #+BEGIN_TIP
+	  如果團隊沒有足夠時間這針對＂每個＂使用者故事分組下去討論，也應該每一組分配一個故事下去討論 AC，等所有故事都討論完後，每組上台介紹討論出來的 AC 給所有其它的團隊成員聽。
+	  #+END_TIP
+	- Example 寫甚麼？
+	  * Specific example for AC. Golden user case. Business logic.
+	  * Standard: Ask somebody else to read the AC and tell the story
+		- Also explain relation with:
+			- DOR → planning meeting
+			- DOD → task closed
+- ## AC Practices
+- ## Gherkin HowTo
+	- ### How to Write Good Execution Specifications
+	- ### Some Bad Examples
+-
