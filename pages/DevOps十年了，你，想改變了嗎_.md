@@ -1,5 +1,6 @@
 title:: DevOps十年了，你，想改變了嗎?
 publish:: [[2019年12月17日]]
+type:: blogpost
 
 - ## 何謂 DevOps
 	- DevOps 有太多的定義比如： [Wikipedia](https://zh.wikipedia.org/wiki/DevOps)、 [Google Cloud](https://cloud.google.com/devops/) ，這些都表達得很好，但我更喜歡從開發（CI/CD）的角度來講這件事，比如：
@@ -54,7 +55,7 @@ publish:: [[2019年12月17日]]
 		- 持續集成 (Continuous Integration)
 		- 單主幹開發（Trunk-based Development & Feature Toggles）
 		- 測試左移（在開發階段之前定義好測試以及將整合測試提前執行）
-			- [[實例化需求 (Specification by Examples)]]
+			- [[實例化需求 (Specification by Examples)/workshop]]
 			- 測試自動化（Fast Test Automation）
 				- API 測試？ 想想 Consumer Driven Contract Testing
 				- 想更快？ 先做好 Test Isolation

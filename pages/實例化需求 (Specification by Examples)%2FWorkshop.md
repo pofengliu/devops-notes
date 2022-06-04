@@ -1,5 +1,5 @@
 type:: blogpost
-title:: 實例化需求 (Specification by Examples)/Workshop
+title:: 實例化需求 (Specification by Examples)/workshop
 
 - #+BEGIN_PINNED
   <ins>學習 SbE 的目目的與解決的問題：</ins>
