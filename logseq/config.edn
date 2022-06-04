@@ -173,11 +173,12 @@
 
  :ref/linked-references-collapsed-threshold 50
  :graph/settings {:builtin-pages? true}
- :favorites ["實例化需求 (specification by examples)/workshop" "devops十年了，你，想改變了嗎？"]
+ :favorites ["實例化需求 (specification by examples)/workshop" "DevOps十年了，你，想改變了嗎?" "devops十年了，你，想改變了嗎？"]
  :journal/page-title-format "yyyy年MM月dd日"
  :feature/enable-journals? false
- :default-home {}
+ :default-home {:page "journals" :sidebar "contents"}
  :publishing/all-pages-public? true
+ :feature/enable-timetracking? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

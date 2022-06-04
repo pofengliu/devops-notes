@@ -18,7 +18,7 @@ publish:: [[2019年12月17日]]
 		- background-color:: #978626
 		  > 文化沒有對錯，但卻是讓一家公司在其認知的價值上深耕並做出差異化的必要手段。 #culture
 		- ![culture_matters_fremont](https://speakerd.s3.amazonaws.com/presentations/cf04f08b30f54c41ad76d0b180effd0b/slide_8.jpg)
-		- 文化的重要性，這邊再說個故事：1982年，美國的GM（General Motors）公司把位於加州的弗里蒙特工廠給關閉了，原因是長期的抗爭、罷工以及所產出車輛的質量是所有工廠裡面最差的，車子出了生產線還得另外用車子拖走，經常少了零件或者跟本無法發動。 1984當時的 Toyata 精實製造正席捲美國汽車業，GM 跟 Toyata 合資了一家子公司 [NUMMI](https://en.wikipedia.org/wiki/NUMMI) 然後重啟了工廠，由 GM 負責市場與銷售，Toyata負責車輛的設計製造及工廠的運維，並且 GM 同時派了許多員工至日本工廠學習以回來改進 NUMMI 的生產線。 一直到1995年的JD Power survey中，美國所販售十輛質量最好的車中，只有兩輛是美國製造，而其中一輛便是 NUMMI 所生產的 Geo Prizm。 這故事說的是同一車廠、同一批員工在不同的文化管理與流程下所表現出來的結果卻是截然不同的！ Netflix 也有類似的故事， Netflix 的雲架構師 Adrian Cockcroft 有次被其它 Fortune 500 公司的資深經理人問『 Netflix 到底是從何處招募來這些明星級的工程師？』， 而 Cockcroft 也就回答 "I hired them from you!" #netflix #toyata
+		- 文化的重要性，這邊再說個故事：1982年，美國的GM（General Motors）公司把位於加州的弗里蒙特工廠給關閉了，原因是長期的抗爭、罷工以及所產出車輛的質量是所有工廠裡面最差的，車子出了生產線還得另外用車子拖走，經常少了零件或者跟本無法發動。 1984當時的 Toyata 精實製造正席捲美國汽車業，GM 跟 Toyata 合資了一家子公司 [NUMMI](https://en.wikipedia.org/wiki/NUMMI) 然後重啟了工廠，由 GM 負責市場與銷售，Toyata負責車輛的設計製造及工廠的運維，並且 GM 同時派了許多員工至日本工廠學習以回來改進 NUMMI 的生產線。 一直到1995年的JD Power survey中，美國所販售十輛質量最好的車中，只有兩輛是美國製造，而其中一輛便是 NUMMI 所生產的 Geo Prizm。 這故事說的是同一車廠、同一批員工在不同的文化管理與流程下所表現出來的結果卻是截然不同的！ Netflix 也有類似的故事， Netflix 的雲架構師 Adrian Cockcroft 有次被其它 Fortune 500 公司的資深經理人問『 Netflix 到底是從何處招募來這些明星級的工程師？』， 而 Cockcroft 也就回答 "I hired them from you!" #netflix #toyota
 		- ![spotify_guilds](https://speakerd.s3.amazonaws.com/presentations/cf04f08b30f54c41ad76d0b180effd0b/slide_10.jpg)
 		- 之於開發團隊，這些著名IT公司的文化中，不外乎一定有的像是：efficiency, risk taking, high performance, seeking excellence...，而這些不就是整個 DevOps 所一直在強調的事嗎？講到 DevOps 有關組織文化的部份，通常就會提到組織學習和安全文化：
 		- #### 學習型組織（Learning Organization）

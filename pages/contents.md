@@ -1,1 +1,3 @@
-- ur
+- Published automatically using Logseq Publish GitHub Action
+- ## Shortcuuts
+- [[About Me]]

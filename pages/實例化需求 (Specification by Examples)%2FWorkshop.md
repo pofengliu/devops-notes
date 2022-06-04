@@ -1,3 +1,4 @@
+type:: blogpost
 title:: 實例化需求 (Specification by Examples)/Workshop
 
 - #+BEGIN_PINNED
@@ -32,8 +33,9 @@ title:: 實例化需求 (Specification by Examples)/Workshop
 		- #### 步驟二：Conversation
 			- Conversation，沒錯這可是 5C 中最重要的步驟了，溝通與對話的目的是為了建立基本共識，這共識包含了確認目標 (Problem) 與範圍 (Scope)。
 			- ##### 目標
-				- 客戶都提需求來了，怎麼還要確認目標，這又怎麼說呢？ [[Story of F-16]]
-				  從 F-16 誕生的故事，我們了解到需求的確立是團隊一起參與，通過不斷地提問問題來釐清背後真正想要解決的問題並產生共識。
+				- 客戶都提需求來了，怎麼還要確認目標，這又怎麼說呢？
+				  參照故事： [[Story of F-16]]
+				  從 F-16 誕生的故事，我們了解到需求的確立是團隊一起參與，通過不斷地提問問題來釐清背後真正想要解決的問題並產生共識。如果當初通用動力公司==沒有去了解需求後面要被解決的問題==而只是依客戶照需求去研發新一代的高速飛機引擎，或許今天就不會有這架最成功的戰機問世
 				- #+BEGIN_NOTE
 				  * 需求不會是一個明確的解法!
 				  * 需求是模糊的，客戶很難去抽象出他的問題
@@ -54,7 +56,6 @@ title:: 實例化需求 (Specification by Examples)/Workshop
 			  * 目標與問題是不可變的
 			  * 解決方案 (AC) 是可變的
 			  * 用 CARD 溝通 (Face-2-Face + 白板)
-			  [[draws/2022-05-10-02-38-38.excalidraw]] 
 			  #+END_TIP
 		- #### 步驟三：Confirmation
 			- #+BEGIN_TIP
