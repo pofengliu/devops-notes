@@ -31,7 +31,8 @@ title:: 實例化需求 (Specification by Examples)/workshop
 			  * Don't write too much, only the content fits in a card
 			  #+END_TIP
 		- #### 步驟二：Conversation
-			- Conversation，沒錯這可是 5C 中最重要的步驟了，溝通與對話的目的是為了建立基本共識，這共識包含了確認目標 (Problem) 與範圍 (Scope)。
+			- ![image.png](../assets/image_1654353781484_0.png) 
+			  Conversation，沒錯這可是 5C 中最重要的步驟了，溝通與對話的目的是為了建立基本共識，這共識包含了確認目標 (Problem) 與範圍 (Scope)。
 			- ##### 目標
 				- 客戶都提需求來了，怎麼還要確認目標，這又怎麼說呢？
 				  參照故事： [[Story of F-16]]
@@ -43,8 +44,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 				  #+END_NOTE
 			- ##### 範圍
 				- 通過討論，我們期望能找出 80% ~ 90% 的使用者情境 (並非完善所有需求)，而討論是非常花時間的，估計討論時間會占用約 5% ~ 10% 的開發時間。
-				- <ins>Triple Constraint - why scope important for Agile</ins>
-					- ![image.png](../assets/image_1650354669597_0.png)
+				- 參照： [[Triple Constraint - why scope important for Agile]]
 			- card-last-score:: 5
 			  card-repeats:: 1
 			  card-next-schedule:: 2022-05-12T08:48:32.167Z
@@ -59,7 +59,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 			  #+END_TIP
 		- #### 步驟三：Confirmation
 			- #+BEGIN_TIP
-			  * 知識的詛咒：專家很難用白癡的話敘述一件事，所以呢就 叫白癡用問的！
+			  * 知識的詛咒：專家很難用白癡的話敘述一件事，所以呢？就叫白癡用問的！
 			  * 故意用錯誤的描述來引發討論 (何時做：當需求模糊不清。如何做：用具體的==錯誤==例子)
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
@@ -68,8 +68,8 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		- #### 步驟五：Consequence
 			- 在每次的迭代後要去驗收結果。
 		-
-		- 大家你覺溝通的五個步驟中，哪個步驟的成本 (cost) 最高？
-		- 大家你覺溝通的五個步驟中，哪個步驟的影響 (impact) 最大？
+		- 大家你覺溝通的五個步驟中，哪個步驟的成本 (Cost) 最高？
+		- 大家你覺溝通的五個步驟中，哪個步驟的影響 (Impact) 最大？
 	-
 - ## Refinement Meeting Explains
 	- <ins>什麼是產品代辦清單精煉</ins>
