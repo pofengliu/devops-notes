@@ -1,9 +1,6 @@
 [{:block/name "2019年12月17日",
   :block/created-at 1650343842104,
   :block/updated-at 1650343842104}
- {:block/name "629b0e65-b413-402b-9986-55368394ee72",
-  :block/created-at 1654329386238,
-  :block/updated-at 1654329386238}
  {:block/name "a",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -34,9 +31,9 @@
  {:block/name "culture",
   :block/created-at 1650343842085,
   :block/updated-at 1650343842085}
- {:block/name "devops十年了，你，想改變了嗎_",
-  :block/created-at 1650343923544,
-  :block/updated-at 1654333175454}
+ {:block/name "devops十年了，你，想改變了嗎?",
+  :block/created-at 1654333391366,
+  :block/updated-at 1654333391366}
  {:block/name "doing",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -82,18 +79,24 @@
  {:block/name "toyota",
   :block/created-at 1654327407686,
   :block/updated-at 1654327407686}
+ {:block/name "triple constraint - why scope important for agile",
+  :block/created-at 1654335868888,
+  :block/updated-at 1654355406281}
  {:block/name "wait",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
  {:block/name "waiting",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
+ {:block/name "workshop",
+  :block/created-at 1654351689336,
+  :block/updated-at 1654351689336}
  {:block/name "原始需求",
   :block/created-at 1653460026027,
   :block/updated-at 1653460026027}
  {:block/name "實例化需求 (specification by examples)",
   :block/created-at 1654332827208,
-  :block/updated-at 1654333270995}
+  :block/updated-at 1654333864454}
  {:block/name "實例化需求 (specification by examples)/workshop",
   :block/created-at 1650049483555, 
-  :block/updated-at 1654333049111}]
+  :block/updated-at 1654353998753}]
