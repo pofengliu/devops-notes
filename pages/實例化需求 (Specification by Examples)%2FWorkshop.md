@@ -43,7 +43,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 				  * 不要想一次把 Spec 定義清楚
 				  #+END_NOTE
 			- ##### 範圍
-				- 通過討論，我們期望能找出 80% ~ 90% 的使用者情境 (並非完善所有需求)，而討論是非常花時間的，估計討論時間會占用約 5% ~ 10% 的開發時間。
+				- 通過討論，==我們期望能找出 80% ~ 90% 的使用者情境 (並非完善所有需求)，而討論是非常花時間的，估計討論時間會占用約 5% ~ 10% 的開發時間==。
 				- 參照： [[Triple Constraint - why scope important for Agile]]
 			- card-last-score:: 5
 			  card-repeats:: 1
