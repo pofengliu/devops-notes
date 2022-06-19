@@ -90,7 +90,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		- 若以兩週為一個 Sprint 週期來說，PBR 會議通常會安排在一、二週中間找個半天至一天的時間。
 	- #+BEGIN_TIP
 	  __Recommend__:
-	  	* preserve 5-10% of your sprint work hour to do refinement meeting
+	  	* Ｐreserve 5-10% of your sprint work hour to do refinement meeting
 	  	* 1 day or 2 separated meetings
 	  #+END_TIP
 	- <ins>會議內實行方法</ins>
