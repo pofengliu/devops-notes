@@ -60,6 +60,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 			  * 用 CARD 溝通 (Face-2-Face + 白板)
 			  #+END_TIP
 		- #### 步驟三：Confirmation
+			- ![image.png](../assets/image_1655629198218_0.png)
 			- #+BEGIN_TIP
 			  * 知識的詛咒：專家很難用白癡的話敘述一件事，所以呢？就叫白癡用問的！
 			  * 故意用錯誤的描述來引發討論 (何時做：當需求模糊不清。如何做：用具體的==錯誤==例子)
