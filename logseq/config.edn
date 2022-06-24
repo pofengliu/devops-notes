@@ -173,7 +173,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :graph/settings {:builtin-pages? true}
- :favorites ["實例化需求 (Specification by Examples)" "DevOps十年了，你，想改變了嗎?" "devops十年了，你，想改變了嗎？"]
+ :favorites ("DevOps十年了，你，想改變了嗎?" "開發流程的共識與目標" "實例化需求 (Specification by Examples)" "實例化需求 (Specification by Examples)/workshop" "devops十年了，你，想改變了嗎？")
  :journal/page-title-format "yyyy年MM月dd日"
  :feature/enable-journals? false
  :default-home {:page "About Me", :sidebar "contents"}
