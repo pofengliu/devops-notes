@@ -111,6 +111,8 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		- Also explain relation with:
 			- DOR → planning meeting
 			- DOD → task closed
+	- 思考點：
+		- [Why PO needs to say ‘No’ (1 mins) ](https://youtu.be/DoFj3Y_St74?t=200)
 - ## AC Practices
 - ## Gherkin HowTo
 	- ### How to Write Good Execution Specifications
