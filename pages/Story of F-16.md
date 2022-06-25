@@ -21,7 +21,7 @@
   * 世界上生產交付數量最多的第三代戰鬥機：累計生產交付超過4602架（訂單數量超過4700架）；
   * 世界上現役數量最多的第三代戰鬥機：現役超過3000架；
   * 世界上用戶國家最多的第三代戰鬥機：29個用戶國家；
--
+- Summary
 - ## Reference
 - [Wikipedia](https://zh.m.wikipedia.org/zh-hant/F-16%E6%88%B0%E9%9A%BC%E6%88%B0%E9%AC%A5%E6%A9%9F)
 - 原文網址：https://kknews.cc/military/6rznan3.html
