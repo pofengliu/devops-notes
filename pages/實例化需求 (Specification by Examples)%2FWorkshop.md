@@ -67,7 +67,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
 		- #### 步驟四：Construction
-			- ![image.png](../assets/image_1655630931631_0.png)
+			-
 		- #### 步驟五：Consequence
 			- 在每次的迭代後要去驗收結果。
 		-
