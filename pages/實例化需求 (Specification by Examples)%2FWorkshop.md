@@ -70,9 +70,9 @@ title:: 實例化需求 (Specification by Examples)/workshop
 			  ![image.png](../assets/image_1656141034341_0.png)
 		- #### 步驟五：Consequence
 			- 在每次的迭代後要去驗收結果。
-		-
-		- 大家你覺溝通的五個步驟中，哪個步驟的成本 (Cost) 最高？
-		- 大家你覺溝通的五個步驟中，哪個步驟的影響 (Impact) 最大？
+		- 思考點：
+			- 大家你覺溝通的五個步驟中，哪個步驟的成本 (Cost) 最高？
+			- 大家你覺溝通的五個步驟中，哪個步驟的影響 (Impact) 最大？
 	-
 - ## Refinement Meeting Explains
 	- <ins>什麼是產品代辦清單精煉</ins>
