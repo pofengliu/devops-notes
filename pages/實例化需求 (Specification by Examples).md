@@ -1,9 +1,9 @@
 - ## Process Overview:
   ![SeB & Acceptance Test.jpg](../assets/SeB_&_Acceptance_Test_1650361331009_0.jpg)
 - ## 實例化需求(Specification By Example)
-	- 實例化需求(SBE)是一種==協作的軟體開發方式==，使用具體的案例與自動化驗收測試來展示業務需求的一種模式，實例化需求能讓我們用以==正確的方向建置產品 (Build the right product)==。
+	- 實例化需求 (SBE) 是一種==協作的軟體開發方式==，使用具體的案例與自動化驗收測試來展示業務需求的一種模式，實例化需求能讓我們用以==正確的方向建置產品 (Build the right product)==。
 	  
-	  實例化需求對我們帶來的幫助
+	  ### 實例化需求對我們帶來的幫助
 	- 達成開發團隊內部對產品需求產生一致性的共識
 	- 減少溝通需求所花費的時間與成本
 	- 明確訂定需求範圍(reduce waste)
