@@ -66,8 +66,7 @@ type:: blogpost
 				- Application Observability（O11y，程式的可觀察性）
 	- 待續，持續更新中 ...
 - > Culture is how we think, what habits we create and what we do when we're interacting with each other every day.
-  ## 簡報
-  
+- ## 簡報
   <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
   <iframe src="https://speakerdeck.com/player/cf04f08b30f54c41ad76d0b180effd0b"
   style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"
