@@ -72,7 +72,7 @@
   :block/updated-at 1654333366095}
  {:block/name "story of f-16",
   :block/created-at 1653449131722,
-  :block/updated-at 1654329153916}
+  :block/updated-at 1656147153057}
  {:block/name "todo",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -99,7 +99,10 @@
   :block/updated-at 1655104778877}
  {:block/name "實例化需求 (specification by examples)/workshop",
   :block/created-at 1650049483555,
-  :block/updated-at 1655631714433}
+  :block/updated-at 1656149439973}
+ {:block/name "溝通無效率",
+  :block/created-at 1656147413897,
+  :block/updated-at 1656150113681}
  {:block/name "開發流程的共識與目標",
   :block/created-at 1655797606502, 
   :block/updated-at 1656065691353}]
