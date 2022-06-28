@@ -81,6 +81,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		- #+BEGIN_QUOTE
 		  Product Backlog refinement (PBR) is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ==ongoing activity== to add details, such as a description, order, and size. Attributes often vary with the domain of work. [Scrum guide](https://scrumguides.org/scrum-guide.html#product-backlog)
 		  #+END_QUOTE
+		- 其它請參照 [[精煉會議解釋]]
 	- <ins>精煉會議前置準備</ins>
 		- 通常一個使用者故事能放進精煉會議做AC的討論，一般是經過以下三步驟：
 		  * Phase 0: Preparation of user stories (PO to prioritize, remove dependencies)：通常由 tech lead 與 PO 做先行的討論與排序出重要性並找出無其它依賴能做更細節展開討論的項目，
