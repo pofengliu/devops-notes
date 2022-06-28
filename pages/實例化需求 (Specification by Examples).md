@@ -5,7 +5,7 @@
   ![image.png](../assets/image_1656336814628_0.png)
 - ## 實例化需求對我們帶來的幫助
   * 達成開發團隊內部對產品需求產生一致性的共識
-  * 減少溝通需求所花費的時間與成本
+  * 減少溝通需求所花費的時間與成本 (communicate efficiently)
   * 明確訂定需求範圍 (reduce waste)
   * 減少Production defect (upfront-design, shift-left testing)
   * 能快速修改反映需求上的變化 (living-document)
