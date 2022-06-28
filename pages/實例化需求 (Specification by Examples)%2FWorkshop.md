@@ -2,7 +2,7 @@ public:: true
 type:: blogpost
 title:: 實例化需求 (Specification by Examples)/workshop
 
--
+- {{embed ((62b99b45-8f82-4f1c-ab2f-807e4ba85e22))}}
 - ## SbE Introduction
 	- 實例化需求(SbE)是一種==協作==的軟體開發方式，使用==具體的案例與自動化驗收測試==來展示==業務需求==的一種模式 ，實例化需求能讓我們用以==正確的方向建置產品== (Build the right product) 。另外，實例化且有一致共識的需求規格，對於後續手動測試、測試自動化及 pipeline 的效率與信心都有莫大的影響，將於後續說明。
 - ## Specification Game and Communication Steps
