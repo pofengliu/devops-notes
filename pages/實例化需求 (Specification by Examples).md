@@ -16,7 +16,7 @@
 	  #+BEGIN_QUOTE
 	  What we see sometimes is, folks are very focused on automation and speeding things up, but not like, am I actually getting what I want from it? So for example, again, back to the automated testing example, often regression tests, there’s a lot of focus on ==automating everything==, but sometimes the output, the test results, are too difficult for a team to actually understand that they disregard the test.                 ~ Tim Cochran, Technical director at ThoughtWorks
 	  #+END_QUOTE
-	  一樣的，今天 pipeline 檢查了很多東西，但大家還是沒有信心，為何呢？ 因為沒有一個人真正了解整個測試的內容！RD 的 unit test，QA 的 integration test，都是沒有充分溝通的狀況下，各別自由發揮，以至於到後來彼此都不知道對方的做了些什麼，有什麼沒做，就連 Service QA 或 PM 也都無法掌握。而 SbE 讓全部的人對產品需求有一致共識與針對 key examples 所撰寫的自動化測試，才是讓大家對 pipeline 檢查的內容有
+	  一樣的，今天 pipeline 檢查了很多東西，但大家還是沒有信心，為何呢？ 因為沒有一個人真正了解整個測試的內容！RD 的 unit test，QA 的 integration test，都是沒有充分溝通的狀況下，各別自由發揮，以至於到後來彼此都不知道對方的做了些什麼，有什麼沒做，就連 Service QA 或 PM 也都無法掌握。==而 SbE 讓全部的人對產品需求有一致共識與針對 key examples 所撰寫的自動化測試，才是讓大家對 pipeline 檢查內容有全面了解的作法！==
 	  ![image.png](../assets/image_1656395591931_0.png)
 - ## 執行細節
   For full content, see "Hierarchy" section below
