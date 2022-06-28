@@ -1,3 +1,4 @@
+public:: true
 type:: blogpost
 title:: 實例化需求 (Specification by Examples)/workshop
 
