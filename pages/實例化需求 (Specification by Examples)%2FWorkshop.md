@@ -75,9 +75,9 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		- 會議目的：目的是讓 product backlog 隨時有足夠 1 至 2 個 sprint 的項目 (story) 符合 definition of ready (DoR) 的標準。這個活動可以避免 PO 在 sprint planning 會議時所帶來的 story 準備不足，當下團隊才忙著釐清許多問題，甚至有些外部相依性的問題無法在當場釐清，影響 sprint 的進行。
 		- 其它解釋可參照 [[精煉會議解釋]]
 	- <ins>精煉會議前置準備</ins>
-		- 通常一個使用者故事能放進精煉會議做AC的討論，一般是經過以下三步驟：
+		- 通常一個使用者故事能放進精煉會議做 AC 的討論，一般是經過以下三步驟：
 		  * Phase 0 - Preparation of user stories (PO to prioritize, remove dependencies)：通常由 tech lead 與 PO 做先行的討論與排序出重要性並找出無其它依賴能做更細節展開討論的項目。
-		  * Phase 1 - Estimate and split stories, consume/maintain product backlog：會議中 PO 說明故事卡內容並交由大家根據複雜度去估點或分拆為更小的使用者故事，重複步驟直到使用者故事複雜度小於 8 或 13 點 (根據團隊習慣)。
+		  * Phase 1 - Estimate and split stories, consume / maintain product backlog：會議中 PO 說明故事卡內容並交由大家根據複雜度去估點或分拆為更小的使用者故事，重複步驟直到使用者故事複雜度小於 8 或 13 點 (根據團隊習慣)。
 		  * Phase 2 - Key examples / acceptance criteria (for story point under 8/13)：對於夠小的故事根據重要性於會議中開始討論並產出此故事的驗收條件 (Acceptance Criteria)。
 	- <ins>會議週期與時間安排</ins>
 		- ![image.png](../assets/image_1656681357154_0.png)
