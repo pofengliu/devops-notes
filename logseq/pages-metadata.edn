@@ -1,6 +1,9 @@
 [{:block/name "2019年12月17日",
   :block/created-at 1650343842104,
   :block/updated-at 1650343842104}
+ {:block/name "62b99b45-8f82-4f1c-ab2f-807e4ba85e22",
+  :block/created-at 1656398713539,
+  :block/updated-at 1656398713539}
  {:block/name "a",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -33,7 +36,7 @@
   :block/updated-at 1650343842085}
  {:block/name "devops十年了，你，想改變了嗎?",
   :block/created-at 1654333391366,
-  :block/updated-at 1654333391366}
+  :block/updated-at 1656336295255}
  {:block/name "doing",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -96,13 +99,16 @@
   :block/updated-at 1653460026027}
  {:block/name "實例化需求 (specification by examples)",
   :block/created-at 1654332827208,
-  :block/updated-at 1655104778877}
+  :block/updated-at 1656399008915}
  {:block/name "實例化需求 (specification by examples)/workshop",
   :block/created-at 1650049483555,
-  :block/updated-at 1656149439973}
+  :block/updated-at 1656412254195}
  {:block/name "溝通無效率",
   :block/created-at 1656147413897,
   :block/updated-at 1656150113681}
+ {:block/name "精煉會議解釋",
+  :block/created-at 1656392422783,
+  :block/updated-at 1656394166367}
  {:block/name "開發流程的共識與目標",
   :block/created-at 1655797606502, 
-  :block/updated-at 1656065691353}]
+  :block/updated-at 1656325889915}]
