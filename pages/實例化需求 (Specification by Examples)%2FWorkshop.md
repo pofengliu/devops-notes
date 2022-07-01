@@ -5,7 +5,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 - {{embed ((62b99b45-8f82-4f1c-ab2f-807e4ba85e22))}}
 - ## Specification Game and Communication Steps
 	- 今天有一位地主要求建築師說：我想要以一個有十一個頂點的星形多邊形雕刻來裝飾我的外牆！但建築師在嘗試畫出十一星形圖時就發現，光十一頂點星形就有好幾種畫法，遑論還有邊長、角度、大小、顏色等等變異，那麼建築師要如何能確認需求呢？
-	- ![image.png](../assets/image_1651218824789_0.png)
+	  ![image.png](../assets/image_1651218824789_0.png)
 	  [Figure reference: https://en.wikipedia.org/wiki/Hendecagram](https://en.wikipedia.org/wiki/Hendecagram)
 	- 所以光一個簡單的圖形，光是用白底黑字的文字來描述需求就感受到其中的限制了，更不用說要用文字來溝通==複雜的商業邏輯==是件多沒有效率的事了...... 參照：[[溝通無效率]]
 	- ### Communication Effort
