@@ -5,8 +5,8 @@
   實例化需求 (SBE) 是一種==協作的軟體開發方式==，使用==具體的案例與自動化驗收測試來展示業務需求==的一種模式，實例化需求能讓我們用以==正確的方向建置產品 (Build the right product)==。而釐清需求的 Product backlog refinement meeting (PBR) 正好位在開發流程==中央的位置==，上承 product backlogs (planning) 下接 implementation and verification (development)。團隊能如實討論及產出 PBR 的交付項目，a.k.a "Acceptance Criteria"，才能有效確認開發上下游對產品需求的一致性! 另外，實例化且有一致共識的需求規格，對於後續==手動測試、測試自動化及 pipeline 的效率與信心都有莫大的影響==，將於後續說明。
   ![image.png](../assets/image_1656336814628_0.png)
 - ## 實例化需求對我們帶來的幫助
-	- ### SbE 的好處：
-	  * 達成開發團隊內部對產品需求產生一致性的共識
+	- ### SbE 為團隊帶來的好處：
+	  * 對產品需求產生一致性的共識
 	  * 減少溝通需求所花費的時間與成本 (communicate efficiently)
 	  * 明確訂定需求範圍 (reduce waste)
 	  * 減少Production defect (upfront-design, shift-left testing)
