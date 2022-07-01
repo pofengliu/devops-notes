@@ -80,7 +80,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		  * Phase 1: Estimate and split stories, consume/maintain product backlog：會議中 PO 說明故事卡內容並交由大家根據複雜度去估點或分拆為更小的使用者故事，重複步驟直到使用者故事複雜度小於 8 或 13 點 (根據團隊習慣)。
 		  * Phase 2: Key example / Acceptance Criteria (for story point under 8/13)：對於夠小的故事根據重要性於會議中開始討論並產出此故事的驗收條件(Acceptance Criteria)。
 	- <ins>會議週期與時間安排</ins>
-		- Week 1 || Week 2
+		- ![image.png](../assets/image_1656681357154_0.png)
 		- 若以兩週為一個 Sprint 週期來說，PBR 會議通常會安排在一、二週中間找個半天至一天的時間。
 	- #+BEGIN_TIP
 	  __Recommend__:
