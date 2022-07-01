@@ -9,7 +9,7 @@
 	  * 對產品需求產生一致性的共識
 	  * 減少溝通需求所花費的時間與成本 (communicate efficiently)
 	  * 明確訂定需求範圍 (reduce waste)
-	  * 減少事後重工與 (upfront-design, shift-left testing)
+	  * 減少事後重工與非預期狀況 (upfront-design, shift-left testing)
 	  * 能快速修改反映需求上的變化 (living-document)
 	- ### SbE 十年後的驗證
 	  [Specification by Example, 10 years later](https://gojko.net/2020/03/17/sbe-10-years.html)，內有說明 ==SbE 書籍相關論述==十年後社群調查的結果！
