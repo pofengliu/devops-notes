@@ -81,7 +81,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		  * Phase 2: Key example / Acceptance Criteria (for story point under 8/13)：對於夠小的故事根據重要性於會議中開始討論並產出此故事的驗收條件(Acceptance Criteria)。
 	- <ins>會議週期與時間安排</ins>
 		- ![image.png](../assets/image_1656681357154_0.png)
-		- 若以兩週為一個 Sprint 週期來說，PBR 會議通常會安排在一、二週中間找個半天至一天的時間。
+		- 若以兩週為一個 sprint 的週期來說，PBR 會議通常會安排在一、二週中間找個半天至一天的時間。
 	- #+BEGIN_TIP
 	  __Recommend__:
 	  	* Preserve ==5 ~ 10%== of your sprint work hour to do refinement meeting
