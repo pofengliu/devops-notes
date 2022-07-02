@@ -96,8 +96,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 	  * Explain AC to whole team
 	  一輪之後，各團隊輪流解釋成果給其它人聽，其它的隊伍可以提出問題質問。每團隊都講過後，各自再下去修改自己團隊的提案。
 	  * 2 ~ 3 rounds for each story
-	  兩至三輪後，團隊內應該可以對這個使用者故事能有一個基本的共識了。最後就算自己不是負責這個使用者故事的代碼實現，但是也因為參與過討論，也會了解這個使用者故事的內容了！另外呢，有爭議 (controversy) 的地方也盡量在 workshop 內就討論解決。
-	- Controversy (dispute) are discussed right in the workshop!
+	  兩至三輪後，團隊內應該可以對這個使用者故事能有一個基本的共識了。最後就算自己不是負責這個使用者故事的代碼實現，但是也因為參與過討論，也會了解這個使用者故事的內容了！另外呢，有爭議 (dispute) 的地方也盡量在 workshop 內就討論解決。
 	- #+BEGIN_TIP
 	  如果團隊沒有足夠時間這針對＂每個＂使用者故事分組下去討論，也應該每一組分配一個故事下去討論 AC，等所有故事都討論完後，每組上台介紹討論出來的 AC 給所有其它的團隊成員聽。
 	  #+END_TIP
