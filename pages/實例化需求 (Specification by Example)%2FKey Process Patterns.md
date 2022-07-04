@@ -4,4 +4,4 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 - ## Deriving scope from goals
 - ## Illustrating using examples
 - ## Refining the specification
-- ##
+- ## Automating validation without changing specifications
