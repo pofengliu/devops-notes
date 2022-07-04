@@ -30,6 +30,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  #+END_TIP
 - ## Refining the specification
   需求規格應該是精確、能被驗證、不言自明並且是跟商業規則有關係的。承上信用卡清算案例，一個明確的需求規格如下：
+  ![image.png](../assets/image_1656923937867_0.png)
 	- #+BEGIN_TIP
 	   Good specifications
 	  * Have a concise description
