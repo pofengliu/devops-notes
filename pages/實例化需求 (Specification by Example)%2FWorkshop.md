@@ -107,6 +107,13 @@ title:: 實例化需求 (Specification by Example)/Workshop
 			- DOR → planning meeting
 			- DOD → task closed
 	- What is AC?
+	  AC是用來探索需求的邊界(Triple Constraint)，而不是嘗試完善需求
+	  AC中要列出這需求最重要的事
+	  * Good paths
+	  * Significant error cases
+	  * To explain the biz logics behind
+	  * Conclusions of arguing, disputes after discussion (refinement meeting)
+	  * ==每個user story都要有AC，但不是每個user story都要花時間討論AC==
 	- 思考點：
 		- [Why PO needs to say ‘No’ (1 mins) ](https://youtu.be/DoFj3Y_St74?t=200)
 - ## AC Practices in Workshop
