@@ -12,13 +12,13 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
   Every acceptance criterion generates new examples; every example generates new scenarios. Teams should refine their specifications to merge similar examples, reject the ones that introduce noise, and choose the most meaningful or descriptive ones.
 - ## Refining the specification
   sdfs
-- ### Good Specifications
-  * Have a concise description
-  * Have a clear model
-  * Use business language
-  * Show a clear connection between inputs and outputs
-- Describe (focus on) WHAT not HOW
-- Avoid GUI specifics
+	- ### Good Specifications
+	  * Have a concise description
+	  * Have a clear model
+	  * Use business language
+	  * Show a clear connection between inputs and outputs
+	  * ==Describe (focus on) WHAT not HOW==
+	  * ==Avoid GUI specifics==
 - ## Automating validation without changing specifications
 - ## Validating frequently
 - ## Evolving a documentation system
