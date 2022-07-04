@@ -14,10 +14,10 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * ==Don’t invite discussions==
 	  * Technical model is misaligned with the business model
 	  * Described at the wrong level of abstraction
-	  * Usually means refining a story isn't done
+	  * ==Usually means refining a story isn't done==
 	- ### Key examples
 	  *  A small number of relatively simple scenario
-	  * Easy to evaluate and argue about boundary conditions
+	  * ==Easy to evaluate and argue about boundary conditions
 	  * Easier to discover and resolve inconsistencies
 	  * (raw examples won't provide above two advantages)
 	  * Right level of abstraction to describe situation better
