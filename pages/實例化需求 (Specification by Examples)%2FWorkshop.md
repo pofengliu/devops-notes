@@ -131,4 +131,5 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		- Specify Collaboratively:
 		  * Everyone participates in creating the examples so that the understanding is shared
 		  * This is less about the example itself and more about the conversation required to create the example
-	- ###
+	- ### Benefits
+	-
