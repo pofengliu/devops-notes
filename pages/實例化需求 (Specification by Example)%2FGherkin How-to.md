@@ -5,4 +5,7 @@ title:: 實例化需求 (Specification by Example)/Gherkin How-to
   在大家嘗試寫出 story 的 AC 時，或許你已經試著用到 Gherkin (Given-When-Then) 的方法又或許你還不習慣，接下來我們來看看如何寫出好的 Gherkin 文檔。
 - 範例：
   ![image.png](../assets/image_1656931933101_0.png)
-- ### a. Backgrouds
+- ### a. Story background & Rules：
+  * <In order to achieve goal><As a customer role><I want feature of ...>
+  * Description of business rules
+  * Plain language with domain terms
