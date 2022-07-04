@@ -117,10 +117,10 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		  * Overlooked requirements?
 		  * Interpreted a requirement incorrectly?
 		  * Built the wrong thing?
-	- (BA / Planner) Have you ever had a thought that:
-	  * Limited time to prepare detail spec?
-	  * Not sure everyone has the same understanding?
-	  * Why preparing spec & AC is my responsibility alone?
-	  * Hard to maintain out of date wiki document?
-	  * Why dev always needs to check code to figure out system behaviors?
-	  *
+		- (BA / Planner) Have you ever had a thought that:
+		  * Limited time to prepare detail spec?
+		  * Not sure everyone has the same understanding?
+		  * Why preparing spec & AC is my responsibility alone?
+		  * Hard to maintain out of date wiki document?
+		  * Why dev always needs to check code to figure out system behaviors?
+-
