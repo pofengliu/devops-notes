@@ -55,7 +55,7 @@ type:: blogpost
 		- 持續集成 (Continuous Integration)
 		- 單主幹開發（Trunk-based Development & Feature Toggles）
 		- 測試左移（在開發階段之前定義好測試以及將整合測試提前執行）
-			- [[實例化需求 (Specification by Examples)/Workshop]]
+			- [[實例化需求 (Specification by Example)/Workshop]]
 			- 測試自動化（Fast Test Automation）
 				- API 測試？ 想想 Consumer Driven Contract Testing
 				- 想更快？ 先做好 Test Isolation

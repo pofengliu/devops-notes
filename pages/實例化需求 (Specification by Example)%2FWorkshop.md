@@ -1,6 +1,6 @@
 public:: true
 type:: blogpost
-title:: 實例化需求 (Specification by Examples)/Workshop
+title:: 實例化需求 (Specification by Example)/Workshop
 
 - {{embed ((62b99b45-8f82-4f1c-ab2f-807e4ba85e22))}}
 - ## Specification Game and Communication Steps
