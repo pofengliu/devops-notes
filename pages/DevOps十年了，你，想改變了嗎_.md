@@ -1,3 +1,4 @@
+public:: true
 title:: DevOps十年了，你，想改變了嗎?
 publish:: [[2019年12月17日]]
 type:: blogpost

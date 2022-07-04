@@ -1,3 +1,5 @@
+public:: true
+
 - ## Process Overview:
   ![SeB & Acceptance Test.jpg](../assets/SeB_&_Acceptance_Test_1650361331009_0.jpg)
 - ## 實例化需求 (Specification By Example)
