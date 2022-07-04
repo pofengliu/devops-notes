@@ -35,4 +35,4 @@
   * Keep specifications as simple and short as possible
   * Organize specifications (by functionality)
   * Evolve specifications
-  * Make documentation accessible
+  * ==Make documentation accessible==
