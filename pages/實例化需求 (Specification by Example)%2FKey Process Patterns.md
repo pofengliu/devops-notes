@@ -29,7 +29,6 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Modularized software reduces future maintenance costs
 	  #+END_TIP
 - ## Refining the specification
-  sdf
 	- #+BEGIN_TIP
 	   Good specifications
 	  * Have a concise description
