@@ -106,6 +106,7 @@ title:: 實例化需求 (Specification by Example)/Workshop
 		- Also explain relation with:
 			- DOR → planning meeting
 			- DOD → task closed
+	- What is AC?
 	- 思考點：
 		- [Why PO needs to say ‘No’ (1 mins) ](https://youtu.be/DoFj3Y_St74?t=200)
 - ## AC Practices in Workshop
