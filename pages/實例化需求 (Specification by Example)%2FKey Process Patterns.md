@@ -14,7 +14,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Don’t invite discussions
 	  * Technical model is misaligned with the business model
 	  * Described at the wrong level of abstraction
-	  * Usually meansrefining a story isn't done
+	  * Usually means refining a story isn't done
 	- ### Key examples
 - ## Refining the specification
   sdfs
