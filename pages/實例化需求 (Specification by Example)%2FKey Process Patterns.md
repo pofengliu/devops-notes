@@ -44,7 +44,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  ![image.png](../assets/image_1656923368787_0.png) 
 	  思考點：當預付點數只剩 6.5 但票價要 7 元時，你買還是不賣這票呢？
 - ## Automating validation without changing specifications
-  驗證實作目標確保實作部份後面章節會有相關程式碼展示。
+  驗證實作目標確保符合商業需求，實作部份後面章節會有相關程式碼展示。
 - ## Validating frequently
   每當有程式碼提交到版本管控系統，則觸發相關的 continuous integration pipeline 自動執行這些自動化測試，以確保系統符合業務目標。
 - ## Evolving a documentation system
