@@ -112,4 +112,14 @@ title:: 實例化需求 (Specification by Examples)/workshop
   請有經驗有在實作 SbE 的團隊，準備一份合適 workshop 練習的 user story card，並分組下去依照上述實行方法開始練習。
 - ## Summary
   我們從溝通效率方法論到實踐溝通效率的五個步驟，然後對精煉會議的詳加解釋與練習。希望大家能了解這些步驟背後的意義、想解決的問題及能帶來的好處，大家權衡之後能討論出最合適團隊長期重複實踐的步驟。
-	- ### Problem
+	- ### Problems of Today
+	- (Dev / QA) Have you ever had:
+	  * overlooked requirements?
+	  * interpreted a requirement incorrectly?
+	  * built the wrong thing?
+	- (BA / Planner) Have you ever had a thought that:
+	  limited time to prepare detail spec?
+	  not sure everyone has the same understanding?
+	  why preparing spec & AC is my responsibility alone?
+	  hard to maintain out of date wiki document?
+	  why dev always needs to check code to figure out system behaviors?
