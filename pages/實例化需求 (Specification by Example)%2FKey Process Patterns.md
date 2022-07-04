@@ -11,7 +11,11 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
   團隊成員通過工作坊的方式制定需求規格，通常來說，先用實例來描述，推測一些規律，轉成用表格表達，可能發現更準確的規律。
   Every acceptance criterion generates new examples; every example generates new scenarios. Teams should refine their specifications to merge similar examples, reject the ones that introduce noise, and choose the most meaningful or descriptive ones.
 	- ### Complex specifications
-- ### Key examples
+	  * Don’t invite discussions
+	  * Technical model is misaligned with the business model
+	  * Described at the wrong level of abstraction
+	  * Usually meansrefining a story isn't done
+	- ### Key examples
 - ## Refining the specification
   sdfs
 	- ### Good Specifications
