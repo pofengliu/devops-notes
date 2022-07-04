@@ -132,4 +132,17 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		  * Everyone participates in creating the examples so that the understanding is shared
 		  * This is less about the example itself and more about the conversation required to create the example
 	- ### Benefits
+		- Defined Scope:
+		  * Realistic examples v.s. abstract statements
+		  * Reveals Overlooked Requirements
+		  * Accurate Story/Task Estimations
+		- Higher Quality:
+		  * Collaboration Between QA/DEV/PO
+		  * Shares the same understanding and quality responsibility
+		  * Increased Productivity and builds it right the first time
+		- Acceptance Criteria(AC) & Living Doc:
+		  * Up-to-date spec materials
+		  * Single source of truth for dev (TDD), QA (manual/auto) testings
+		  * AC become the system's regression suite
+		  * A story is done when all tests pass (transparency of dev progress)
 	-
