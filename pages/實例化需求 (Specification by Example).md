@@ -25,6 +25,7 @@
   * Focus on collaboration and communication
   * Don’t jump to implementation details
   * Seek for missing business concepts
+  * Group by commonality and focus only on variations
   * Try it out!
   * Try preserve business language
   * Plan up-front to automate
