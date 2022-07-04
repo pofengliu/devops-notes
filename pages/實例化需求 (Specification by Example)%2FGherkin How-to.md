@@ -10,8 +10,11 @@ title:: 實例化需求 (Specification by Example)/Gherkin How-to
   * Description of business rules
   * Plain language with domain terms
 - ### b. Scenario：
-- What's special about this example??
-- With short summary as the scenario title
-- Describe What not How (to implement / test)
-- Clear input / output (model)
+  * What's special about this example??
+  * With short summary as the scenario title
+  * Describe What not How (to implement / test)
+  * Clear input / output (model)
 - ### c. Examples：
+  * Testable cases
+  * Explicit values for relevant data (only) , no redundant data
+  * Contrasting examples and counter-examples
