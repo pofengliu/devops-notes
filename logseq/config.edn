@@ -177,7 +177,7 @@
  :journal/page-title-format "yyyy年MM月dd日"
  :feature/enable-journals? false
  :default-home {:page "About Me", :sidebar "contents"}
- :publishing/all-pages-public? true
+ :publishing/all-pages-public? false
  :feature/enable-timetracking? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
