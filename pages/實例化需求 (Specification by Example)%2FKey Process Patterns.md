@@ -5,3 +5,6 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 - ## Illustrating using examples
 - ## Refining the specification
 - ## Automating validation without changing specifications
+- ## Validating frequently
+- ## Evolving a documentation system
+-
