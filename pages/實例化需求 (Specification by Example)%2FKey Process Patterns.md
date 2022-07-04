@@ -8,7 +8,8 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
   ![image.png](../assets/image_1656916571952_0.png)
   Figure. Illustrating specifying collaboratively, by Gojko and Jeff Patton & Associates
 - ## Determine Key Examples
-  團隊成員通過工作坊的方式制定需求規格
+  團隊成員通過工作坊的方式制定需求規格，通常來說，先用實例來描述，推測一些規律，轉成用表格表達，可能發現更準確的規律。
+- Every acceptance criterion generates new examples; every example generates new scenarios. Teams should refine their specifications to merge similar examples, reject the ones that introduce noise, and choose the most meaningful or descriptive ones.
 - ## Refining the specification
 - ## Automating validation without changing specifications
 - ## Validating frequently
