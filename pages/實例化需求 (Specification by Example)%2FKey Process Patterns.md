@@ -44,7 +44,9 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  ![image.png](../assets/image_1656923368787_0.png) 
 	  思考點：當預付點數只剩 6.5 但票價要 7 元時，你買還是不賣這票呢？
 - ## Automating validation without changing specifications
+  實作部份後面章節會有相關程式碼展示。
 - ## Validating frequently
+  每當
 - ## Evolving a documentation system
-  藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)，後續會有相關程式碼展示。
+  藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)。
 -
