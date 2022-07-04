@@ -9,3 +9,9 @@ title:: 實例化需求 (Specification by Example)/Gherkin How-to
   * <In order to achieve goal><As a customer role><I want feature of ...>
   * Description of business rules
   * Plain language with domain terms
+- ### b. Scenario：
+- What's special about this example??
+- With short summary as the scenario title
+- Describe What not How (to implement / test)
+- Clear input / output (model)
+- ### c. Examples：
