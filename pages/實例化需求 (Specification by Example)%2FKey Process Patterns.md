@@ -29,6 +29,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Modularized software reduces future maintenance costs
 	  #+END_TIP
 - ## Refining the specification
+  需求規格應該是精確、能被測試、
 	- #+BEGIN_TIP
 	   Good specifications
 	  * Have a concise description
