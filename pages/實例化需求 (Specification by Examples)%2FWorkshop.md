@@ -128,7 +128,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		  * Concrete examples drive understanding and consensus
 		  * Examples inspire the imagination
 		  * Examples expose missing requirements
-		  
-		  Specify Collaboratively:
-		- Everyone participates in creating the examples so that the understanding is shared
-		- This is less about the example itself and more about the conversation required to create the example
+		- Specify Collaboratively:
+		  * Everyone participates in creating the examples so that the understanding is shared
+		  * This is less about the example itself and more about the conversation required to create the example
+	- ###
