@@ -25,14 +25,16 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Modularized software reduces future maintenance costs
 - ## Refining the specification
   sdf
-  思考點：當儲存點數只有 6.5 但票價要
-	- ### Good Specifications
+  思考點：當預付點數只剩 6.5 但票價要 7 元時，你買還是不賣這票呢？
+	- #+BEGIN_TIP
+	   ### Good Specifications
 	  * Have a concise description
 	  * Have a clear model
 	  * Use business language
 	  * Show a clear connection between inputs and outputs
 	  * ==Describe (focus on) WHAT not HOW==
 	  * ==Avoid GUI specifics==
+	  #+END_TIP
 - ## Automating validation without changing specifications
 - ## Validating frequently
 - ## Evolving a documentation system
