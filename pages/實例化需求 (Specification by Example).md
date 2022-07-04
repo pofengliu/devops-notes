@@ -29,8 +29,7 @@
   * Try preserve business language
   * Plan up-front to automate
   * Treat automation code as first class citizen
-  * Validate frequently
-  * Include in CI
+  * Validate frequently and include in CI
   * Consider having an “sprint” test suite (valuable to show progress)
   * Living documentation
   * Keep specifications as simple and short as possible
