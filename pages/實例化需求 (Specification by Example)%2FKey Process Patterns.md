@@ -24,7 +24,8 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Satisfy business needs faster
 	  * Modularized software reduces future maintenance costs
 - ## Refining the specification
-  sdfs
+  sdf
+  思考點：當儲存點數只有 6.5 但票價要
 	- ### Good Specifications
 	  * Have a concise description
 	  * Have a clear model
