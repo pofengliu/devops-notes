@@ -65,7 +65,16 @@ title:: 實例化需求 (Specification by Example)/Workshop
 		- 思考點：
 			- 大家你覺溝通的五個步驟中，哪個步驟的成本 (Cost) 最高？
 			- 大家你覺溝通的五個步驟中，哪個步驟的影響 (Impact) 最大？
-	-
+	- #+BEGIN_QUOTE
+	  “Specification is not a programming technique, but a communication technique”
+	                                                                   ~ Gojko Adzic — Bridging the Communication Gap
+	  #+END_QUOTE
+	- #+BEGIN_QUOTE
+	  “Having a conversation
+	  is more important than recording the conversation
+	  is more important than automating the conversation”
+	                                                                                        ~ Liz Koegh
+	  #+END_QUOTE
 - ## Refinement Meeting Explains
 	- <ins>什麼是產品代辦清單精煉</ins>
 		- 經由一項持續進行的活動對於代辦事項不斷的做梳理、拆解與排序，使其更小且定義更精確，可參考 Scrum guide 的描述：
