@@ -49,4 +49,3 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
   每當有程式碼提交到版本管控系統，則觸發相關的 continuous integration pipeline 自動執行這些自動化測試，以確保系統符合業務目標。
 - ## Evolving a documentation system
   藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)。如何從規格文檔產生活文件，實作部份後面章節會有相關展示。
--
