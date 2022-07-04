@@ -101,8 +101,8 @@ title:: 實例化需求 (Specification by Examples)/workshop
 	  如果團隊沒有足夠時間這針對＂每個＂使用者故事分組下去討論，也應該==每一組分配一個故事==下去討論 AC，等所有故事都討論完後，每組上台介紹討論出來的 AC 給所有其它的團隊成員聽。
 	  #+END_TIP
 	- Example 寫甚麼？
-	  * Specific example for AC. Golden user cases. Business logics.
-	  * 要求團隊以外的人來讀讀寫出來的 AC，看看也是否可以理解這個 story 要達成的目標
+	  * Specific examples for AC, golden user cases, business logics.
+	  * 要求團隊以外的人來讀讀寫出來的 AC，看看也是否可以理解這個 story 想要達成的目標
 		- Also explain relation with:
 			- DOR → planning meeting
 			- DOD → task closed
