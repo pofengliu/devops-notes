@@ -26,15 +26,15 @@
   * Don’t jump to implementation details
   * Seek for missing business concepts
   * Try it out! (Also a full day workshop)
-- Automate
-- Try preserve business language
-- Plan up-front to automate
-- Treat automation code as first class citizen
-- Validate frequently
-- Include in CI
-- Consider having an “sprint” test suite (valuable to show progress)
-- Living documentation
-- Keep specifications as simple and short as possible
-- Organize specifications (by functionality)
-- Evolve specifications
-- Make documentation accessible
+  * Automate
+  * Try preserve business language
+  * Plan up-front to automate
+  * Treat automation code as first class citizen
+  * Validate frequently
+  * Include in CI
+  * Consider having an “sprint” test suite (valuable to show progress)
+  * Living documentation
+  * Keep specifications as simple and short as possible
+  * Organize specifications (by functionality)
+  * Evolve specifications
+  * Make documentation accessible
