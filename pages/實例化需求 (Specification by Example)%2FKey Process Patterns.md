@@ -16,6 +16,14 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Described at the wrong level of abstraction
 	  * Usually means refining a story isn't done
 	- ### Key examples
+	- * A small number of relatively simple scenario
+	- * Easy to understand and implementation
+	- * Easy to evaluate and argue about boundary conditions
+	- * Easier to discover and resolve inconsistencies
+	- * (raw examples won't provide above two advantages)
+	- right level of abstraction to describe situation better
+	- satisfy business needs faster
+	- modularised software reduces future maintenance costs
 - ## Refining the specification
   sdfs
 	- ### Good Specifications
