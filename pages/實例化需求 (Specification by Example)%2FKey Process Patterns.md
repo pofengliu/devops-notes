@@ -18,7 +18,8 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Described at the wrong level of abstraction
 	  * ==Usually means refining a story isn't done==
 	  #+END_TIP
-	- ### Key examples
+	- #+BEGIN_TIP
+	  Key examples
 	  *  A small number of relatively simple scenario
 	  * ==Easy to evaluate and argue about boundary conditions==
 	  * Easier to discover and resolve inconsistencies
@@ -26,6 +27,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 	  * Right level of abstraction to describe situation better
 	  * Satisfy business needs faster
 	  * Modularized software reduces future maintenance costs
+	  #+END_TIP
 - ## Refining the specification
   sdf
   思考點：當預付點數只剩 6.5 但票價要 7 元時，你買還是不賣這票呢？
