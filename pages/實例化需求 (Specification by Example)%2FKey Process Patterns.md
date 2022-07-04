@@ -46,5 +46,5 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 - ## Automating validation without changing specifications
 - ## Validating frequently
 - ## Evolving a documentation system
-  藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)
+  藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)，後續會有相關程式碼展示。
 -
