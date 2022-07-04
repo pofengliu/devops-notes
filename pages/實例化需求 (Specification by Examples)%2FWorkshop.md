@@ -123,12 +123,11 @@ title:: 實例化需求 (Specification by Examples)/workshop
 		  * Why preparing spec & AC is my responsibility alone?
 		  * Hard to maintain out of date wiki document?
 		  * Why dev always needs to check code to figure out system behaviors?
-	- How SbE Helps
+	- ### How SbE Helps
 		- Key Examples:
-		- Concrete examples drive understanding and consensus
-		- Examples clear up ambiguity and misunderstandings
-		- Examplesinspire the imagination
-		- Examples expose missing requirements
+		  * Concrete examples drive understanding and consensus
+		  * Examples inspire the imagination
+		  * Examples expose missing requirements
 		  
 		  Specify Collaboratively:
 		- Everyone participates in creating the examples so that the understanding is shared
