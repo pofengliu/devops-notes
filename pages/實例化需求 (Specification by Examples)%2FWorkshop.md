@@ -102,7 +102,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 	  #+END_TIP
 	- Example 寫甚麼？
 	  * Specific example for AC. Golden user cases. Business logics.
-	  * Standard: Ask somebody else to read the AC and tell the story
+	  * 要求團隊以外的人來讀讀 AC and tell the story
 		- Also explain relation with:
 			- DOR → planning meeting
 			- DOD → task closed
