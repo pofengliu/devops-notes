@@ -46,7 +46,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 - ## Automating validation without changing specifications
   實作部份後面章節會有相關程式碼展示。
 - ## Validating frequently
-  每當有程式碼提交到版本管控系統，則相關的 continuous integration pipeline 則會自動驗證這些
+  每當有程式碼提交到版本管控系統，則觸發相關的 continuous integration pipeline 則會自動驗證這些
 - ## Evolving a documentation system
   藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)。
 -
