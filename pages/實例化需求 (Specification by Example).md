@@ -25,8 +25,7 @@
   * Focus on collaboration and communication
   * Don’t jump to implementation details
   * Seek for missing business concepts
-  * Try it out! (Also a full day workshop)
-  * Automate
+  * Try it out!
   * Try preserve business language
   * Plan up-front to automate
   * Treat automation code as first class citizen
