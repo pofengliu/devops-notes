@@ -131,7 +131,7 @@ title:: 實例化需求 (Specification by Example)/Workshop
 		  * Not sure everyone has the same understanding?
 		  * Why preparing spec & AC is my responsibility alone?
 		  * Hard to maintain out of date wiki document?
-		  * Why dev always needs to check code to figure out system behaviors?
+		  * ==Why dev always needs to check code to figure out system behaviors?==
 	- ### How SbE Helps
 		- Key Examples:
 		  * Concrete examples drive understanding and consensus
