@@ -111,4 +111,4 @@ title:: 實例化需求 (Specification by Examples)/workshop
 - ## AC Practices in Workshop
   請有經驗有在實作 SbE 的團隊，準備一份合適 workshop 練習的 user story card，並分組下去依照上述實行方法開始練習。
 - ## Summary
-  我們從溝通效率方法論到實踐溝通效率的五個步驟
+  我們從溝通效率方法論到實踐溝通效率的五個步驟，然後對精煉會議的詳加解釋與練習。
