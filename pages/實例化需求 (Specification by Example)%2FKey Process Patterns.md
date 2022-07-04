@@ -27,7 +27,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
   sdf
   思考點：當預付點數只剩 6.5 但票價要 7 元時，你買還是不賣這票呢？
 	- #+BEGIN_TIP
-	   ### Good Specifications
+	   Good Specifications
 	  * Have a concise description
 	  * Have a clear model
 	  * Use business language
