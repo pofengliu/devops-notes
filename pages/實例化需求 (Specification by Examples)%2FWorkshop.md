@@ -109,7 +109,7 @@ title:: 實例化需求 (Specification by Examples)/workshop
 	- 思考點：
 		- [Why PO needs to say ‘No’ (1 mins) ](https://youtu.be/DoFj3Y_St74?t=200)
 - ## AC Practices in Workshop
-  請有經驗有在實作
+  請有經驗有在實作 SbE 的團隊，準備一份合適 workshop 練習的 user story card，並分組下去依照上述
 - ## Gherkin HowTo
 	- ### How to Write Good Execution Specifications
 	- ### Some Bad Examples
