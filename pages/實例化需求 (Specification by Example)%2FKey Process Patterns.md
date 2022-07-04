@@ -6,7 +6,7 @@ title:: 實例化需求 (Specification by Example)/Key Process Patterns
 - ## Specifying Collaboratively
   SbE 的重點之一，經由團隊的共同討論 (face-to-face with whiteboard) 並探索出最佳解法 (solutions)。
   ![image.png](../assets/image_1656916571952_0.png)
-  Figure. Illustrate specifying collaboratively, most by Jeff Patton
+  Figure. Illustrate specifying collaboratively, by Jeff Patton & Associates
 - ## Determine Key Examples
   團隊成員通過工作坊的方式制定需求規格
 - ## Refining the specification
