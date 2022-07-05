@@ -44,9 +44,9 @@ public:: true
 	  #+END_TIP
 	  ![image.png](../assets/image_1656923368787_0.png) 
 	  思考點：當預付點數只剩 6.5 但票價要 7 元時，你買還是不賣這票呢？
-- ## Automating validation without changing specifications
+- ## 進行自動化驗證 (Automating validation without changing specifications)
   以自動化測試驗證實作標的來確保符合商業需求，實作 executable specifications 部份，後面章節會有相關程式碼展示。所以這些可被執行的規格文檔可用來說明程式的功能 (functionality) 與行為 (behaviors)，並針對當下的程式代碼檢驗規格的完整性 (compliance)。
-- ## Validating frequently
+- ## 頻繁的驗證 (Validating frequently)
   每當有程式碼提交到版本管控系統，則觸發相關的 continuous integration pipeline 自動執行這些自動化測試，以確保系統符合業務目標。
 - ## Evolving a documentation system
   藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)。如何從規格文檔產生活文件，實作部份後面章節會有相關展示。
