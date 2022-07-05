@@ -31,7 +31,7 @@ public:: true
 	  * Modularized software reduces future maintenance costs
 	  #+END_TIP
 	- #+BEGIN_NOTE
-	  別忘了，此處的關鍵實例或是之後精煉過的需求規格，也正是 sotry 能進入 sprint planning 做討論
+	  別忘了，此處的關鍵實例或是之後精煉過的需求規格，也正是這個 sotry 能帶進 sprint planning meeting 做討論的條件之一
 	  #+END_NOTE
 - ## 精煉需求規格 (Refining the specification)
   需求規格應該是精確、能被驗證、不言自明並且是跟商業規則有關係的。承上信用卡清算案例，一個明確的需求規格如下：
