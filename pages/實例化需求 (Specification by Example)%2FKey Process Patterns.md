@@ -77,5 +77,6 @@ public:: true
 	  #+END_CAUTION
 - ## 頻繁的驗證 (Validating frequently)
   每當有程式碼提交到版本管控系統，則觸發相關的 continuous integration pipeline 自動執行這些自動化測試，以確保系統符合業務目標。
+  ![image.png](../assets/image_1657019356205_0.png)
 - ## 演變為說明文件系統 (Evolving a documentation system)
   藉由不斷地更新需求規格 (specifications) 來反映商業邏輯上的變化，並演化成活的說明文件系統 (Living Documentation)。如何從規格文檔產生活文件，實作部份後面章節會有相關展示。
