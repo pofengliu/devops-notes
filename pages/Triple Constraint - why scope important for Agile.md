@@ -11,7 +11,8 @@ public:: true
 	  #+END_NOTE
 - ## About Quality
 	- CASE I: [Specification by Example, 10 years later](https://gojko.net/2020/03/17/sbe-10-years.html)，內有說明 ==SbE 書籍相關論述==十年後社群調查的結果！
-	- CASE II:
+	- CASE II: Cleanroom development
+	  ![image.png](../assets/image_1657014849680_0.png) 
 	  We applied:
 	  * Specification by Example 
 	  * Acceptance and extensive Unit Testing 
