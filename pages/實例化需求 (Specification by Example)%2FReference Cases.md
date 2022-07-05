@@ -9,6 +9,10 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
   #+END_NOTE
 - ---
 - ![image.png](../assets/image_1657011914880_0.png)
+  
+  #+BEGIN_NOTE
+  看到的現象是，當寫 code 前就有了 AC 
+  #+END_NOTE 
   Q: AE asked what to test/auto if developer has done AC auto in unit-test??
 - ---
 - ![image.png](../assets/image_1657012150667_0.png)
