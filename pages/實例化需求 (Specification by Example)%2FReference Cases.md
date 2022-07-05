@@ -11,7 +11,7 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
 - ![image.png](../assets/image_1657011914880_0.png)
   
   #+BEGIN_NOTE
-  看到的現象是，當寫 code 前就有了 AC，RD 寫 unit test 的方式也就很容易 align AC 內的 examples 
+  看到的現象是，當寫 code 前就有了 AC，RD 寫 unit test 的方式也就很容易尊守 (align) AC 內的 examples !
   #+END_NOTE 
   Q: AE asked what to test/auto if developer has done AC auto in unit-test??
 - ---
