@@ -4,8 +4,8 @@
   * define requirement scope and reduce communication efforts
   * conduct Sprint backlog refinement meeting and produce acceptance criteria (AC)
   * get higher quality and boost CI/CD adoption
+  
   SbE is an up-front design methodology, a collaboration tool and it comes along with more benefits including what’s specified above, though it is powerful but easily to do it wrong. This hands-on workshop will show you how SbE bridge the Sprint planning and the whole development lifecycle and more...
--
 - ## Agenda
   * SbE Introduction
   * Refinement meeting explains
