@@ -23,5 +23,6 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
   In some teams here, after sprint backlog refinement meeting, someone will ==take pictures== from the whiteboard (as figure below) then ==somebody else== will transform it to Gherkin format and put it in wiki or in code.
   Or somebody else might be service QA, TE or the story king (RD who owns the story) will do the job, ==it really does not matter who do it because everyone in the team already agree upon what's discussed on the whiteboard!==
 - ---
-- 因為，減少了頻繁的溝通，來來回回的詢問變少了，速度就變快了
+- ![image.png](../assets/image_1657020558882_0.png) 
+  因為，減少了頻繁的溝通，來來回回的詢問變少了，速度就變快了
 -
