@@ -31,16 +31,17 @@ public:: true
 	  * Modularized software reduces future maintenance costs
 	  #+END_TIP
 	- #+BEGIN_NOTE
-	  別忘了，此處的關鍵實例或是之後精煉過的需求規格，也正是這個 sotry 能帶進 sprint planning meeting 做討論的條件之一，因為它正符合了 story DoR 的 "checkable" 條件！
-	  Gojko Adžić @ 《Specification by Example》
+	  * 別忘了，此處的關鍵實例或是之後精煉過的需求規格，也正是這個 sotry 能帶進 sprint planning meeting 做討論的條件之一，因為它正符合了 story DoR 的 "checkable" 條件！
+	  
+	  * Gojko Adžić @ 《Specification by Example》
 	  Sprint 正式開始之前，每個團隊將至少擁有一至兩個故事，且各自具備已經對自動化做好準備的、詳細的、附帶實例的 spec。
 	  
 	  Story candidate 應該具備 V.I.N.C.E. 條件 or INVEST
-	  有價值（Valuable）：對使用者的價值有被清楚的表明
-	  可獨立（Independable）：沒有外部的相依性會阻礙這個story的完成
-	  可協調（Negotiable）：提供足夠細節但容許後續討論與更動
-	  可驗證（Checkable）： 所有驗收條件已經被清楚描述
-	  可估計（Estimable）：估算過且應該可以在一個sprint內完
+	  * 有價值（Valuable）：對使用者的價值有被清楚的表明
+	  * 可獨立（Independable）：沒有外部的相依性會阻礙這個story的完成
+	  * 可協調（Negotiable）：提供足夠細節但容許後續討論與更動
+	  * 可驗證（Checkable）： 所有驗收條件已經被清楚描述
+	  * 可估計（Estimable）：估算過且應該可以在一個sprint內完
 	  #+END_NOTE
 - ## 精煉需求規格 (Refining the specification)
   需求規格應該是精確、能被驗證、不言自明並且是跟商業規則有關係的。承上信用卡清算案例，一個明確的需求規格如下：
