@@ -8,7 +8,7 @@ public:: true
   ![image.png](../assets/image_1656336814628_0.png)
 - ## 實例化需求對我們帶來的幫助
 	- ### SbE 為團隊帶來的好處：
-	  * 對產品需求產生一致性的共識 (consensus)
+	  * 對產品需求產生一致性的共識 (same goals)
 	  * 減少溝通需求所花費的時間與成本 (communicate efficiently)
 	  * 明確訂定需求範圍 (reduce waste)
 	  * 減少事後重工與線上非預期狀況 (upfront-design, shift-left testing)
