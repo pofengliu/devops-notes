@@ -51,7 +51,10 @@ public:: true
 	  * 有了關鍵實例，是不是對實行 TDD 又更近了一步？
 	  * What should be unit test cases?
 	    * (x) Test implementation details?
-	    * (x) 腦補的 test cases / test scenarios?
+	    * (x) 腦補的 test cases / user scenarios?
+	    * (v) cases to fulfill acceptance criteria?
+	  * What is acceptance test:
+	  
 	  #+END_NOTE
 	- #+BEGIN_CAUTION
 	  從上一步驟你應該發現，自動化測試的目標為精煉過後的 key examples，沒錯就是＂關鍵實例＂！一般常見的錯誤印象就是 CI Pipeline 的 automation 就是要做好做滿，所有的手動測試案例都應該要變成自動化，這樣的 coverage 才會高，對 pipeline 的結果才會有信心 ，其實是適得其反 ... 最重要的其實是要把能闡述業務邏輯與行為的關鍵實例作自動化就好，並且要讓團隊了解 pipeline 執行的內容，清楚了解對於使用者最重要的案例都已經自動驗證過了，這才是 CI pipeline 信心的來源！
