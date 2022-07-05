@@ -47,7 +47,7 @@ public:: true
 - ## 進行自動化驗證 (Automating validation without changing specifications)
   以自動化測試驗證實作標的來確保符合商業需求，實作 executable specifications 部份，後面章節會有相關程式碼展示。所以這些可被執行的規格文檔可用來說明程式的功能 (functionality) 與行為 (behaviors)，並針對當下的程式代碼檢驗規格的完整性 (compliance)。
 	- #+BEGIN_CAUTION
-	  從上圖你會發現，自動化測試的目標為精煉過後的 key examples，沒錯就是＂關鍵實例＂！一般常見的錯誤印象就是 CI Pipeline 的 automation 就是要做好做滿，所有的手動測試案例都應該要變成自動化，這樣的 coverage 才會高，對 pipeline 的結果才會有信心 ，其實是適得其反 ... 最重要的其實是要把能闡述業務邏輯與行為的關鍵實例作自動化就好，並且要讓團隊了解 pipeline 執行的內容，清楚了解對於使用者最重要的案例都已經自動驗證過了，這才是 CI pipeline 信心的來源！
+	  從上一步驟你應該發現，自動化測試的目標為精煉過後的 key examples，沒錯就是＂關鍵實例＂！一般常見的錯誤印象就是 CI Pipeline 的 automation 就是要做好做滿，所有的手動測試案例都應該要變成自動化，這樣的 coverage 才會高，對 pipeline 的結果才會有信心 ，其實是適得其反 ... 最重要的其實是要把能闡述業務邏輯與行為的關鍵實例作自動化就好，並且要讓團隊了解 pipeline 執行的內容，清楚了解對於使用者最重要的案例都已經自動驗證過了，這才是 CI pipeline 信心的來源！
 	  Reference: ((62ba9533-3e8b-4ed1-a3cd-1f8143878aae)) 
 	  #+END_CAUTION
 - ## 頻繁的驗證 (Validating frequently)
