@@ -127,6 +127,7 @@ title:: 實例化需求 (Specification by Example)/Workshop
 	  * ==每個 user story 都要有 AC，但不是每個 user story 都要花時間討論 AC==
 	- 思考點：
 		- [Why PO needs to say ‘No’ (1 mins) ](https://youtu.be/DoFj3Y_St74?t=200)
+		  以「捨棄」和「不作」來加快工作的起步速度。 ~ 最快的加速法
 - ## AC Practices in Workshop
   請有經驗有在實作 SbE 的團隊，準備一份合適 workshop 練習的 user story card，並分組下去依照上述實行方法開始練習。
 - ## Summary
