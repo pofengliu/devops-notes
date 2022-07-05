@@ -4,8 +4,8 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
 - ![image.png](../assets/image_1657011600167_0.png)
   #+BEGIN_NOTE
   Guys, doing SbE is not to list down all test cases, you should focus on:
-  * Collaboratively:
-  * Key Examples: use real data and find more higher level of abstraction to group similar cases
+  * Collaboratively: if PO prepares the AC, then the rest of team won't think hard if there 
+  * Key Examples: use real data and find more ==higher level of abstraction to group== similar cases
   #+END_NOTE
 - ![image.png](../assets/image_1657011914880_0.png)
   Q: AE asked what to test/auto if developer has done AC auto in unit-test??
