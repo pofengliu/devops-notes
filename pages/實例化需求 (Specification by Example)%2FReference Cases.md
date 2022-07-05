@@ -13,9 +13,10 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
   #+BEGIN_NOTE
   看到的現象是，當寫 code 前就有了 AC，RD 寫 unit test 的方式也就很容易尊守 (align) AC 內的 examples !
   #+END_NOTE 
-  ~~Question:~~ AE asked what to test/auto if developer has done AC auto in unit-test??
+  __Question:__ AE asked what to test/auto if developer has done AC auto in unit-test level??
 - ---
 - ![image.png](../assets/image_1657012150667_0.png)
--
+  L
+- ---
 - 因為，減少了頻繁的溝通，來來回回的詢問變少了，速度就變快了
 -
