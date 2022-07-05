@@ -16,7 +16,7 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
   __Question:__ AE asked what to test/auto if developer has done AC auto in unit-test level??
 - ---
 - ![image.png](../assets/image_1657012150667_0.png)
-  L
+  Living documentation 的範例 ~~
 - ---
 - 因為，減少了頻繁的溝通，來來回回的詢問變少了，速度就變快了
 -
