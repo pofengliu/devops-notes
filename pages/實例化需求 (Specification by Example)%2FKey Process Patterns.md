@@ -2,13 +2,13 @@ public:: true
 
 - title:: 實例化需求 (Specification by Example)/Key Process Patterns
 - ![image.png](../assets/image_1656910755612_0.png)
-- ## Deriving scope from goals
+- ## 從目標中獲取範圍 (Deriving scope from goals)
   團隊以客戶的業務目標開始，經由協作了解背後的價值並界定預計達成的目標範圍，產生使用者故事 (user stories) 並且能簡單舉例 (high level examples) 說明之。
-- ## Specifying Collaboratively
+- ## 協作制定需求規格 (Specifying Collaboratively)
   SbE 的重點之一，經由團隊的共同討論 (face-to-face with whiteboard) 並探索出最佳解法 (solutions)。
   ![image.png](../assets/image_1656916571952_0.png)
   Figure. Illustrating specifying collaboratively, by Gojko and Jeff Patton & Associates
-- ## Determine Key Examples
+- ## 關鍵實例 ()Determine Key Examples
   團隊成員通過工作坊的方式制定需求規格，通常來說，先用實例來描述，推測一些規律，轉成用表格表達，可能發現更準確的規律。
   Every acceptance criterion generates new examples; every example generates new scenarios. Teams should refine their specifications to merge similar examples, reject the ones that introduce noise, and choose the most meaningful or descriptive ones.
 	- ![image.png](../assets/image_1656924162490_0.png) 
