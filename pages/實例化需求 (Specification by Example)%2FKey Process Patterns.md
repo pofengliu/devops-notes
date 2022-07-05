@@ -33,8 +33,8 @@ public:: true
 	- #+BEGIN_NOTE
 	  * 別忘了，此處的關鍵實例或是之後精煉過的需求規格，也正是這個 sotry 能帶進 sprint planning meeting 做討論的條件之一，因為它正符合了 story DoR 的 "checkable" 條件！
 	  
-	  * Gojko Adžić @ 《Specification by Example》
-	  Sprint 正式開始之前，每個團隊將至少擁有一至兩個故事，且各自具備已經對自動化做好準備的、詳細的、附帶實例的 spec。
+	  * Sprint 正式開始之前，每個團隊將至少擁有一至兩個故事，且各自具備已經對自動化做好準備的、詳細的、附帶實例的 spec。
+	                                                                                                                                                                                        ~Gojko Adžić @ 《Specification by Example》
 	  
 	  Story candidate 應該具備 V.I.N.C.E. 條件 or INVEST
 	  * 有價值（Valuable）：對使用者的價值有被清楚的表明
