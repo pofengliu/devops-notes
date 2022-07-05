@@ -50,9 +50,9 @@ public:: true
 	- #+BEGIN_NOTE
 	  * 有了關鍵實例，是不是對實行 TDD 又更近了一步？
 	  * What is unit test cases?
-	    * (x) Test implementation details?
+	    * (x) Test implementation details (app classes, functions, ...)?
 	    * (x) 腦補的 test cases / user scenarios?
-	    * (v) cases to fulfill acceptance criteria?
+	    * (v) Cases to fulfill acceptance criteria?
 	  * What is acceptance tests:
 	    * Sum of all available features of the system
 	    * Executable specifications
