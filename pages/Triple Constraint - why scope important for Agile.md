@@ -17,6 +17,6 @@ public:: true
 	  * Specification by Example 
 	  * Acceptance and extensive Unit Testing 
 	  to avoid technical debt in late phases of the project 
-	  Used Defect Rate as performance indicator 
-	  Methodology mix worked well for us (very low Defect Rate) 
-	  Planning to roll-out on broader scale
+	  * ==Used Defect Rate as performance indicator==
+	  * Methodology mix worked well for us (very low Defect Rate) 
+	  * Planning to roll-out on broader scale
