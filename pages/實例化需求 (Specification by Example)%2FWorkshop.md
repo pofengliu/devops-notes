@@ -123,8 +123,8 @@ title:: 實例化需求 (Specification by Example)/Workshop
 	    * Significant error cases
 	    * Boundary cases
 	    * To explain the biz logics behind
-	  * Conclusions of arguing, disputes after discussion in the refinement meeting
-	  * ==每個user story都要有AC，但不是每個user story都要花時間討論AC==
+	    * Conclusions of arguing, disputes after discussion in the refinement meeting
+	  * ==每個 user story 都要有 AC，但不是每個 user story 都要花時間討論 AC==
 	- 思考點：
 		- [Why PO needs to say ‘No’ (1 mins) ](https://youtu.be/DoFj3Y_St74?t=200)
 - ## AC Practices in Workshop
