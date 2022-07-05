@@ -16,6 +16,7 @@ public:: true
 	- ### SbE 十年後的驗證
 	  [Specification by Example, 10 years later](https://gojko.net/2020/03/17/sbe-10-years.html)，內有說明 ==SbE 書籍相關論述==十年後社群調查的結果！
 	- ### 對 CI Pipeline 的信心
+	  id:: 62ba9533-3e8b-4ed1-a3cd-1f8143878aae
 	  #+BEGIN_QUOTE
 	  What we see sometimes is, folks are very focused on automation and speeding things up, but not like, am I actually getting what I want from it? So for example, again, back to the automated testing example, often regression tests, there’s a lot of focus on ==automating everything==, but sometimes the output, the test results, are ==too difficult for a team to actually understand== that they disregard the test.                 ~ Tim Cochran, Technical director at ThoughtWorks
 	  #+END_QUOTE
