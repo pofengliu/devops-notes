@@ -10,4 +10,12 @@ public:: true
 	  * 先確定時間與資源，再決定要發佈多少功能，盡量避免浪費。
 	  #+END_NOTE
 - ## About Quality
-	- CASE I:
+	- CASE I: [Specification by Example, 10 years later](https://gojko.net/2020/03/17/sbe-10-years.html)，內有說明 ==SbE 書籍相關論述==十年後社群調查的結果！
+	- CASE II:
+	  We applied 
+	  • Specification by Example 
+	  • Acceptance and extensive Unit Testing 
+	  to avoid technical debt in late phases of the project 
+	  Used Defect Rate as performance indicator 
+	  Methodology mix worked well for us (very low Defect Rate) 
+	  Planning to roll-out on broader scale
