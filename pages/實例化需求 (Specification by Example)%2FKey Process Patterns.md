@@ -46,7 +46,9 @@ public:: true
 	  思考點：當預付點數只剩 6.5 但票價要 7 元時，你買還是不賣這票呢？
 - ## 進行自動化驗證 (Automating validation without changing specifications)
   以自動化測試驗證實作標的來確保符合商業需求，實作 executable specifications 部份，後面章節會有相關程式碼展示。所以這些可被執行的規格文檔可用來說明程式的功能 (functionality) 與行為 (behaviors)，並針對當下的程式代碼檢驗規格的完整性 (compliance)。
-	-
+	- #+BEGIN_IMPORTANT
+	  自動化測試的目標為精煉過後的 key examples，沒錯就是＂關鍵實例＂，
+	  #+END_IMPORTANT
 - ## 頻繁的驗證 (Validating frequently)
   每當有程式碼提交到版本管控系統，則觸發相關的 continuous integration pipeline 自動執行這些自動化測試，以確保系統符合業務目標。
 - ## 演變為說明文件系統 (Evolving a documentation system)
