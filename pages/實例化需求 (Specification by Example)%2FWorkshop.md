@@ -121,6 +121,7 @@ title:: 實例化需求 (Specification by Example)/Workshop
 	  * AC 中要列出這需求最重要的事
 	    * Good paths
 	    * Significant error cases
+	    * boundary cases
 	    * To explain the biz logics behind
 	  * Conclusions of arguing, disputes after discussion in the refinement meeting
 	  * ==每個user story都要有AC，但不是每個user story都要花時間討論AC==
