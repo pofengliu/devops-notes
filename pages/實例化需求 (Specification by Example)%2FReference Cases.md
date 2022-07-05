@@ -24,5 +24,5 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
   Or somebody else might be service QA, TE or the story king (RD who owns the story) will do the job, ==it really does not matter who do it because everyone in the team already agree upon what's discussed on the whiteboard!==
 - ---
 - ![image.png](../assets/image_1657020558882_0.png) 
-  團隊使用因為，減少了頻繁的溝通，來來回回的詢問變少了，速度就變快了
+  團隊使用 wiki comments 討論 requirements，來來回回容易漏掉某些討論內容。因此，減少了頻繁的溝通，來來回回的詢問變少了，速度就變快了
 -
