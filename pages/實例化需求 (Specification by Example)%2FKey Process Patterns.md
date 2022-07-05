@@ -54,7 +54,7 @@ public:: true
 	    * (x) 腦補的 test cases / user scenarios?
 	    * (v) Cases to fulfill acceptance criteria?
 	  * What is acceptance tests:
-	    * Sum of all available features of the system
+	    * Sum of key (available) features of the system
 	    * Executable specifications
 	  #+END_NOTE
 	- #+BEGIN_CAUTION
