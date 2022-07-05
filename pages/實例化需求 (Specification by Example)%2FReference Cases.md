@@ -20,7 +20,7 @@ title:: 實例化需求 (Specification by Example)/Reference Cases
 - ---
 - __Question:__ After receiving the spec, Who will will create the Scenarios in Cucumbers (Developer or QA)?
   If you follow the book "Specification by Example" to specify the "Acceptance Criteria (with examples)" **collaboratively** on the whiteboard, then everyone can write it down in the Given-When-Then format, because it's only require 'summarize' skill to do that.
-  In some teams here, after sprint backlog refinement meeting, someone will take pictures from the whiteboard (as figure below) thensomebody elsewill transform it to Gherkin format and put it in wiki or in code.
-  Somebody elsehere might be service QA, TE or the story king (RD who owns the story) will do the job, it really does not matter who do it because everyone in the team already agree upon what's discussed on the whiteboard!
+  In some teams here, after sprint backlog refinement meeting, someone will ==take pictures== from the whiteboard (as figure below) then ==somebody else== will transform it to Gherkin format and put it in wiki or in code.
+  Somebody else might be service QA, TE or the story king (RD who owns the story) will do the job, it really does not matter who do it because everyone in the team already agree upon what's discussed on the whiteboard!
 - 因為，減少了頻繁的溝通，來來回回的詢問變少了，速度就變快了
 -
