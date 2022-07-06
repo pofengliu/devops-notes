@@ -14,7 +14,7 @@ title:: 實例化需求 (Specification by Example)/Workshop
 		- ![image.png](../assets/image_1650359893553_0.png)
 		- Reference: Simplilearn (from Ambler, 2002; after Cockburn, 2006)
 	- ### Communication Steps
-		- 既然溝通的方式確立了，接下來就來說說溝通的步驟與重點提要。在 Jeff Patton《User Story Mapping》中有個所謂的＂5C＂循環的概念，正是闡明了構成用戶故事的五步驟。
+		- 既然溝通的方式確立了，接下來就來說說溝通的步驟與重點提要。在 Jeff Patton《User Story Mapping》中有個所謂的＂5C＂循環的概念，正是闡明了構成用戶故事的五個步驟。
 		- ![image.png](../assets/image_1650359923999_0.png)
 		- #### 步驟一：Card
 			- 需求在進入更詳細的討論時，會被拆解成數個小的使用者故事，而討論時會以故事卡片的方式交付給團隊做討論，卡片上會有標題與 Who (As a)、What (I want) and Why (so that) 三要素。
