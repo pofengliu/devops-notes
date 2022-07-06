@@ -108,7 +108,7 @@ title:: 實例化需求 (Specification by Example)/Workshop
 	  * 2 ~ 3 rounds for each story
 	  兩至三輪後，團隊內應該可以對這個使用者故事能有一個基本的共識了。最後就算自己不是負責這個使用者故事的代碼實現，但是也因為參與過討論，也會了解這個使用者故事的內容了！另外呢，有爭議 (dispute) 的地方也盡量在 workshop 內就討論解決完。
 	- #+BEGIN_TIP
-	  如果團隊沒有足夠時間這針對＂每個＂使用者故事分組下去討論，也應該==每一組分配一個故事==下去討論 AC，等所有故事都討論完後，每組上台介紹討論出來的 AC 給所有其它的團隊成員聽。
+	  如果團隊沒有足夠時間這針對＂每個＂使用者故事分組下去討論，也應該==每一組分配一個故事下去討論 AC，等所有故事都討論完後，每組上台介紹討論出來的 AC 給所有其它的團隊成員聽==。
 	  #+END_TIP
 	- Example 寫甚麼？
 	  * Specific examples for AC, golden use cases, business logics.
