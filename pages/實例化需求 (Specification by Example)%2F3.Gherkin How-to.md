@@ -1,5 +1,5 @@
 public:: true
-title:: 實例化需求 (Specification by Example)/Gherkin How-to
+title:: 實例化需求 (Specification by Example)/3.Gherkin How-to
 
 - title:: 實例化需求 (Specification by Example)/Gherkin How-to
 - ## How to Write Good Execution Specifications
