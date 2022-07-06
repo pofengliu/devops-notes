@@ -10,6 +10,9 @@
  {:block/name "about me",
   :block/created-at 1654328244085,
   :block/updated-at 1654331827580}
+ {:block/name "after",
+  :block/created-at 1657018672247,
+  :block/updated-at 1657018672247}
  {:block/name "amazon",
   :block/created-at 1650343842083,
   :block/updated-at 1650343842083}
@@ -51,7 +54,7 @@
   :block/updated-at 1649441140709}
  {:block/name "glossary",
   :block/created-at 1650879277321,
-  :block/updated-at 1650879308508}
+  :block/updated-at 1657009359396}
  {:block/name "in-progress",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -73,6 +76,9 @@
  {:block/name "readme",
   :block/created-at 1654333366095,
   :block/updated-at 1654333366095}
+ {:block/name "sbe workshop promotion",
+  :block/created-at 1657009786615,
+  :block/updated-at 1657010039396}
  {:block/name "story of f-16",
   :block/created-at 1653449131722,
   :block/updated-at 1656147153057}
@@ -84,7 +90,7 @@
   :block/updated-at 1654327407686}
  {:block/name "triple constraint - why scope important for agile",
   :block/created-at 1654335868888,
-  :block/updated-at 1654355406281}
+  :block/updated-at 1657014914552}
  {:block/name "wait",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -97,18 +103,27 @@
  {:block/name "原始需求",
   :block/created-at 1653460026027,
   :block/updated-at 1653460026027}
- {:block/name "實例化需求 (specification by examples)",
+ {:block/name "實例化需求 (specification by example)",
   :block/created-at 1654332827208,
-  :block/updated-at 1656664701492}
- {:block/name "實例化需求 (specification by examples)/workshop",
+  :block/updated-at 1656990017307}
+ {:block/name "實例化需求 (specification by example)/gherkin how-to",
+  :block/created-at 1656905160819,
+  :block/updated-at 1656932281696}
+ {:block/name "實例化需求 (specification by example)/key process patterns",
+  :block/created-at 1656910718659,
+  :block/updated-at 1657019357389}
+ {:block/name "實例化需求 (specification by example)/reference cases",
+  :block/created-at 1656996609491,
+  :block/updated-at 1657020713866}
+ {:block/name "實例化需求 (specification by example)/workshop",
   :block/created-at 1650049483555,
-  :block/updated-at 1656737914824}
+  :block/updated-at 1657081329534}
  {:block/name "溝通無效率",
   :block/created-at 1656147413897,
   :block/updated-at 1656150113681}
  {:block/name "精煉會議解釋",
   :block/created-at 1656392422783,
-  :block/updated-at 1656394166367}
+  :block/updated-at 1656954143810}
  {:block/name "開發流程的共識與目標",
   :block/created-at 1655797606502, 
   :block/updated-at 1656325889915}]
