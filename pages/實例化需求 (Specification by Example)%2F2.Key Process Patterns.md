@@ -1,3 +1,4 @@
+title:: 實例化需求 (Specification by Example)/2.Key Process Patterns
 public:: true
 
 - title:: 實例化需求 (Specification by Example)/Key Process Patterns
