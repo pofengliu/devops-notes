@@ -9,11 +9,11 @@ title:: 實例化需求 (Specification by Example)/Workshop
 	  [Figure reference: https://en.wikipedia.org/wiki/Hendecagram](https://en.wikipedia.org/wiki/Hendecagram)
 	- 所以光一個簡單的圖形，光是用白底黑字的文字來描述需求就感受到其中的限制了，更不用說要用文字來溝通==複雜的商業邏輯==是件多沒有效率的事了...... 
 	  參照：[[溝通無效率]]
-	- ### Communication Effort
+	- ### Communication Efforts
 		- 既然需求是談出來的，那首要解決溝通的成本問題了！從下圖中，兩個或多人之間能直接同步溝通並同時使用聽覺、視覺和語言 (例如輔助以白板這類的工具)，能讓信息流以最有效率的方式傳遞。
 		- ![image.png](../assets/image_1650359893553_0.png)
 		- Reference: Simplilearn (from Ambler, 2002; after Cockburn, 2006)
-	- ### Communication Steps
+	- ### Five Steps of User Story
 		- 既然溝通的方式確立了，接下來就來說說溝通的步驟與重點提要。在 Jeff Patton《User Story Mapping》中有個所謂的＂5C＂循環的概念，正是闡明了構成用戶故事的五個步驟。
 		- ![image.png](../assets/image_1650359923999_0.png)
 		- #### 步驟一：Card
