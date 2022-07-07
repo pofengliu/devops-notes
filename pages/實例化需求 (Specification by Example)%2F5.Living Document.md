@@ -12,4 +12,8 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
     * 轉成活文件的工具：在下段落介紹 (以 docker 為例)
 	- ### Yardoc
 	  
+	  ```
+	  docker run --rm -it --name yard -p 8808:8808 -v $PWD:/app yard:latest bash
+	  ```
+	  
 	  ![image.png](../assets/image_1657164579184_0.png)
