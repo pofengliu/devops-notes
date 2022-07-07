@@ -33,6 +33,7 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
 	  yard config load_plugins true
 	  ## convert feature file to HTML
 	  yardoc './features/**/*.feature'
+	  exit
 	  ```
 	-
 	- 退出 docker CLI 後，在 "doc" 目錄下就可以看到產生出來的 HTML 格式的文件。
