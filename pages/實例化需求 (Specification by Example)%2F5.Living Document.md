@@ -8,9 +8,9 @@ public:: true
   把 [Git project](https://github.com/cucumber/cucumber-js) clone 下來後，只要執行完測試，便會在產生 "reports" 的目錄，下圖為檔案 "reports/html-formatter.html" 的截圖。
   ![image.png](../assets/image_1657164425438_0.png)
 - ## 通用方法產生文檔
-  一般看來 cucumber 還是以 Ruby 生態系支持比較完整，但因為 Gherkin 為公開的標準，只要你 feature file 的寫法符合標準，那麼你通常都可以：
+  一般看來 cucumber 還是以 Ruby 生態系支持比較完整，但因為 ==Gherkin 為公開的標準，只要你 feature file 的寫法符合標準，那麼你通常都可以：
     * 找到相對應自動化的框架： ex: Spring Boot, [Cypress.io](https://docs.cypress.io/plugins/directory#Preprocessors), Selenium, ...
-    * 轉成活文件的工具：在下段落介紹 (以 docker 為例)
+    * 轉成活文件的工具：在下段落介紹 (以 Yardoc & docker 為例)
 	- ### Yardoc
 	  Tool homepage: [YARD](https://yardoc.org/) with [yard-cucumber](https://github.com/burtlo/yard-cucumber)
 	- 把 YARD 打包為 docker image 方便後續在 CI pipeline 內使用
