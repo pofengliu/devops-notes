@@ -17,5 +17,6 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
 	  yard config load_plugins true
 	  yardoc './features/**/*.feature'
 	  ```
-	  退出 docker CLI 後，在 "doc" 目錄下就可以看到產生出來的 HTML 格式的文件。
+	-
+	- 退出 docker CLI 後，在 "doc" 目錄下就可以看到產生出來的 HTML 格式的文件。
 	- ![image.png](../assets/image_1657164579184_0.png)
