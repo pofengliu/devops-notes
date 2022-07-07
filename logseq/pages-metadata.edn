@@ -54,7 +54,7 @@
   :block/updated-at 1649441140709}
  {:block/name "glossary",
   :block/created-at 1650879277321,
-  :block/updated-at 1657009359396}
+  :block/updated-at 1657175474925}
  {:block/name "in-progress",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -106,18 +106,22 @@
  {:block/name "實例化需求 (specification by example)",
   :block/created-at 1654332827208,
   :block/updated-at 1656990017307}
- {:block/name "實例化需求 (specification by example)/gherkin how-to",
-  :block/created-at 1656905160819,
-  :block/updated-at 1656932281696}
- {:block/name "實例化需求 (specification by example)/key process patterns",
+ {:block/name "實例化需求 (specification by example)/1.workshop",
+  :block/created-at 1650049483555,
+  :block/updated-at 1657175385433}
+ {:block/name
+  "實例化需求 (specification by example)/2.key process patterns",
   :block/created-at 1656910718659,
   :block/updated-at 1657019357389}
- {:block/name "實例化需求 (specification by example)/reference cases",
+ {:block/name "實例化需求 (specification by example)/3.gherkin how-to",
+  :block/created-at 1656905160819,
+  :block/updated-at 1656932281696}
+ {:block/name "實例化需求 (specification by example)/4.reference cases",
   :block/created-at 1656996609491,
   :block/updated-at 1657020713866}
- {:block/name "實例化需求 (specification by example)/workshop",
-  :block/created-at 1650049483555,
-  :block/updated-at 1657081329534}
+ {:block/name "實例化需求 (specification by example)/5.living document",
+  :block/created-at 1657164013433,
+  :block/updated-at 1657174510697}
  {:block/name "溝通無效率",
   :block/created-at 1656147413897,
   :block/updated-at 1656150113681}

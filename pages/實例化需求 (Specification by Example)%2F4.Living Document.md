@@ -1,3 +1,4 @@
+title:: 實例化需求 (Specification by Example)/4.Living Document
 public:: true
 
 - title:: 實例化需求 (Specification by Example)/5.Living Document
