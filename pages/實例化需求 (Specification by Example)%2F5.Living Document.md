@@ -23,8 +23,10 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
 	  
 	  CMD yard server --reload
 	  ```
+	  
+	  
 	  ```
-	  docker run --rm -it --name yard -p 8808:8808 -v $PWD:/app yard:latest bash
+	  docker run --rm -it -p 8808:8808 -v $PWD:/app yardoc:latest bash
 	  yard config load_plugins true
 	  yardoc './features/**/*.feature'
 	  ```
