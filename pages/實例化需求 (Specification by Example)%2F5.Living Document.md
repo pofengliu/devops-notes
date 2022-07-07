@@ -12,7 +12,7 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
     * 轉成活文件的工具：在下段落介紹 (以 docker 為例)
 	- ### Yardoc
 	  [YARD](https://yardoc.org/)
-	- 把 
+	- 把 YARD 打包為 docker image 方便後續在 CI pipeline 內使用
 	  ``` Dockerfile
 	  FROM ruby:latest
 	  RUN gem install yard
