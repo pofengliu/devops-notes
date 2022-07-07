@@ -19,12 +19,12 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		- #### 步驟一：Card
 			- 需求在進入更詳細的討論時，會被拆解成數個小的使用者故事，而討論時會以故事卡片的方式交付給團隊做討論，卡片上會有標題與 Who (As a)、What (I want) and Why (so that) 三要素。
 			- ![kanban-empty-StoryCard.png](../assets/kanban-empty-StoryCard_1651231006464_0.png)
-			- 思考點：一張卡片大小可寫的內容有限，為何要限制以卡片來闡述使用者故事呢？
 			- Reference: ((62c67bce-9a73-49fa-bab9-2d13e2c0402f))
 			- #+BEGIN_TIP
 			  * One card one idea
 			  * Don't write too much, only the content fits in a card
 			  #+END_TIP
+			- 思考點：一張卡片大小可寫的內容有限，為何要限制以卡片來闡述使用者故事呢？
 		- #### 步驟二：Conversation
 			- ![image.png](../assets/image_1654353781484_0.png) 
 			  Conversation，沒錯這可是 5C 中最重要的步驟了，溝通與對話的目的是為了建立基本共識，這共識包含了確認目標 (Problem) 與範圍 (Scope)。
