@@ -5,4 +5,4 @@
   In 2001, the Card, Conversation, Confirmation model for user stories was proposed by [Ron Jeffris](http://xprogramming.com/articles/expcardconversationconfirmation/) for extreme programming, where he states user stories to be critical elements of the XP “Circle of Life”. Let’s look at the three aspects of user stories.
 - Defining Impacts as User Stories
   id:: 62c67bce-9a73-49fa-bab9-2d13e2c0402f
-  Impact Mapping 提供的 Goal-Actor-Impact-Deliverable 模式可用來提問並發覺真實、業務目標。
+  Impact Mapping 提供的 Goal-Actor-Impact-Deliverable 模式可用來提問並發覺真實、具體、能度量的業務目標。
