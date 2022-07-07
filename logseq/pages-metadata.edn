@@ -10,9 +10,6 @@
  {:block/name "about me",
   :block/created-at 1654328244085,
   :block/updated-at 1654331827580}
- {:block/name "after",
-  :block/created-at 1657018672247,
-  :block/updated-at 1657018672247}
  {:block/name "amazon",
   :block/created-at 1650343842083,
   :block/updated-at 1650343842083}
@@ -97,9 +94,6 @@
  {:block/name "waiting",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
- {:block/name "workshop",
-  :block/created-at 1654351689336,
-  :block/updated-at 1654351689336}
  {:block/name "原始需求",
   :block/created-at 1653460026027,
   :block/updated-at 1653460026027}
@@ -115,13 +109,16 @@
   :block/updated-at 1657019357389}
  {:block/name "實例化需求 (specification by example)/3.gherkin how-to",
   :block/created-at 1656905160819,
-  :block/updated-at 1656932281696}
- {:block/name "實例化需求 (specification by example)/4.reference cases",
+  :block/updated-at 1657176758154}
+ {:block/name "實例化需求 (specification by example)/4.living document",
+  :block/created-at 1657176600037,
+  :block/updated-at 1657176663556}
+ {:block/name "實例化需求 (specification by example)/5",
+  :block/created-at 1657176600039,
+  :block/updated-at 1657176600039}
+ {:block/name "實例化需求 (specification by example)/5.reference cases",
   :block/created-at 1656996609491,
-  :block/updated-at 1657020713866}
- {:block/name "實例化需求 (specification by example)/5.living document",
-  :block/created-at 1657164013433,
-  :block/updated-at 1657174510697}
+  :block/updated-at 1657176683520}
  {:block/name "溝通無效率",
   :block/created-at 1656147413897,
   :block/updated-at 1656150113681}
