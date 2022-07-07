@@ -11,11 +11,11 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
     * 找到相對應自動化的框架： ex: spring boot, Cypress, Selenium
     * 轉成活文件的工具：在下段落介紹 (以 docker 為例)
 	- ### Yardoc
-	  Tool homepage: [YARD](https://yardoc.org/) with yard
+	  Tool homepage: [YARD](https://yardoc.org/) with [yard-cucumber](https://github.com/burtlo/yard-cucumber)
 	- 把 YARD 打包為 docker image 方便後續在 CI pipeline 內使用
 	  ``` Dockerfile
 	  FROM ruby:latest
-	  RUN gem install yard
+	  RUN gem install yard yard-cucumber doc
 	  
 	  RUN mkdir /app
 	  WORKDIR /app
