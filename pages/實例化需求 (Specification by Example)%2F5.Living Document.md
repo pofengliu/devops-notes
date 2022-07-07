@@ -17,5 +17,5 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
 	  yard config load_plugins true
 	  yardoc './features/**/*.feature'
 	  ```
-	  
-	  ![image.png](../assets/image_1657164579184_0.png)
+	  推出 docker CLI後，
+	- ![image.png](../assets/image_1657164579184_0.png)
