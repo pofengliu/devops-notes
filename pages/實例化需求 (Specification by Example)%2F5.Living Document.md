@@ -14,6 +14,8 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
 	  
 	  ```
 	  docker run --rm -it --name yard -p 8808:8808 -v $PWD:/app yard:latest bash
+	  yard config load_plugins true
+	  yardoc './features/**/*.feature'
 	  ```
 	  
 	  ![image.png](../assets/image_1657164579184_0.png)
