@@ -8,7 +8,7 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
   ![image.png](../assets/image_1657164425438_0.png)
 - ## 通用方法產生文檔
   一般看來 cucumber 還是以 Ruby 生態系支持比較完整，但因為 Gherkin 為公開的標準，只要你 feature file 的寫法符合標準，那麼你通常都可以：
-    * 找到相對應自動化的框架： ex: spring boot, Cypress, Selenium
+    * 找到相對應自動化的框架： ex: Spring Boot, Cypress, Selenium
     * 轉成活文件的工具：在下段落介紹 (以 docker 為例)
 	- ### Yardoc
 	  Tool homepage: [YARD](https://yardoc.org/) with [yard-cucumber](https://github.com/burtlo/yard-cucumber)
