@@ -27,9 +27,7 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
 	  ## 打包 docker image
 	  docker build -t yardoc .
 	  ```
-	  
-	  
-	  ``` shell
+	- ``` shell
 	  docker run --rm -it -p 8808:8808 -v $PWD:/app yardoc:latest bash
 	  yard config load_plugins true
 	  ## convert feature file to HTML
