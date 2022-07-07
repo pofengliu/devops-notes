@@ -7,3 +7,6 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
   
   ![image.png](../assets/image_1657164425438_0.png)
 - ## 通用方法產生文檔
+  一般看來 cucumber 還是以 Ruby 生態系支持比較完整，但因為
+  
+  ![image.png](../assets/image_1657164579184_0.png)
