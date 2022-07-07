@@ -19,7 +19,8 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		- #### 步驟一：Card
 			- 需求在進入更詳細的討論時，會被拆解成數個小的使用者故事，而討論時會以故事卡片的方式交付給團隊做討論，卡片上會有標題與 Who (As a)、What (I want) and Why (so that) 三要素。
 			- ![kanban-empty-StoryCard.png](../assets/kanban-empty-StoryCard_1651231006464_0.png)
-			- 思考點：一張卡片大小可寫的內容有限，為何
+			- 思考點：一張卡片大小可寫的內容有限，為何要限制以卡片來闡述使用者故事呢？
+			-
 			- #+BEGIN_TIP
 			  * One card one idea
 			  * Don't write too much, only the content fits in a card
