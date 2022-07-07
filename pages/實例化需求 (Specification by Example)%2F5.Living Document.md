@@ -9,6 +9,6 @@ title:: 實例化需求 (Specification by Example)/5.Living Document
 - ## 通用方法產生文檔
   一般看來 cucumber 還是以 Ruby 生態系支持比較完整，但因為 Gherkin 為公開的標準，只要你 feature file 的寫法符合標準，那麼你通常都可以：
   * 找到相對應自動化的框架： ex: spring boot, Selenium
-  * 轉成活文件的工具：下段落介紹
+  * 轉成活文件的工具：在下段落介紹 (以 docker 為例)
   
   ![image.png](../assets/image_1657164579184_0.png)
