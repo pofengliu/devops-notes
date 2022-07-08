@@ -48,7 +48,7 @@ public:: true
 - ## 精煉需求規格 (Refining the specification)
   需求規格應該是精確、能被驗證、不言自明並且是跟商業規則有關係的。承上信用卡清算案例，一個明確的需求規格如下：
   ![image.png](../assets/image_1656923937867_0.png)
-  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://gojko.net/2014/05/05/focus-on-key-examples/)
+  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://leanpub.com/50quickideas-tests)
 	- #+BEGIN_TIP
 	   Good specifications
 	  * Have a concise description
@@ -59,6 +59,7 @@ public:: true
 	  * ==Avoid GUI specifics==
 	  #+END_TIP
 	  ![image.png](../assets/image_1656923368787_0.png) 
+	  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://leanpub.com/50quickideas-tests)
 	  思考點：當預付點數只剩 6.95 元，但票價要 7 元時，你買還是不賣這票呢？
 - ## 進行自動化驗證 (Automating validation without changing specifications)
   以自動化測試驗證實作標的來確保符合商業需求，實作 executable specifications 部份，後面章節會有相關程式碼展示。所以這些可被執行的規格文檔可用來說明程式的功能 (functionality) 與行為 (behaviors)，並針對當下的程式代碼檢驗規格的完整性 (compliance)。
