@@ -52,6 +52,15 @@ public:: true
 	- ![image.png](../assets/image_1656923368787_0.png) 
 	  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://leanpub.com/50quickideas-tests)
 	  思考點：當預付點數只剩 6.95 元，但票價要 7 元時，你買還是不賣這票呢？
+	- #+BEGIN_TIP
+	   Good specifications
+	  * Have a concise description
+	  * Have a clear model
+	  * Use business language
+	  * ==Show a clear connection between inputs and outputs==
+	  * ==Describe (focus on) WHAT not HOW==
+	  * ==Avoid GUI specifics==
+	  #+END_TIP
 - ## 進行自動化驗證 (Automating validation without changing specifications)
   以自動化測試驗證實作標的來確保符合商業需求，實作 executable specifications 部份，後面章節會有相關程式碼展示。所以這些可被執行的規格文檔可用來說明程式的功能 (functionality) 與行為 (behaviors)，並針對當下的程式代碼檢驗規格的完整性 (compliance)。
   ![image.png](../assets/image_1657007893203_0.png)
