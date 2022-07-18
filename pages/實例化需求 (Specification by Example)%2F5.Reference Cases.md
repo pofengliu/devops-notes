@@ -4,7 +4,7 @@ title:: 實例化需求 (Specification by Example)/5.Reference Cases
 - ![image.png](../assets/image_1657010935189_0.png)
 - ![image.png](../assets/image_1657011600167_0.png)
   #+BEGIN_NOTE
-  Guys, doing SbE is NOT to list down all test cases, you should focus on:
+  Guys, doing SbE is NOT to list down all test cases (左圖), you should focus on:
   * Collaboratively: if PO prepares the AC, then the rest of team won't think hard if there is a better way to express the biz logic behind. The trick here is to ==think how to show the results table first== then rewind back to  figure out the given-when-then conditions. After you practiced more, it will become quicker to work out AC and fasten discussion progress.
   * Key Examples: use real data and find more ==higher level of abstraction to group== similar cases
   #+END_NOTE
