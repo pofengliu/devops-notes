@@ -25,6 +25,12 @@
  {:block/name "c",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
+ {:block/name "canceled",
+  :block/created-at 1658124366272,
+  :block/updated-at 1658124366272}
+ {:block/name "cancelled",
+  :block/created-at 1658124366272,
+  :block/updated-at 1658124366272}
  {:block/name "card",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -105,7 +111,7 @@
   :block/updated-at 1656990017307}
  {:block/name "實例化需求 (specification by example)/1.workshop",
   :block/created-at 1650049483555,
-  :block/updated-at 1657178075966}
+  :block/updated-at 1658123986195}
  {:block/name
   "實例化需求 (specification by example)/2.key process patterns",
   :block/created-at 1656910718659,
@@ -118,7 +124,7 @@
   :block/updated-at 1657176663556}
  {:block/name "實例化需求 (specification by example)/5.reference cases",
   :block/created-at 1656996609491,
-  :block/updated-at 1657602515860}
+  :block/updated-at 1658123677528}
  {:block/name "溝通無效率",
   :block/created-at 1656147413897,
   :block/updated-at 1656150113681}
