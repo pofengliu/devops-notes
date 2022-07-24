@@ -24,6 +24,10 @@ public:: true
 	  ![image.png](../assets/image_1656395591931_0.png)
 - ## 執行細節
   For full content, see "Hierarchy" section below
+	- #+BEGIN_QUOTE
+	  “Specification is not a programming technique, but a communication technique”
+	                                                                   ~ Gojko Adzic — Bridging the Communication Gap
+	  #+END_QUOTE
 - ## Takeaway
   * Focus on collaboration and communication
   * Don’t jump to implementation details
@@ -40,8 +44,4 @@ public:: true
   * Organize specifications (by functionality)
   * Evolve specifications
   * ==Make documentation accessible==
-	- #+BEGIN_QUOTE
-	  “Specification is not a programming technique, but a communication technique”
-	                                                                   ~ Gojko Adzic — Bridging the Communication Gap
-	  #+BEGIN_QUOTE
 -
