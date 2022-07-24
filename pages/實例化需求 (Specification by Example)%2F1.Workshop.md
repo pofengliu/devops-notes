@@ -69,10 +69,6 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			- 大家你覺溝通的五個步驟中，哪個步驟的成本 (Cost) 最高？
 			- 大家你覺溝通的五個步驟中，哪個步驟的影響 (Impact) 最大？
 	- #+BEGIN_QUOTE
-	  “Specification is not a programming technique, but a communication technique”
-	                                                                   ~ Gojko Adzic — Bridging the Communication Gap
-	  #+END_QUOTE
-	- #+BEGIN_QUOTE
 	  “Having a conversation
 	  is more important than recording the conversation
 	  is more important than automating the conversation”
