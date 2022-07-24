@@ -44,3 +44,4 @@ public:: true
 	  “Specification is not a programming technique, but a communication technique”
 	                                                                   ~ Gojko Adzic — Bridging the Communication Gap
 	  #+BEGIN_QUOTE
+-
