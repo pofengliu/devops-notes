@@ -23,11 +23,11 @@ public:: true
 	  一樣的，今天 pipeline 檢查了很多東西，但大家還是沒有信心，為何呢？ 因為沒有一個人真正了解整個測試的內容！RD 的 unit test，QA 的 integration test，都是沒有充分溝通的狀況下，各別自由發揮，以至於到後來彼此都不知道對方的做了些什麼，有什麼沒做，就連 Service QA 或 PM 也都無法掌握。==而 SbE 讓全部的人對產品需求有一致共識與針對 key examples 所撰寫的自動化測試，才是讓大家對 pipeline 檢查內容有全面了解的作法！==
 	  ![image.png](../assets/image_1656395591931_0.png)
 - ## 執行細節
-  For full content, see "Hierarchy" section below
-	- #+BEGIN_QUOTE
-	  “Specification is not a programming technique, but a communication technique”
-	                                                                   ~ Gojko Adzic — Bridging the Communication Gap
-	  #+END_QUOTE
+  詳細細節請參照 "Hierarchy" section below
+  #+BEGIN_QUOTE
+  “Specification is not a programming technique, but a communication technique”
+                                                                   ~ Gojko Adzic — Bridging the Communication Gap
+  #+END_QUOTE
 - ## Takeaway
   * Focus on collaboration and communication
   * Don’t jump to implementation details
