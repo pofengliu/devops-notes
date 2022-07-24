@@ -44,4 +44,3 @@ public:: true
   * Organize specifications (by functionality)
   * Evolve specifications
   * ==Make documentation accessible==
--
