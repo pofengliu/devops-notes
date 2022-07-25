@@ -61,7 +61,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
 		- #### 步驟四：Construction
-		  好的範例有助於了解商業需求 (business rules) 
+		  好的範例有助於了解商業需求 (business rules) ，對於TDD、自動化測試及 CI/CD 所需的頻繁驗證也
 		  ![image.png](../assets/image_1656141034341_0.png)
 		- #### 步驟五：Consequence
 		  在每次的迭代後要去驗收結果。
