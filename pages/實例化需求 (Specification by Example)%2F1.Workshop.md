@@ -66,7 +66,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
 		- #### 步驟五：Consequence
-		  在每次的迭代後要去驗收結果。
+		  持續在每次的迭代後要去驗收結果。
 		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
 		  Reference:
 		  [FEEDBACK LOOPS AND MEASUREMENT](https://alankent.me/2014/02/15/feedback-loops-and-measurement/)
