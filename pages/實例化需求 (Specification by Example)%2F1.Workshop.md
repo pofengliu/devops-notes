@@ -114,7 +114,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		- Also explain relation with:
 			- DOR → planning meeting
 			- DOD → task closed
-	- What is AC?
+	- ==What is AC?==
 	  * AC 是用來探索需求的邊界 (Triple Constraint)，而不是嘗試完善需求
 	  * AC 中要列出這需求最重要的事
 	    * Good paths
