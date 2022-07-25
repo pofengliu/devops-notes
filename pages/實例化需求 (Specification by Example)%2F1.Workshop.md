@@ -53,6 +53,10 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 解決方案 (AC) 是可變的
 			  * 用 CARD 溝通 (Face-2-Face + 白板)
 			  #+END_TIP
+		- #### 步驟四：Construction
+		  
+		  好的範例有助於了解商業需求 (business rules) 。
+		  ![image.png](../assets/image_1656141034341_0.png)
 		- #### 步驟三：Confirmation
 			- ![image.png](../assets/image_1655629198218_0.png)
 			- #+BEGIN_TIP
@@ -60,9 +64,6 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 故意用錯誤的描述來引發討論 (何時做：當需求模糊不清。如何做：用具體的==錯誤==例子)
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
-		- #### 步驟四：Construction
-		  好的範例有助於了解商業需求 (business rules) ，對於做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助
-		  ![image.png](../assets/image_1656141034341_0.png)
 		- #### 步驟五：Consequence
 		  在每次的迭代後要去驗收結果。
 		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
