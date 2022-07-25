@@ -54,7 +54,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 用 CARD 溝通 (Face-2-Face + 白板)
 			  #+END_TIP
 		- #### 步驟四：Construction
-		  好的範例不僅是用來做 sprint 的驗收，對於做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
+		  好的範例不僅是用來做 sprint 的驗收，對於開發做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
 		  ![image.png](../assets/image_1657007893203_0.png)
 		  好的範例有助於了解商業需求 (business rules) 。
 		  ![image.png](../assets/image_1656141034341_0.png)
