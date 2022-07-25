@@ -66,10 +66,10 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			- 開發實作
 			  {{embed ((#進行))}}
 		- #### 步驟五：Consequence
-			- 在每次的迭代後要去驗收結果。
-			- ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
-			  Reference:
-			  [FEEDBACK LOOPS AND MEASUREMENT](https://alankent.me/2014/02/15/feedback-loops-and-measurement/)
+		  在每次的迭代後要去驗收結果。
+		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
+		  Reference:
+		  [FEEDBACK LOOPS AND MEASUREMENT](https://alankent.me/2014/02/15/feedback-loops-and-measurement/)
 		- 思考點：
 			- 大家你覺溝通的五個步驟中，哪個步驟的成本 (Cost) 最高？
 			- 大家你覺溝通的五個步驟中，哪個步驟的影響 (Impact) 最大？
