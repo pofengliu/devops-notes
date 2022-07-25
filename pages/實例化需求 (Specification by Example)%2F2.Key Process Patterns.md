@@ -51,7 +51,7 @@ public:: true
 	  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://leanpub.com/50quickideas-tests)
 	- ![image.png](../assets/image_1656923368787_0.png) 
 	  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://leanpub.com/50quickideas-tests)
-	  思考點：當預付點數只剩 6.95 元，但票價要 7 元時，你買還是不賣這票呢？
+	  ==思考點：當預付點數只剩 6.95 元，但票價要 7 元時，你買還是不賣這票呢？==
 	- #+BEGIN_TIP
 	   Good specifications
 	  * Have a concise description
