@@ -64,7 +64,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		  好的範例不僅是用來做 sprint 的驗收，對於開發做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
 		  ![image.png](../assets/image_1657007893203_0.png)
 		  好的範例也有助於了解商業需求 (business rules) ，後續也會有案例說明。
-		  ![image.png](../assets/image_1656141034341_0.png)
+		  ![image.png](../assets/image_1656141034341_1.png)
 		- #### 步驟五：Consequence
 		  持續迭代卻無法交付價值是沒用的，在開發前能假設預期會產生的價值及在每次的迭代後要去驗收結果確認當初假設，這樣才有辦法做到持續改善。
 		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
