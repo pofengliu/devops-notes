@@ -56,7 +56,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		- #### 步驟四：Construction
 		  好的範例不僅是用來做 sprint 的驗收，對於開發做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
 		  ![image.png](../assets/image_1657007893203_0.png)
-		  好的範例有助於了解商業需求 (business rules) 。
+		  好的範例也有助於了解商業需求 (business rules) ，後續也會有案例說明。
 		  ![image.png](../assets/image_1656141034341_0.png)
 		- #### 步驟三：Confirmation
 			- ![image.png](../assets/image_1655629198218_0.png)
