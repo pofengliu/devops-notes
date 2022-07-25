@@ -61,10 +61,10 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
 		- #### 步驟四：Construction
-		  好的範例不僅是用來做 sprint 的驗收，對於開發做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
-		  ![image.png](../assets/image_1657007893203_0.png)
-		  好的範例也有助於了解商業需求 (business rules) ，後續也會有案例說明。
-		  ![image.png](../assets/image_1656141034341_1.png)
+			- 好的範例不僅是用來做 sprint 的驗收，對於開發做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
+			  ![image.png](../assets/image_1657007893203_0.png)
+			- 好的範例也有助於了解商業需求 (business rules) ，後續也會有案例說明。
+			  ![image.png](../assets/image_1656141034341_1.png)
 		- #### 步驟五：Consequence
 		  持續迭代卻無法交付價值是沒用的，在開發前能假設預期會產生的價值及在每次的迭代後要去驗收結果確認當初假設，這樣才有辦法做到持續改善。
 		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
@@ -82,7 +82,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 	- <ins>什麼是產品代辦清單精煉</ins>
 		- 經由一項持續進行的活動對於代辦事項不斷的做梳理、拆解與排序，使其更小且定義更精確，可參考 Scrum guide 的描述：
 		- #+BEGIN_QUOTE
-		  Product Backlog refinement (PBR) is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ==ongoing activity== to add details, such as a description, order, and size. Attributes often vary with the domain of work. [Scrum guide](https://scrumguides.org/scrum-guide.html#product-backlog)
+		  “Product Backlog refinement (PBR) is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ==ongoing activity== to add details, such as a description, order, and size. Attributes often vary with the domain of work. [Scrum guide](https://scrumguides.org/scrum-guide.html#product-backlog)
 		  #+END_QUOTE
 		- 會議目的：目的是讓 product backlog 隨時有足夠 1 至 2 個 sprint 的項目 (story) 符合 definition of ready (DoR) 的標準。這個活動可以避免 PO 在 sprint planning 會議時所帶來的 story 準備不足，當下團隊才忙著釐清許多問題，甚至有些外部相依性的問題無法在當場釐清，影響 sprint 的進行。
 		- 其它解釋可參照 [[精煉會議解釋]]
