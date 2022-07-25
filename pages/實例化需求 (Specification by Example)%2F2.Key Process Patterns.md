@@ -62,6 +62,7 @@ public:: true
 	  * ==Avoid GUI specifics==
 	  #+END_TIP
 - ## 進行自動化驗證 (Automating validation without changing specifications)
+  id:: 62c68310-89c3-4e1e-9401-2410be84e7d9
   以自動化測試驗證實作標的來確保符合商業需求，實作 executable specifications 部份，後面章節會有相關程式碼展示。所以這些可被執行的規格文檔可用來說明程式的功能 (functionality) 與行為 (behaviors)，並針對當下的程式代碼檢驗規格的完整性 (compliance)。
   ![image.png](../assets/image_1657007893203_0.png)
 	- #+BEGIN_NOTE
