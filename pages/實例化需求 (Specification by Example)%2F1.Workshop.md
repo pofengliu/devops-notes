@@ -63,6 +63,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		- #### 步驟四：Construction
 			- 好的範例有助於了解商業需求 (business rules) 
 			  ![image.png](../assets/image_1656141034341_0.png)
+			-
 		- #### 步驟五：Consequence
 			- 在每次的迭代後要去驗收結果。
 			- Reference:
