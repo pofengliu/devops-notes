@@ -66,11 +66,10 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
 		- #### 步驟五：Consequence
-		  持續迭代卻無法交付價值是沒用的，在開發前能假設預期會產生的價值及在每次的迭代後要去驗收結果確認當初假設才能做到持續改善。
+		  持續迭代卻無法交付價值是沒用的，在開發前能假設預期會產生的價值及在每次的迭代後要去驗收結果確認當初假設，這樣才有辦法做到持續改善。
 		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
-		  Reference:
-		  [FEEDBACK LOOPS AND MEASUREMENT](https://alankent.me/2014/02/15/feedback-loops-and-measurement/)
-		- 思考點：
+		  Reference: [FEEDBACK LOOPS AND MEASUREMENT](https://alankent.me/2014/02/15/feedback-loops-and-measurement/)
+		- #### 思考點：
 			- 大家你覺溝通的五個步驟中，哪個步驟的成本 (Cost) 最高？
 			- 大家你覺溝通的五個步驟中，哪個步驟的影響 (Impact) 最大？
 	- #+BEGIN_QUOTE
