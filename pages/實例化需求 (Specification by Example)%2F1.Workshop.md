@@ -53,11 +53,6 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 解決方案 (AC) 是可變的
 			  * 用 CARD 溝通 (Face-2-Face + 白板)
 			  #+END_TIP
-		- #### 步驟四：Construction
-		  好的範例不僅是用來做 sprint 的驗收，對於開發做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
-		  ![image.png](../assets/image_1657007893203_0.png)
-		  好的範例也有助於了解商業需求 (business rules) ，後續也會有案例說明。
-		  ![image.png](../assets/image_1656141034341_0.png)
 		- #### 步驟三：Confirmation
 			- ![image.png](../assets/image_1655629198218_0.png)
 			- #+BEGIN_TIP
@@ -65,6 +60,11 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			  * 故意用錯誤的描述來引發討論 (何時做：當需求模糊不清。如何做：用具體的==錯誤==例子)
 			  * 學會問＂可不可以不要＂
 			  #+END_TIP
+		- #### 步驟四：Construction
+		  好的範例不僅是用來做 sprint 的驗收，對於開發做好 TDD、自動化測試及 CI/CD 所需的頻繁驗證也非常有幫助。
+		  ![image.png](../assets/image_1657007893203_0.png)
+		  好的範例也有助於了解商業需求 (business rules) ，後續也會有案例說明。
+		  ![image.png](../assets/image_1656141034341_0.png)
 		- #### 步驟五：Consequence
 		  持續迭代卻無法交付價值是沒用的，在開發前能假設預期會產生的價值及在每次的迭代後要去驗收結果確認當初假設，這樣才有辦法做到持續改善。
 		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
