@@ -64,7 +64,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			- 好的範例有助於了解商業需求 (business rules) 
 			  ![image.png](../assets/image_1656141034341_0.png)
 			- 開發實作
-			  {{embed ((#進行))}}
+			  {{embed ((Automating))}}
 		- #### 步驟五：Consequence
 		  在每次的迭代後要去驗收結果。
 		  ![Feedback-loops.png](../assets/Feedback-loops_1658730702879_0.png) 
