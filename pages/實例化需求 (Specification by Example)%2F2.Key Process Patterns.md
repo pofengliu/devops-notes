@@ -47,7 +47,7 @@ public:: true
 	  #+END_NOTE
 - ## 精煉需求規格 (Refining the specification)
 	- 需求規格應該是精確、能被驗證、不言自明並且是跟商業規則有關係的。承上信用卡清算案例，一個明確的需求規格如下：
-	  ![image.png](../assets/image_1656923937867_0.png)
+	  ![image.png](../assets/image_1656923937867_0.png){:height 1390, :width 1217}
 	  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://leanpub.com/50quickideas-tests)
 	- ![image.png](../assets/image_1656923368787_0.png) 
 	  Reference:  [《Fifty Quick Ideas To Improve Your Tests》](https://leanpub.com/50quickideas-tests)
