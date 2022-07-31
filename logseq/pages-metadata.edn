@@ -121,7 +121,7 @@
  {:block/name
   "實例化需求 (specification by example)/2.key process patterns",
   :block/created-at 1656910718659,
-  :block/updated-at 1658747995076}
+  :block/updated-at 1659093064018}
  {:block/name "實例化需求 (specification by example)/3.gherkin how-to",
   :block/created-at 1656905160819,
   :block/updated-at 1657176758154}
