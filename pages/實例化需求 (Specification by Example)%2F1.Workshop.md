@@ -40,7 +40,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 			- ##### 範圍
 				- 通過討論，==我們期望能找出 80% ~ 90% 的使用者情境 (並非完善所有需求)，而討論是非常花時間的，估計討論時間會占用約 5% ~ 10% 的開發時間==。盡量避免讓 PO 自己一個人花很多時間去完善需求，而應該在精煉會議上讓大家透過白板討論與互動，才是讓團隊能==真正==、==有效率地==理解需求背後的目標！
 				- 避免加班的最好辦法，就是在開始實作前就明定這次 sprint 的範圍。實作開始後，對於意外發現的重要需求，應該置換其它重要性低的需求或是延長交付時間，而非一昧的加班或壓縮測試的時間 (降低品質)。參照： [[Triple Constraint - why scope important for Agile]]
-				- ![image.png](../assets/image_1655625611033_0.png)
+				  ![image.png](../assets/image_1655625611033_0.png)
 			- card-last-score:: 5
 			  card-repeats:: 1
 			  card-next-schedule:: 2022-05-12T08:48:32.167Z
