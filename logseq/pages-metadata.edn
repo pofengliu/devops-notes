@@ -58,6 +58,9 @@
  {:block/name "efficiency",
   :block/created-at 1650343842091,
   :block/updated-at 1650343842091}
+ {:block/name "favorites",
+  :block/created-at 1660542896789,
+  :block/updated-at 1660542896789}
  {:block/name "glossary",
   :block/created-at 1650879277321,
   :block/updated-at 1657175474925}
@@ -97,6 +100,9 @@
  {:block/name "triple constraint - why scope important for agile",
   :block/created-at 1654335868888,
   :block/updated-at 1659253134625}
+ {:block/name "type",
+  :block/created-at 1660542503582,
+  :block/updated-at 1660542503582}
  {:block/name "wait",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -108,10 +114,10 @@
   :block/updated-at 1653460026027}
  {:block/name "實例化需求 (specification by example)",
   :block/created-at 1654332827208,
-  :block/updated-at 1658748416146}
+  :block/updated-at 1660542503583}
  {:block/name "實例化需求 (specification by example)/1.workshop",
   :block/created-at 1650049483555,
-  :block/updated-at 1659253037969}
+  :block/updated-at 1660542495345}
  {:block/name
   "實例化需求 (specification by example)/2.key process patterns",
   :block/created-at 1656910718659,
