@@ -84,7 +84,7 @@
   :block/updated-at 1650343842094}
  {:block/name "readme",
   :block/created-at 1654333366095,
-  :block/updated-at 1654333366095}
+  :block/updated-at 1660545488157}
  {:block/name "sbe workshop promotion",
   :block/created-at 1657009786615,
   :block/updated-at 1657010039396}
@@ -100,9 +100,6 @@
  {:block/name "triple constraint - why scope important for agile",
   :block/created-at 1654335868888,
   :block/updated-at 1659253134625}
- {:block/name "type",
-  :block/created-at 1660542503582,
-  :block/updated-at 1660542503582}
  {:block/name "wait",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
