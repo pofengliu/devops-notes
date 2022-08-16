@@ -137,7 +137,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		  以「捨棄」和「不作」來加快工作的起步速度。 ~ 最快的加速法
 		  #+END_QUOTE
 	- 參考：
-		- 加速精煉會議使用 [Example mapping](https://twitter.com/ExampleMapping)、[Decision table](https://en.wikipedia.org/wiki/Decision_table)
+		- 加速精煉會議技巧可參考： [Example mapping](https://twitter.com/ExampleMapping)、[Decision table](https://en.wikipedia.org/wiki/Decision_table)
 - ## AC Practices in Workshop
   請有經驗有在實作 SbE 的團隊，準備一份合適 workshop 練習的 user story card，並分組下去依照上述實行方法開始練習。
 - ## Summary
