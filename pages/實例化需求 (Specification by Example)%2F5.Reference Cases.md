@@ -1,3 +1,4 @@
+public:: true
 title:: 實例化需求 (Specification by Example)/5.Reference Cases
 
 - title:: 實例化需求 (Specification by Example)/5.Reference Cases
