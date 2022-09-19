@@ -14,3 +14,7 @@ title:: hls__specificationbyexamplealovestory_1663570326938_0
   ls-type:: annotation
   hl-page:: 4
   id:: 632814bd-dc6d-413a-bed8-76a7e52e87fb
+- Often Madison would use ad-hoc conversations to collaborate and evolve these specifications, as well as ‘three amigos’ sessions, consisting of a BA/SME, a tester and a programmer. Everyone began feeling responsible for quality.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 63281528-7f8a-4061-a4c6-d7a47964c09b
