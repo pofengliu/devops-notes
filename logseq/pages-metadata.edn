@@ -70,6 +70,9 @@
  {:block/name "glossary",
   :block/created-at 1650879277321,
   :block/updated-at 1657175474925}
+ {:block/name "hls__sbe-samples_1663572330429_0",
+  :block/created-at 1663572416514,
+  :block/updated-at 1663572416514}
  {:block/name "hls__specificationbyexamplealovestory_1663570326938_0",
   :block/created-at 1663570525852,
   :block/updated-at 1663570525852}
@@ -139,7 +142,7 @@
   :block/updated-at 1658123677528}
  {:block/name "實例化需求 (specification by example)/6.further studies",
   :block/created-at 1663570296619,
-  :block/updated-at 1663570642059}
+  :block/updated-at 1663573499119}
  {:block/name "溝通無效率",
   :block/created-at 1656147413897,
   :block/updated-at 1656150113681}
