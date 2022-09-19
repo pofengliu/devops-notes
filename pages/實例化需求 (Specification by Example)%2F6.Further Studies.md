@@ -8,4 +8,4 @@ title:: 實例化需求 (Specification by Example)/6.Further Studies
   ((632815bc-abb6-4405-9d70-332e68870fe3))：Single source of truth and less archeology work!
 - ![SbE-samples.pdf](../assets/SbE-samples_1663572330429_0.pdf)
   ((632819c0-8b31-41d8-94db-a369b01dd863)): This is the case introduced in workshop!
--
+  ((632819f6-f9c3-41e8-8355-181f1dd686a5)): Another case introduced in workshop ~~
