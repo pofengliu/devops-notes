@@ -61,9 +61,18 @@
  {:block/name "favorites",
   :block/created-at 1660542896789,
   :block/updated-at 1660542896789}
+ {:block/name "file",
+  :block/created-at 1663570525858,
+  :block/updated-at 1663570525858}
+ {:block/name "file-path",
+  :block/created-at 1663570525858,
+  :block/updated-at 1663570525858}
  {:block/name "glossary",
   :block/created-at 1650879277321,
   :block/updated-at 1657175474925}
+ {:block/name "hls__specificationbyexamplealovestory_1663570326938_0",
+  :block/created-at 1663570525852,
+  :block/updated-at 1663570525852}
  {:block/name "in-progress",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -128,12 +137,18 @@
  {:block/name "實例化需求 (specification by example)/5.reference cases",
   :block/created-at 1656996609491,
   :block/updated-at 1658123677528}
+ {:block/name "實例化需求 (specification by example)/6.further studies",
+  :block/created-at 1663570296619,
+  :block/updated-at 1663570642059}
  {:block/name "溝通無效率",
   :block/created-at 1656147413897,
   :block/updated-at 1656150113681}
  {:block/name "精煉會議解釋",
   :block/created-at 1656392422783,
   :block/updated-at 1656954143810}
+ {:block/name "配置文件錯誤，有辦法避免嗎？",
+  :block/created-at 1663569975311,
+  :block/updated-at 1663569975311}
  {:block/name "開發流程的共識與目標",
   :block/created-at 1655797606502, 
   :block/updated-at 1656325889915}]
