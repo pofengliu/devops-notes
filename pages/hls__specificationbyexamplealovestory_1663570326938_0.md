@@ -18,3 +18,7 @@ title:: hls__specificationbyexamplealovestory_1663570326938_0
   ls-type:: annotation
   hl-page:: 5
   id:: 63281528-7f8a-4061-a4c6-d7a47964c09b
+- Madison found the specifications and associated acceptance tests much easier to maintain as everyone understood them and they were less connected to the actual online ordering implementation.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 63281580-06ba-45b4-a531-abfbb09066fa
