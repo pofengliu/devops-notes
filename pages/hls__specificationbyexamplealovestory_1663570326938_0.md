@@ -22,3 +22,7 @@ title:: hls__specificationbyexamplealovestory_1663570326938_0
   ls-type:: annotation
   hl-page:: 5
   id:: 63281580-06ba-45b4-a531-abfbb09066fa
+- Henry found the specifications vital in his role as customer support, as he had one source of truth, and Monique the programmer found herself performing less and less system archeology to answer a simple question about what the online ordering system actually did.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 632815bc-abb6-4405-9d70-332e68870fe3
