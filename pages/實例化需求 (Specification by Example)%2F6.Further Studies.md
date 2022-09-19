@@ -6,3 +6,4 @@ title:: 實例化需求 (Specification by Example)/6.Further Studies
   ((632814bd-dc6d-413a-bed8-76a7e52e87fb))：==關鍵實例才是自動化的目標對象！==
   ((63281528-7f8a-4061-a4c6-d7a47964c09b))：Discovery work is a team work!
   ((632815bc-abb6-4405-9d70-332e68870fe3))：Single source of truth and less archeology work!
+-
