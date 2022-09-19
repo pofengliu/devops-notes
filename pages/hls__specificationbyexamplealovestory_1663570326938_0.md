@@ -26,3 +26,7 @@ title:: hls__specificationbyexamplealovestory_1663570326938_0
   ls-type:: annotation
   hl-page:: 5
   id:: 632815bc-abb6-4405-9d70-332e68870fe3
+- Most importantly, as there were always up to date executable specifications, this meant it was much easier to update the system to support the business without the risk of introducing unintended issues.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 632815f4-b6a9-4c2d-8691-694fbd68c5bf
