@@ -7,4 +7,5 @@ title:: 實例化需求 (Specification by Example)/6.Further Studies
   ((63281528-7f8a-4061-a4c6-d7a47964c09b))：Discovery work is a team work!
   ((632815bc-abb6-4405-9d70-332e68870fe3))：Single source of truth and less archeology work!
 - ![SbE-samples.pdf](../assets/SbE-samples_1663572330429_0.pdf)
+  ((632819c0-8b31-41d8-94db-a369b01dd863)): This is the case introduced in workshop!
 -
