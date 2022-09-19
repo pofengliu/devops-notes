@@ -2,7 +2,7 @@ public:: true
 title:: 實例化需求 (Specification by Example)/6.Further Studies
 
 - #+BEGIN_NOTE
-  下列左邊欄位的鏈結都是連到 PDF 中的
+  下列左邊欄位的鏈結都是連到 PDF 中的 highlights，必需裝 LogSeq 筆記軟體才能正常觀看！！
   #+END_NOTE
 - ![A-lovestory-of-SbE.pdf](../assets/specificationbyexamplealovestory_1663570326938_0.pdf)
   ((6328125d-fb5b-4fc7-8a0a-5b04caf9c355))：如何快速了解目前生產線上的行為及商業邏輯
