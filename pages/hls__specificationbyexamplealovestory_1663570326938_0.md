@@ -10,3 +10,7 @@ title:: hls__specificationbyexamplealovestory_1663570326938_0
   ls-type:: annotation
   hl-page:: 3
   id:: 632813dd-6266-4081-b20c-b9832fac72cf
+- he team could look at the specification and see it was clear about shipping costs and GST status
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 632814bd-dc6d-413a-bed8-76a7e52e87fb
