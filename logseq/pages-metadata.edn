@@ -114,7 +114,7 @@
   :block/updated-at 1659253134625}
  {:block/name "type of bugs",
   :block/created-at 1667488004016,
-  :block/updated-at 1667488512036}
+  :block/updated-at 1667488850064}
  {:block/name "wait",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
@@ -129,7 +129,7 @@
   :block/updated-at 1660542503583}
  {:block/name "實例化需求 (specification by example)/1.workshop",
   :block/created-at 1650049483555,
-  :block/updated-at 1660661158390}
+  :block/updated-at 1667488762687}
  {:block/name
   "實例化需求 (specification by example)/2.key process patterns",
   :block/created-at 1656910718659,
