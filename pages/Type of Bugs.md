@@ -7,4 +7,4 @@
   * Incorrect specifications
   * Missing specifications
   
-  With upfront design
+  With upfront design skills like "Specification by Example", we
