@@ -11,4 +11,4 @@ public:: true
   * Missing specifications
   * Implementation bugs (~ 50%)
   
-  With upfront design skills like "Specification by Example", we can tackle the 50% of bugs, which is part of our quality strategy!
+  With upfront design skills like "Specification by Example", we can tackle the other 50% of bugs, which is part of our quality strategy!
