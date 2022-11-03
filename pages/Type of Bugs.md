@@ -7,4 +7,4 @@
   * Incorrect specifications
   * Missing specifications
   
-  With upfront design skills like "Specification by Example", we
+  With upfront design skills like "Specification by Example", we can tackle the 50% of bugs.
