@@ -3,8 +3,8 @@
                                                                                                                                                                                ~ Donald Firesmith
   #+END_QUOTE
 - Three types of bug:
-  * Implementation bugs
   * Incorrect specifications
   * Missing specifications
+  * IM
   
-  With upfront design skills like "Specification by Example", we can tackle the 50% of bugs.
+  With upfront design skills like "Specification by Example", we can tackle the 50% of bugs, which is part of our quality strategy!

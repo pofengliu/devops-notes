@@ -112,6 +112,9 @@
  {:block/name "triple constraint - why scope important for agile",
   :block/created-at 1654335868888,
   :block/updated-at 1659253134625}
+ {:block/name "type of bugs",
+  :block/created-at 1667488004016,
+  :block/updated-at 1667488512036}
  {:block/name "wait",
   :block/created-at 1649441140709,
   :block/updated-at 1649441140709}
