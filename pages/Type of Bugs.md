@@ -6,6 +6,7 @@ public:: true
   #+END_QUOTE
 - Three types of bug:
   id:: 6363d9b2-e678-4246-81c6-ae48f3cda677
+  background-color:: green
   * Incorrect specifications
   * Missing specifications
   * Implementation bugs
