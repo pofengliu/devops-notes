@@ -3,5 +3,8 @@
                                                                                                                                                                                ~ Donald Firesmith
   #+END_QUOTE
 - Three types of bug:
-  * Implementation bug
-  * Incorrect
+  * Implementation bugs
+  * Incorrect specifications
+  * Missing specifications
+  
+  With upfront design
