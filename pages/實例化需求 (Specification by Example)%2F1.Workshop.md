@@ -148,6 +148,7 @@ title:: 實例化需求 (Specification by Example)/1.Workshop
 		  * Overlooked requirements?
 		  * Interpreted a requirement incorrectly?
 		  * Built the wrong thing?
+		  reference: ((6363d9b2-e678-4246-81c6-ae48f3cda677))
 		- (BA / Planner) Have you ever had a thought that:
 		  * Limited time to prepare detail spec?
 		  * Not sure everyone has the same understanding?
