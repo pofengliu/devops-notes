@@ -18,16 +18,16 @@ type:: blogpost
 	  [Specification by Example, 10 years later](https://gojko.net/2020/03/17/sbe-10-years.html)，內有說明 ==SbE 書籍相關論述==十年後社群調查的結果！
 	- ### 對 CI Pipeline 的信心
 	  id:: 62ba9533-3e8b-4ed1-a3cd-1f8143878aae
-	- #+BEGIN_QUOTE
-	  “What we see sometimes is, folks are very focused on automation and speeding things up, but not like, am I actually getting what I want from it? So for example, again, back to the automated testing example, often regression tests, there’s a lot of focus on ==automating everything==, but sometimes the output, the test results, are ==too difficult for a team to actually understand== that they disregard the test.”                ~ Tim Cochran, Technical director at ThoughtWorks
-	  #+END_QUOTE
-	  
-	  #+BEGIN_QUOTE
-	   “A test suite of ten tests that is reliable, fast, and trustworthy is much better than a test suite of hundreds of tests that is hard to maintain and that nobody trusts. ”                           ~ [Google Cloud, DevOps tech: Continuous testing](https://cloud.google.com/architecture/devops/devops-tech-test-automation)
-	  #+END_QUOTE
-	  
-	  一樣的，今天 pipeline 檢查了很多東西，但大家還是沒有信心，為何呢？ 因為沒有一個人真正了解整個測試的內容！RD 的 unit test，QA 的 integration test，都是沒有充分溝通的狀況下，各別自由發揮，以至於到後來彼此都不知道對方的做了些什麼，有什麼沒做，就連 Service QA 或 PM 也都無法掌握。==而 SbE 讓全部的人對產品需求有一致共識與針對 key examples 所撰寫的自動化測試，才是讓大家對 pipeline 檢查內容有全面了解的作法！==
-	  ![image.png](../assets/image_1656395591931_0.png)
+		- #+BEGIN_QUOTE
+		  “What we see sometimes is, folks are very focused on automation and speeding things up, but not like, am I actually getting what I want from it? So for example, again, back to the automated testing example, often regression tests, there’s a lot of focus on ==automating everything==, but sometimes the output, the test results, are ==too difficult for a team to actually understand== that they disregard the test.”                ~ Tim Cochran, Technical director at ThoughtWorks
+		  #+END_QUOTE
+		  
+		  #+BEGIN_QUOTE
+		   “A test suite of ten tests that is reliable, fast, and trustworthy is much better than a test suite of hundreds of tests that is hard to maintain and that nobody trusts. ”                           ~ [Google Cloud, DevOps tech: Continuous testing](https://cloud.google.com/architecture/devops/devops-tech-test-automation)
+		  #+END_QUOTE
+		- 一樣的，今天 pipeline 檢查了很多東西，但大家還是沒有信心，為何呢？ 因為沒有一個人真正了解整個測試的內容！RD 的 unit test，QA 的 integration test，都是沒有充分溝通的狀況下，各別自由發揮，以至於到後來彼此都不知道對方的做了些什麼，有什麼沒做，就連 Service QA 或 PM 也都無法掌握。==而 SbE 讓全部的人對產品需求有一致共識與針對 key examples 所撰寫的自動化測試，才是讓大家對 pipeline 檢查內容有全面了解的作法！==
+		  
+		  ![image.png](../assets/image_1656395591931_0.png)
 - ## 執行細節
   詳細細節請參照下列 "Hierarchy" 章節，但請銘記在心的是：
   #+BEGIN_QUOTE
