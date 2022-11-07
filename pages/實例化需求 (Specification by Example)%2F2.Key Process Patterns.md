@@ -41,7 +41,7 @@ public:: true
 	   Sprint 正式開始之前，每個團隊將至少擁有一至兩個故事，且各自具備已經對自動化做好準備的、詳細的、附帶實例的 spec。~Gojko Adžić @ 《Specification by Example》
 	  #+END_QUOTE
 	  
-	  * Story candidate 應該具備 V.I.N.C.E. 條件 or INVEST
+	  * Story candidate 應該具備 V.I.N.C.E. 條件 or INVEST (Definition of Ready)
 	    * 有價值（Valuable）：對使用者的價值有被清楚的表明
 	    * 可獨立（Independable）：沒有外部的相依性會阻礙這個story的完成
 	    * 可協調（Negotiable）：提供足夠細節但容許後續討論與更動
