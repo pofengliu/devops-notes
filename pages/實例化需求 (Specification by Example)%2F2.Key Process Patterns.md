@@ -11,7 +11,7 @@ public:: true
   Figure. Illustrating specifying collaboratively, by Gojko and Jeff Patton & Associates
 - ## 關鍵實例 (Determine Key Examples)
   id:: 62c68310-faf2-4936-8b46-fdd9916c9945
-  團隊成員通過工作坊的方式制定需求規格，通常來說，先用實例來描述，推測一些規律，轉成用表格表達，可能發現更準確的規律。
+  團隊成員通過工作坊的方式制定需求規格，通常來說，先用實例來描述，推敲一些規律，轉成用表格表達，可能發現更準確的規律。
   #+BEGIN_QUOTE
   Every acceptance criterion generates new examples; every example generates new scenarios. Teams should refine their specifications to merge similar examples, reject the ones that introduce noise, and choose the most meaningful or descriptive ones.
   #+END_QUOTE
