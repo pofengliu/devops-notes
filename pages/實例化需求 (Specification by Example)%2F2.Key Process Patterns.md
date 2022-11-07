@@ -51,7 +51,7 @@ public:: true
 	  * ==Avoid GUI specifics==
 	  #+END_TIP
 	- #+BEGIN_NOTE
-	  * 別忘了，此處的關鍵實例或是之後精煉過的需求規格，也正是這個 sotry 能帶進 sprint planning meeting 做討論的條件之一，因為它正符合了 story DoR 的 "checkable" 條件！
+	  * 別忘了，前面的關鍵實例或是這邊精煉過的需求規格，也正是這個 sotry 能帶進 sprint planning meeting 做討論的條件之一，因為它正符合了 story DoR 的 "checkable" 條件！
 	  
 	  #+BEGIN_QUOTE
 	   Sprint 正式開始之前，每個團隊將至少擁有一至兩個故事，且各自具備已經對自動化做好準備的、詳細的、附帶實例的 spec。~Gojko Adžić @ 《Specification by Example》
