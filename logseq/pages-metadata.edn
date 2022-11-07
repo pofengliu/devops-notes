@@ -10,6 +10,9 @@
  {:block/name "62c6830f-f3c2-4ec3-b775-4efe75a8743c",
   :block/created-at 1659253134624,
   :block/updated-at 1659253134624}
+ {:block/name "62c68310-faf2-4936-8b46-fdd9916c9945",
+  :block/created-at 1667805610598,
+  :block/updated-at 1667805610598}
  {:block/name "6367b949-a858-42b9-ab53-89a8bf46ed02",
   :block/created-at 1667742136878,
   :block/updated-at 1667742136878}
@@ -126,7 +129,7 @@
   :block/updated-at 1649441140709}
  {:block/name "什麼是自動化測試的標的？",
   :block/created-at 1667740938030,
-  :block/updated-at 1667805322731}
+  :block/updated-at 1667805754827}
  {:block/name "原始需求",
   :block/created-at 1653460026027,
   :block/updated-at 1653460026027}
@@ -139,7 +142,7 @@
  {:block/name
   "實例化需求 (specification by example)/2.key process patterns",
   :block/created-at 1656910718659,
-  :block/updated-at 1659093064018}
+  :block/updated-at 1667805880088}
  {:block/name "實例化需求 (specification by example)/3.gherkin how-to",
   :block/created-at 1656905160819,
   :block/updated-at 1657176758154}
