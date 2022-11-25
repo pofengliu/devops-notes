@@ -64,7 +64,7 @@ type:: blogpost
 		- 測試右移（在生產環境中監控，並且實時穫取用户反饋）
 			- Low Risk Deployment（低風險部署）
 			- Testing in Production（在生產環境做測試）
-				- Application Observability（O11y，程式的可觀察性）
+			- Application Observability（O11y，程式的可觀察性）
 	- 待續，持續更新中 ...
 - > Culture is how we think, what habits we create and what we do when we're interacting with each other every day.
 - ## 簡報
