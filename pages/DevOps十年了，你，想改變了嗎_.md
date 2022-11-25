@@ -52,6 +52,7 @@ type:: blogpost
 	- ![change_for_ops](https://speakerd.s3.amazonaws.com/presentations/cf04f08b30f54c41ad76d0b180effd0b/slide_16.jpg)
 	- 再接下去的幾個章節中，會對這些實踐做更多的闡述或實作方法（很多方法其實跟你想的不一樣），包括有：
 	- ![Shfit left & right in DevOps](../assets/Shfit_left_right.drawio_1669378239099_0.png)
+	  ![Shfit_left_right.png](../assets/Shfit_left_right_1669378762251_0.png)
 		- 測試在 DevOps中的樣子
 		- 持續集成 (Continuous Integration)
 		- 單主幹開發（Trunk-based Development & Feature Toggles）
