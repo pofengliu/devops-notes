@@ -51,7 +51,7 @@ type:: blogpost
 	- 最後，對運維人員來說，他所要熟悉的工具與部署環境也都是跟原本的 system admin 是完全不同的光譜，更何況還要懂得去幫助整個功能團隊一起合作開發出好運維跟可監控的程序，也難怪好的 SRE 這麼難找。
 	- ![change_for_ops](https://speakerd.s3.amazonaws.com/presentations/cf04f08b30f54c41ad76d0b180effd0b/slide_16.jpg)
 	- 再接下去的幾個章節中，會對這些實踐做更多的闡述或實作方法（很多方法其實跟你想的不一樣），包括有：
-	- ![Shfit left & right in DevOps](../assets/image_1649584756526_0.png)
+	- ![Shfit left & right in DevOps](../assets/Shfit_left_right.drawio_1669378239099_0.png)
 		- 測試在 DevOps中的樣子
 		- 持續集成 (Continuous Integration)
 		- 單主幹開發（Trunk-based Development & Feature Toggles）
