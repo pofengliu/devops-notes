@@ -8,4 +8,6 @@
 	- Tests should be fast: mocking is a necessary. 80% uses mocking data, 20% e2e integration
 -
 - ## Test Automation Methodologies
-	- ### Test Isolation
+	- ### Three levels of test isolation
+	- ### TestContext & TestContainers (mocks, stubs)
+	- ### Other test practices for stabilities
