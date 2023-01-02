@@ -3,9 +3,9 @@
 - 考量
 	- ## Client side evaluation is the way?!
 	  In case client attributes were sent to a 3rd-part service.
-	  ![](https://line-objects-internal.com/notes-line-dev-files/uploads/upload_d0cbdc20924aec472ad994ba9cfa3b29.png)
+	  ![toggle1.png](../assets/toggle1_1672649204367_0.png)
 	- ### Security concern when using client side evaluation
-	  ![](https://line-objects-internal.com/notes-line-dev-files/uploads/upload_3906147a2e640070eda07b78b2025219.png)
+		- ![toggle2.png](../assets/toggle2_1672649169281_0.png)
 	- ## Consideration
 	  * Make sure latency is acceptable
 	  * Evaluate once --> sotre in header/cookies/local storage
