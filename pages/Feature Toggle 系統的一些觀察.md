@@ -1,4 +1,23 @@
 - 概圖
   ![feature_toggle_thoughts.png](../assets/feature_toggle_thoughts_1672648614244_0.png)
 - 考量
-	- notes
+	- ## Client side evaluation is the way?!
+	  In case client attributes were sent to a 3rd-part service.
+	  ![](https://line-objects-internal.com/notes-line-dev-files/uploads/upload_d0cbdc20924aec472ad994ba9cfa3b29.png)
+	- ### Security concern when using client side evaluation
+	  ![](https://line-objects-internal.com/notes-line-dev-files/uploads/upload_3906147a2e640070eda07b78b2025219.png)
+	- ## Consideration
+	  * Make sure latency is acceptable
+	  * Evaluate once --> sotre in header/cookies/local storage
+	  
+	  https://docs.launchdarkly.com/guides/flags/static-sites
+	  > In most cases, ==using local storage might be enough== for most sites. Depending on how complex your site is or whether your page is generated or rendered on the server, you may be able to ==take advantage of bootstrapping== using server-rendered content.
+	  
+	  ![](https://line-objects-internal.com/notes-line-dev-files/uploads/upload_e7adfff889292ecb66e0289a065e5e56.png)
+	  
+	  > The client initialization connects to LaunchDarkly's servers and fetches the initial flag values for the user. ==This initialization cycle can take around 100-200ms== and can delay your initial page render by at least that much. You could render the page before you have the flag values available, however, your users may experience parts of the page changing as the flag values load.
+	- ## Revisit Openflagr
+	  As the latency is very low, is it possible to have client evaluation below 200ms?
+	  ![](https://line-objects-internal.com/notes-line-dev-files/uploads/upload_a5e35b3bcede72e048d434ba5d9eb444.png)
+	  
+	  ![](https://line-objects-internal.com/notes-line-dev-files/uploads/upload_1bc485f993f7467be84c98faa979c881.png)
