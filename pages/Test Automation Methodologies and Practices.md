@@ -1,6 +1,4 @@
-- ## Test Automation Guidelines
 -
-- ## Test Automation Methodologies
 	- ### Three levels of test isolation
 		- #### TestContainers (mocks, stubs)
 	- ### TestContext & Default Objects
