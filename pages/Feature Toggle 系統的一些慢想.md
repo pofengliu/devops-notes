@@ -4,6 +4,7 @@
 	- ## Client side evaluation is the way?!
 	  In case client attributes were sent to a 3rd-part service.
 	  ![toggle1.png](../assets/toggle1_1672649204367_0.png)
+	  [Reference]
 	- ### Security concern when using client side evaluation
 	  ![toggle2.png](../assets/toggle2_1672649169281_0.png)
 	- ## Consideration
