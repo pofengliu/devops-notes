@@ -1,10 +1,12 @@
+public:: true
+
 - 概想圖：功能開關對於 DevOps、Agile 的核心與實作面的影響
   ![feature_toggle_thoughts.png](../assets/feature_toggle_thoughts_1672648614244_0.png)
 - 考量
 	- ## Client side evaluation is the way?!
 	  In case client attributes were sent to a 3rd-part service.
 	  ![toggle1.png](../assets/toggle1_1672649204367_0.png)
-	  [Reference](https://docs.launchdarkly.com/sdk/concepts/client-side-server-side)
+	  [Reference: Client side and server side in LaunchDarkly](https://docs.launchdarkly.com/sdk/concepts/client-side-server-side)
 	- ## [](https://notes.line.dev/#Client-side-evaluation-is-the-way)
 	- ### Security concern when using client side evaluation
 	  ![toggle2.png](../assets/toggle2_1672649169281_0.png)
