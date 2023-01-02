@@ -6,3 +6,6 @@
 		- (2nd phase) same package 20 times - after we gets solid baseline
 		- (3rd phase) new test cases 20 times
 	- Tests should be fast: mocking is a necessary. 80% uses mocking data, 20% e2e integration
+-
+- ## Test Automation Methodologies
+	- ### Test Isolation
