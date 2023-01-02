@@ -5,4 +5,7 @@
 	- Tests should be useful:  integrated and AC first
 	- Tests should be maintainable: tests are written to be refactorable in the future
 	- Tests should be reliable: test isolation, run 20 times in a row before accepting PR
+		- Leverage PullRequest checks
+		-
+		-
 	- Tests should be fast: mocking is a necessary. 80% uses mocking data, 20% e2e integration
