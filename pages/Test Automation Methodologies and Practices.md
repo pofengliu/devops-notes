@@ -4,10 +4,10 @@
 - ## Other practices
 	- Tests should be useful:  integrated and AC first
 	- Tests should be maintainable: tests are written to be refactorable in the future
-		- ESlint - to makesure there are no lint errors
+		- TestContext for maintainabilities
+		- ESlint - to make sure there are no lint errors
 	- Tests should be reliable: test isolation, run 20 times in a row before accepting PR
 		- Leverage PullRequest checks
 		  ![dry_run_PRchecks.png](../assets/dry_run_PRchecks_1672647081538_0.png)
-		-
 		-
 	- Tests should be fast: mocking is a necessary. 80% uses mocking data, 20% e2e integration
