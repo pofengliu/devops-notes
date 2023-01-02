@@ -1,8 +1,8 @@
 - ## Test Automation Guidelines
-- Tests should be useful: smoke and AC first
-- Tests should be maintainable: tests are written to be refactorable in the future
-- Tests should be reliable: test isolation, run 20 times in a row before accepting PR
-- (1st phase) all cases 20 times: takes long time - parallel run (cms - test isolation), use retry
-- (2nd phase) same package 20 times - after we gets solid baseline
-- (3rd phase) new test cases 20 times
-- Tests should be fast: mocking is a necessary. 80% uses mocking data, 20% e2e integration
+	- Tests should be useful: smoke and AC first
+	- Tests should be maintainable: tests are written to be refactorable in the future
+	- Tests should be reliable: test isolation, run 20 times in a row before accepting PR
+		- (1st phase) all cases 20 times: takes long time - parallel run (cms - test isolation), use retry
+		- (2nd phase) same package 20 times - after we gets solid baseline
+		- (3rd phase) new test cases 20 times
+	- Tests should be fast: mocking is a necessary. 80% uses mocking data, 20% e2e integration
