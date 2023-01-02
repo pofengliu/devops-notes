@@ -11,4 +11,4 @@
 		  ![dry_run_PRchecks.png](../assets/dry_run_PRchecks_1672647081538_0.png)
 		-
 	- Tests should be fast: mocking is a necessary. 80% uses mocking data, 20% e2e integration
-		- Parallelism is a must as
+		- Parallelism is a must as features grow faster than you think
