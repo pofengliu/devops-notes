@@ -1,6 +1,6 @@
 - ## Phased Deployment
 	- ![image.png](../assets/image_1677734868892_0.png)
--
+	- ![image.png](../assets/image_1677735147368_0.png)
 - ## Progressive Release
 	- ![image.png](../assets/image_1677735038987_0.png)
 	-
