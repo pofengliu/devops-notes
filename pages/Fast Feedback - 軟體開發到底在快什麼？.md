@@ -4,7 +4,7 @@
 - # Methodology
 	- ## Agile Methodologies
 		- ![image.png](../assets/image_1683518520302_0.png)
-			- Source:
+			- Source: Rapid, Broadcom software.
 		- Emerging flavors of agile—including test-driven development, behavior-driven development and set-based engineering address the specialized needs of the broad range of users now employing agile approaches.
 		- #+BEGIN_QUOTE
 		  “Delivering high-quality end products quickly requires new ways of working, including agile development, rapid release cycles, automated testing and deployment and a ‘test and learn’ approach to changes.”  ~ McKinsey
