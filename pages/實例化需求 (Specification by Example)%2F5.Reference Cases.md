@@ -2,7 +2,7 @@ public:: true
 title:: 實例化需求 (Specification by Example)/5.Reference Cases
 
 - title:: 實例化需求 (Specification by Example)/5.Reference Cases
-- ![image.png](../assets/image_1657010935189_0.png)
+- ![image.png](../assets/image_1657010935189_0.png){:height 332, :width 729}
 - ![image.png](../assets/image_1657011600167_0.png)
   #+BEGIN_NOTE
   Guys, doing SbE is NOT to list down all test cases (左圖), you should focus on:
