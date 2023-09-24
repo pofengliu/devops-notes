@@ -4,6 +4,8 @@ type:: blogpost
 - 此為 DevOpsDays Taipei 2023 - Community Driven DevOps 內容筆記
 - ## DevOps Evangelist 經驗分享
 	- ### About Me & LINE TW & Demo
+	- ### Agenda
+		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_3.jpg)
 	- ### DevOps Evangelist & Faiths
 		- #### 信仰來源
 			- ##### 解決身邊沒效率的問題
