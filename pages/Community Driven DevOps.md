@@ -39,20 +39,20 @@ type:: blogpost
 				- 以實力化需求為核心，串連整個開發流程的上中下游，並確保工作方法的重複性和一致性 (repeatability and consistency)，這為持續改進提供了空間。
 - ### Community Driven DevOps
 	- #### History, Progress & What We Learned
-		- Unit test and dashboards
+		- ##### Unit test and dashboards
 			- 社群中的前輩已經給了許多建議，例如＂一次比一次好＂和專注 new code coverage 等，但如何排除眾議確實執行它，長久堅持下去才是困難的。Evangalist 需要去 promote 及營造這樣的環境！
-		- Together, Go Faster
+		- ##### Together, Go Faster
 			- Cloud native adoption
 			- RUM & full tracing
-		- DevGov
-		- Platform Engineering
+		- ##### DevGov
+		- ##### Platform Engineering
 			- 想解決跨團隊都有的問題時或許用組織 community 的方式來處理更適合！
-- Takeaway
-	- You created your own problems
-	- Trunk-based or NOT
+- ### Takeaway
+	- #### You created your own problems
+	- #### Trunk-based or NOT
 		- 對於單主幹開發的考慮並不如培養關鍵能力重要，這些能力包括解耦代碼部署與發布、分階段推出（Canary Release）和規模化 A/B 測試以降低每次實驗的成本。
 		- 所以彈指間，AE 跟 QA 就少了一半了嗎，還是全消失了？ 當然沒有，反而他們更有時間在做 Explore Testing 跟優化（optimize）整個 Pipeline 的效率。所以真的那天到來的時候，你確定你能說出一套探索測試的理論亦或是你能夠清楚的察覺到當前 Pipeline 的瓶頸在哪裡？所以你才有辦法去優化，這才是我們要花時間培養及專注的地方。當趨勢已經改變，你就應該往前看，This is the way！
-	- Community Driven Pro & Con
+	- #### Community Driven Pro & Con
 		-
 	- DevOps Elite Culture
 	- For Evangelist
