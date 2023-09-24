@@ -1,4 +1,4 @@
-public:: true
+public:: false
 type:: blogpost
 
 - 此為 DevOpsDays Taipei 2023 - Community Driven DevOps 內容筆記
