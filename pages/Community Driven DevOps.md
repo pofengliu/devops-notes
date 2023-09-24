@@ -1,10 +1,12 @@
--
+public:: true
+type:: blogpost
+
 - 此為 DevOpsDays Taipei 2023 - Community Driven DevOps 內容筆記
 - ## DevOps Evangelist 經驗分享
-	- About Me & LINE TW & Demo
-	- DevOps Evangelist & Faiths
-		- 信仰來源
-			- 解決身邊沒效率的問題
+	- ### About Me & LINE TW & Demo
+	- ### DevOps Evangelist & Faiths
+		- #### 信仰來源
+			- ##### 解決身邊沒效率的問題
 				- 曾經有一位 QA 過來問我，為什麼我前天在 production測了這個 hotfix 今天在 integration 測了同一個 Hotfix，下一週的 Release Testing Plan，這個 Hotfix 又要再測一次？當然我就畫了圖解釋給大家聽，在這個Hotfix進來的時候，integration Branch 跟 future Branch 的 codebase 都已經不一樣了，所以我們當然要再 verify 一次。（這些做測試計畫的技巧都是當時 PM 或 release manager 所需要具備的知識）。當時在我講完這句話後心裡就有一個念頭，如果測試這件事是這麼的 tedious 那怎麼可能 Google、微軟的那些測試大神到五、六十歲還會這麼有興致的在講這些議題？國外的軟體測試我想應該不是這樣子的。當然這位 QA 幾年後也就轉職 RD... 可見 tedious work 浪費資源而且留不住有創意的人，在 branches 間不斷地 re-testing，一般的 QA 其實根本也沒空練習與實作探索性測試。
 			- 解決身邊不合理的流程
 				- 曾經我帶領一個QA團隊在做一個跨國的金融專案，工程師大部分都是在國外，那也因為我們的自動化測試做得很好所以一開始是 24 個人做這個案字，到最後剩 13 個人但卻可以同時做三個案子，因為自動化做完之後其實我們每次的 regression 都很快，所以有能力再接更多的案子。不過這邊的代價是，像我每天早上一到公司我就得花一到兩個小時檢查為何昨天的pipeline 會跑失敗，那當然可能的原因是 developer check-in了新的程式的代碼或者是他的代碼造成了其他的 bug 跟 side effect，當然也有可能是自動化測試的 flaky 問題。這樣其實也做了幾年直到有一天我突然想到為什麼我每天都要花時間在這些事情上面，難道這些時間不能拿來做更好的利用嗎？回頭來看這件事情是 Developer 的錯嗎？他不過就只是提交了他的代碼而已。那這件事情是AE的錯嗎，也不是呀，因為我們的 automation，如果 single thread 在跑需要跑個6 個小時左右吧，你就可以知道那個裡面有數百數千隻的 integration 測試，當然我們是把它做得很好，只要沒有新的代碼進來它不管跑幾次結果都是99%、100% ，所以我們是很有自信的，所以這也不是 AE 的錯。總歸來講就是這個 process 本身就是這麼不合理，為什麼一件事情就得拆成兩階段去完成呢？！所以這些數百支數千支的 test automations， developer 會來看嗎？就我做了這麼多的案子，從來沒有而且Developer 做自己的 unit test，AE 做自己的Integration 跟 End-to-End，這些都帶來非常多的 test coverage的重複，也因為各做各的，其實就算 pipeline 跑完了也沒有人能夠了解全部的測試內容，更不用說對於 pipeline 結果能夠帶來什麼樣的信心，在上版前還是需要搭配許多的手動測試！
