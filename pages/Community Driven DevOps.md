@@ -26,7 +26,7 @@ type:: blogpost
 				- 這張圖是State Report 裡面交付效率的一個分群，所以你看到 2021 年 elite 加上 high 的比例已經超過 66%，那如果大家都是高分那就沒什麼意思了，所以在 2022 年的時候他就把 elite 等級拿掉並把 high 的要求拉高。所以原本能夠做到 weekly release 就是 high 的等級，到了2022年你如果還要維持在 high 那勢必得做到 release on demand 就是所謂的 "multiple deploys per Day"。
 				  所以不進則退，==但我想要講的是 release on-demand 在實作上、思維、策略跟技巧跟其它的等級都不一樣！這也是為何一直想強調 elite culture 後面的道理的！==
 				- 這邊常會有誤會，舉例來說，葉問葉師傅可以一次打20個，這是一個苦練出來的能力，但不代表他每天都要出去打 20 個，難道要打到沒朋友嗎？對企業來講也是一樣，我能夠做到 multiple release a day，那我可以根據商業的需求改成 daily、weekly 或是 monthly release 都是沒問題的。但反過來說，哪天當 biz 醒過來，要求你做到更快速地交付時，你有辦法嗎？其實是很難的，因為這是要長時間培養的能力！==所以不要抱怨 planner 要求的功能做出來都沒有人用，你的 pipeline 能提供簡單、快速、低成本的 A/B testing 來讓他可以快速去驗證他的假設嗎？==
-				- 這邊我們看到 SpaceX 每天可以在 production release 一萬七千多次，他們試錯成本這麼高每個火箭造價動輒上百萬美元，有時上面還坐了人呢！他們也是講 DevOps 跟 continuous testing ！另外，特斯拉也是講 SCRUM、講 Agile，可是你看人家生產線上的 sprint 可是以五個小時為單位，有些工作站的節點甚至是以三個小時為一個 sprint。所以當我在聽這些 podcast 或conference 的時候，==你會發現他們談的 DevOps, Agile 跟 Scrum 裡面的核心原理跟做法與我們學到的完全一模一樣，但差別在於他們能夠將這些原理極致化，強調極短的 release cycle！==
+				- 這邊我們看到 SpaceX 每天可以在 production release 一萬七千多次，他們試錯成本這麼高每個火箭造價動輒上百萬美元，有時上面還坐了人呢！他們講 DevOps 跟 continuous testing ！另外，特斯拉也是講 SCRUM、講 Agile，可是你看人家生產線上的 sprint 可是以五個小時為單位，有些工作站的節點甚至是以三個小時為一個 sprint。所以當我在聽這些 podcast 或conference 的時候，==你會發現他們談的 DevOps, Agile 跟 Scrum 裡面的核心原理跟做法與我們學到的完全一模一樣，但差別在於他們能夠將這些原理極致化，強調極短的 release cycle！==
 			- ##### 具備「快」的「能力」
 				- 想要快，最好、最安全的起手勢就是 Trunk-based 加上 feature toggling。這邊講最安全是因為你在網路上可以找到太多的成功案例、教材、工法與工具。單主幹開發細節在這就不多說，但一個功能開關（feature toggle）可以讓你把未完成的代碼藏起來讓你每天可以至少跟主幹合併一次做到真正的 CI。另外同一個開關可以讓 QA 打開來做手動測試却不會影響到同一個環境上的 regression CI bot，還有還能 staged rollout  DB migration 確認沒有效能問題，更不用說還能拿來做後續的 canary release 及 A/B testing。功能開關使用情境之多，能帶來效率、彈性與降低上版風險及風暴範圍，為何不用呢？
 				- #+BEGIN_QUOTE
