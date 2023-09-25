@@ -67,11 +67,12 @@ type:: blogpost
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_28.jpg)
 			  社群中的前輩已經給了許多建議，例如＂一次比一次好＂和專注 new code coverage 等，但如何排除眾議確實執行它，長久堅持下去才是困難的。Evangalist 需要去 promote 及營造這樣的環境！
 		- ##### Together, Go Faster
-			- DevOps + SRE + Development team play will together), but communication, mindset changes and prepare workshops took a lot of time!!
+			- DevOps + SRE + Development team play will together, but communication, mindset changes and prepare workshops took a lot of time!!
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_30.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_31.jpg)
 		- ##### DevGov
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_32.jpg)
+			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_32.jpg)
 		- ##### Platform Engineering
 			- 想解決跨團隊都有的問題時或許用組織 community 的方式來處理更適合！
 - ### Takeaway
