@@ -64,6 +64,7 @@ type:: blogpost
 		- ##### Unit test and dashboards
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_26.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_27.jpg)
+			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_28.jpg)
 			  社群中的前輩已經給了許多建議，例如＂一次比一次好＂和專注 new code coverage 等，但如何排除眾議確實執行它，長久堅持下去才是困難的。Evangalist 需要去 promote 及營造這樣的環境！
 		- ##### Together, Go Faster
 			- Cloud native adoption
