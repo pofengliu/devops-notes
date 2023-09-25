@@ -84,8 +84,10 @@ type:: blogpost
 		  現在的我，發現對於單主幹開發的考量並不如培養關鍵能力重要，這些能力包括解耦代碼部署與發布、分階段推出（Canary Release）和規模化 A/B 測試以降低每次實驗的成本。
 		- 所以彈指間，AE 跟 QA 就少了一半了嗎，還是全消失了？ 當然沒有，反而他們更有時間在做 Explore Testing 跟優化（optimize）整個 Pipeline 的效率。所以真的那天到來的時候，你確定你能說出一套探索測試的理論亦或是你能夠清楚地察覺到當前 Pipeline 的瓶頸在哪裡，所以你才有辦法去優化它嗎？這才是我們要花時間培養及專注的地方。當趨勢已經改變，你就應該往前看，This is the way！
 	- #### Community in a Digital World
+		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_39.jpg)
 	- #### For Evangelist
-		- 沒有一家公司是完美的，抱怨永遠不會結束，但很多公司卻會結束。
+		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_40.jpg)
+		  沒有一家公司是完美的，抱怨永遠不會結束，但很多公司卻會結束。
 			- 如何幫助公司、團隊，學習到更有效率的開發方式
 			- 文化沒有好壞，或許 biz driven 、注重獲利、經濟下行影響較小不用減薪裁員 (good Eng culture, flexibility)
 	- #### Engineering Culture
