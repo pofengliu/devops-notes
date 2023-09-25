@@ -16,7 +16,7 @@ type:: blogpost
 			- ==當然這些不合理、沒有效率的事情在今天要講的單主幹開發裡面，它幾乎不存在！==當我理解了背後的原理，我就決定要去推廣所這謂 DevOps 的 Elite culture。
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_8.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_9.jpg)
-			- 不過現實是... 不管是 Accelerate 這本書的內容或是 DevOps Handbooks 裡面講的所謂三步工法，當你對所有 RD 講完之後，大家都是興趣缺缺。對於那所謂單主幹開發更是覺得這種上不了檯面的雕蟲小技怎麼會拿出來講呢？Gitflow 的 feature branch 才是王道吧!
+			- 不過現實是... 不管是 Accelerate 這本書的內容或是 DevOps Handbooks 裡面講的所謂三步工法，當你對所有 RD 講完之後，大家都是毫無反應。之於那所謂單主幹開發更是覺得這種上不了檯面的雕蟲小技怎麼會拿出來講呢？Gitflow 的 feature branch 才是王道吧!
 		- #### 軟體公司的數字化轉型?
 			- ##### 快速交付是種「能力」！
 				- 能力跟競爭力還是有差別的！==競爭力大部分能夠用錢來提升，但能力確很難培養。==比如說公司為提升競爭力，可以花錢導入JIR、買 CRM 等軟體，想要做好版控提升品質，有錢的去買GitHub，經費比較少的用 GitLab，但是不管你買了哪一個，想要做到快速交付，那根本就是兩碼事，快的能力是要部門間完美的配合及磨練出來的。
