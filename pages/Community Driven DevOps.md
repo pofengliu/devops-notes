@@ -51,7 +51,7 @@ type:: blogpost
 				- 以實力化需求為核心，串連整個開發流程的上中下游，並確保工作方法的重複性和一致性 (repeatability and consistency)，這為持續改進提供了空間。詳見：[[實例化需求 (Specification by Example)]]
 				- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_21.jpg)
 				  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_22.jpg)
-				  這邊想要強調的是基於兩週交付一次，二週內讓所有 regression tests 變成綠色的，跟次 commit 都要在 PR 內跑完大部份的 regression 而且一天要跑 25次、50次所用到的
+				  這邊想要強調的是基於兩週交付一次，二週內讓所有 regression tests 變成綠色的，跟次 commit 都要在 PR 內跑完大部份的 regression 而且一天要跑 25次、50次，還要超快且 non-flaky，所用的心態、
 - ### Community Driven DevOps
 	- #### History, Progress & What We Learned
 		- ##### Unit test and dashboards
