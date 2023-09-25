@@ -1,7 +1,7 @@
-public:: false
+public:: true
 type:: blogpost
 
-- 此為 DevOpsDays Taipei 2023 - Community Driven DevOps 內容筆記
+- DevOpsDays Taipei 2023 - Community Driven DevOps 內容筆記
 - ## DevOps Evangelist 經驗分享
 	- ### About Me & LINE TW & Demo
 	- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_2.jpg)

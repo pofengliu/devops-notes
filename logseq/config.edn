@@ -173,7 +173,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :graph/settings {:builtin-pages? true}
- :favorites ["Feature Toggle 系統的一些慢想" "什麼是自動化測試的標的？" "實例化需求 (Specification by Example)" "實例化需求 (specification by examples)/workshop" "DevOps十年了，你，想改變了嗎?" "開發流程的共識與目標" "實例化需求 (Specification by Examples)" "devops十年了，你，想改變了嗎？"]
+ :favorites ["Community Driven DevOps" "Feature Toggle 系統的一些慢想" "什麼是自動化測試的標的？" "實例化需求 (Specification by Example)" "實例化需求 (specification by examples)/workshop" "DevOps十年了，你，想改變了嗎?" "開發流程的共識與目標" "實例化需求 (Specification by Examples)" "devops十年了，你，想改變了嗎？"]
  :journal/page-title-format "yyyy年MM月dd日"
  :feature/enable-journals? false
  :default-home {:page "About Us", :sidebar "contents"}
