@@ -43,6 +43,7 @@ type:: blogpost
 			  隨著時間的推移和行業巨頭的認可，大家覺得單主幹開發是否還是這麼具有爭議性，還是它已經逐漸成為軟體開發的主流趨勢呢？所以當團隊找我討論，這樣做好不好，那樣做行不行的時候，我都是拿這些 definitions 來跟大家解釋。所以 resources 或 schedule 等都可以討論，但這些 essential rules 是沒有辦法妥協的，這是要跟團隊達成的共識。 這些作法很多都是反人性的，但 DevOps 這幾年的發展已經證明這跟行業別、公司大小都無關，其實都是做得到的，重點是要去了解每一項背後所代表的意義。
 		- #### Automation Strategies
 			- ##### 快速反饋中的測試驅動的開發
+				- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_21.jpg)
 				- 測試驅動開發必須以清晰的需求為核心，不明確的需求會導致後續的 rework，影響速度。
 				  在 PBR Meeting 的產出中，每個 user story 的 Acceptance Criteria (AC) 也正是 Definition of Ready (DoR) 的一部分。每個 User Story 一般只有三、五個驗收條件，相比數十隻 test cases，developer 更願意嘗試這三到五個的自動化測試。有了 AC，developer、QA 或 AE 才能針對每一個 AC 進行自動化驗收實作討論，到底要在哪一些層級去做自動化來驗收這個驗收條件是最有效率的，這樣做才能避免所謂的 test case coverage 的duplication。而絕對不是 developer 寫自己的 UT，而 AE 負責 integration 與 end-to-end testing 的自動化，互不討論。詳見 [pipelinedriven.org](pipelinedriven.org)，雖然裡面用詞與實例化需求不同，但概念是可以相通的！
 				- ==所以「關鍵實例」才是自動化測試的標的，而非 raw examples！==另外 QA 也可以根據關鍵實例去擴展為多個 manual test cases，這些 test cases 並不需要全部自動化，從關鍵實例開始，如果幾次交付後如果還是沒有信心，再補就是，能少就不要多。另外，生產線的 bug，為避免再次發生，還是需要團隊討論有沒有必要做成自動化變成 regression 的一部分。
