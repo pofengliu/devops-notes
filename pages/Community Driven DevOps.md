@@ -55,6 +55,7 @@ type:: blogpost
 				  * 在 PR 內跑完大部份 regression：Test isolations, Mock, Stub, TestContainers
 				  * 要能 non-flaky 且能平行跑：TestContext
 				  * Test in MicroServices: Consumer Driven Contract Testing
+				  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_23.jpg)
 - ### Community Driven DevOps
 	- #### History, Progress & What We Learned
 		- ##### Unit test and dashboards
