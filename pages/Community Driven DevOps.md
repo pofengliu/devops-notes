@@ -49,6 +49,8 @@ type:: blogpost
 				- ==所以「關鍵實例」才是自動化測試的標的，而非 raw examples！==另外 QA 也可以根據關鍵實例去擴展為多個 manual test cases，這些 test cases 並不需要全部自動化，從關鍵實例開始，如果幾次交付後如果還是沒有信心，再補就是，能少就不要多。另外，生產線的 bug，為避免再次發生，還是需要團隊討論有沒有必要做成自動化變成 regression 的一部分。
 				- 最後，你把所有的 AC 彙整後，最重要的那些案例就會是從各個角色的觀點出發的 CUJs (critical user journey)， 有了明確定義好的這些 CUJ 之後，你才能有辦法去判斷什麼是 production outage 亦或只是 production bug，那這個又會影響到後面 MTTR metric 的計算。
 				- 以實力化需求為核心，串連整個開發流程的上中下游，並確保工作方法的重複性和一致性 (repeatability and consistency)，這為持續改進提供了空間。詳見：[[實例化需求 (Specification by Example)]]
+				- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_21.jpg)
+				  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_22.jpg)
 - ### Community Driven DevOps
 	- #### History, Progress & What We Learned
 		- ##### Unit test and dashboards
