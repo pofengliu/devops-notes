@@ -59,8 +59,11 @@ type:: blogpost
 				  在中庸等級上所做的練習對 elite culture 完全沒幫助，且都要幾年後才會發現，這些已經習慣的作法，反而會變成轉變時心裡的負擔！例如心態上難以跨越的門檻：以前要跑完幾千隻的 automation 才有信心上版，現在 auto 只跑 CUJ?
 - ### Community Driven DevOps
 	- #### History, Progress & What We Learned
+		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_24.jpg)
+		  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_25.jpg)
 		- ##### Unit test and dashboards
-			- 社群中的前輩已經給了許多建議，例如＂一次比一次好＂和專注 new code coverage 等，但如何排除眾議確實執行它，長久堅持下去才是困難的。Evangalist 需要去 promote 及營造這樣的環境！
+			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_26.jpg)
+			  社群中的前輩已經給了許多建議，例如＂一次比一次好＂和專注 new code coverage 等，但如何排除眾議確實執行它，長久堅持下去才是困難的。Evangalist 需要去 promote 及營造這樣的環境！
 		- ##### Together, Go Faster
 			- Cloud native adoption
 			- RUM & full tracing
