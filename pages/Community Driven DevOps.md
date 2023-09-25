@@ -79,7 +79,7 @@ type:: blogpost
 - ### Takeaway
 	- #### You created your own problems
 	- #### Trunk-based or NOT
-		- 現在的我，對於單主幹開發的考量並不如培養關鍵能力重要，這些能力包括解耦代碼部署與發布、分階段推出（Canary Release）和規模化 A/B 測試以降低每次實驗的成本。
+		- 現在的我，發現對於單主幹開發的考量並不如培養關鍵能力重要，這些能力包括解耦代碼部署與發布、分階段推出（Canary Release）和規模化 A/B 測試以降低每次實驗的成本。
 		- 所以彈指間，AE 跟 QA 就少了一半了嗎，還是全消失了？ 當然沒有，反而他們更有時間在做 Explore Testing 跟優化（optimize）整個 Pipeline 的效率。所以真的那天到來的時候，你確定你能說出一套探索測試的理論亦或是你能夠清楚的察覺到當前 Pipeline 的瓶頸在哪裡？所以你才有辦法去優化，這才是我們要花時間培養及專注的地方。當趨勢已經改變，你就應該往前看，This is the way！
 	- #### Community in a Digital World
 	- #### For Evangelist
