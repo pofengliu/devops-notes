@@ -56,8 +56,7 @@ type:: blogpost
 				  * 要能 non-flaky 且能平行跑：TestContext
 				  * Test in MicroServices: Consumer Driven Contract Testing
 				  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_23.jpg)
-				  在中庸等級上所做的練習對 Elite cluter 完全沒幫助，且都要幾年後才會發現，這些已經習慣的作法，反而會變成轉變時心裡的負擔！Ex: 心態上難以跨越的門檻：以前要跑完幾千隻的 automation 才有信心上版，現在 auto 只跑 CUJ?
-				  兩條道路上，一路上的風景都是不一樣的
+				  在中庸等級上所做的練習對 elite culture 完全沒幫助，且都要幾年後才會發現，這些已經習慣的作法，反而會變成轉變時心裡的負擔！例如心態上難以跨越的門檻：以前要跑完幾千隻的 automation 才有信心上版，現在 auto 只跑 CUJ?
 - ### Community Driven DevOps
 	- #### History, Progress & What We Learned
 		- ##### Unit test and dashboards
