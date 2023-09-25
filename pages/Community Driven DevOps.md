@@ -67,7 +67,7 @@ type:: blogpost
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_27.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_28.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_29.jpg)
-			  這個是現在跟8個月前，所有 projects coverage screenshots 的圖，我把兩張疊在一起。每個圓圈包含這 project 內所有的 repositories，其中一些 bot, utils, backend CMS 等那些你不會花太多時間寫測試的 repo，所以平均下來 coverage 會比較低，大部份重要商業邏輯的元件，coverage rate 大於80、90以上的非常多。但是所要看的是在沒有要求及格分數的狀況下且經過了幾年之後，大家還是能自動自發做到持續改善，這是想當不容易的，也代表 [自主團隊文化] autonomous team culture 的成型~~
+			  這個是現在跟8個月前，所有 projects coverage screenshots 的圖，我把兩張疊在一起。每個圓圈包含這 project 內所有的 repositories，其中一些 bot, utils, backend CMS 等那些你不會花太多時間寫測試的 repo，所以平均下來 coverage 會比較低，大部份重要商業邏輯的元件，coverage rate 大於80、90 以上的非常多。但是所要看的是在沒有要求及格分數的狀況下且經過了幾年之後，大家還是能自動自發做到持續改善，這是想當不容易的，也代表 [自主團隊文化] autonomous team culture 的成型~~
 			  社群中的前輩已經給了許多的建議，例如＂一次比一次好＂和專注 new code coverage 等，但如何排除眾議確實執行它，長久堅持下去才是困難的。Evangalist 需要去 promote 及營造這樣的環境！
 		- ##### Together, Go Faster
 			- DevOps + SRE + Development team play will together, but communication, mindset changes and prepare workshops took a lot of time!!
