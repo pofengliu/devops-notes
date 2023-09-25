@@ -72,9 +72,10 @@ type:: blogpost
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_31.jpg)
 		- ##### DevGov
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_32.jpg)
-			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_32.jpg)
+			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_33.jpg)
 		- ##### Platform Engineering
-			- 想解決跨團隊都有的問題時或許用組織 community 的方式來處理更適合！
+			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_34.jpg)
+			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_35.jpg)
 - ### Takeaway
 	- #### You created your own problems
 	- #### Trunk-based or NOT
