@@ -91,4 +91,6 @@ type:: blogpost
 			- 如何幫助公司、團隊，學習到更有效率的開發方式。
 			- Amazon 跟 Netflix 兩家公司文化差異這麼大，但 DevOps 都做得超棒。
 	- #### Engineering Culture
+		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_41.jpg)
 - Your Choice
+	- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_42.jpg)
