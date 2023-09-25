@@ -69,8 +69,6 @@ type:: blogpost
 		- ##### Together, Go Faster
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_30.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_31.jpg)
-			- Cloud native adoption
-			- RUM & full tracing
 		- ##### DevGov
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_32.jpg)
 		- ##### Platform Engineering
