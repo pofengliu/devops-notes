@@ -89,6 +89,6 @@ type:: blogpost
 		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_40.jpg)
 		  沒有一家公司是完美的，抱怨永遠不會結束，但很多公司卻會結束。
 			- 如何幫助公司、團隊，學習到更有效率的開發方式
-			- 文化沒有好壞，或許 biz driven 很注重獲利，但經濟下行時影響較小不用減薪裁員 (good Eng culture, flexibility)
+			- Amazon 跟 Netflix 兩家公司文化差異這麼大，但
 	- #### Engineering Culture
 - Your Choice
