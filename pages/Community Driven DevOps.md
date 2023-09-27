@@ -95,7 +95,7 @@ type:: blogpost
 			- Amazon 跟 Netflix 兩家公司文化差異這麼大，但 DevOps 都做得超棒。
 	- #### Engineering Culture
 		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_41.jpg)
-		- Bug retesting, alpha, beta 等等都是不斷在消耗 resources …
+		- Merging hell, defect retesting, alpha, beta 等等都是不斷在消耗團隊 resources (time, )…
 - Your Choice
 	- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_42.jpg)
 	- 上世紀的畫講馬太福音的故事：自古以來成功之路就是崎嶇、困難與無聊的，中庸之路通常是寬廣、平坦、歡樂的！再讓我選擇一次，希望時間不是花在那些 branch merging, hotfix retesting 上面。這世代的 talent 值得花在更有創意的地方！
