@@ -97,4 +97,8 @@ type:: blogpost
 		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_41.jpg)
 - Your Choice
 	- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_42.jpg)
-	- 簡報重點是希望大家能把精力轉移到 DevOps elite culter 所擘劃的那樣一個情境，慢慢地花時間在「快 」所需要的基礎打好上面，例如單元測試、需求探索方法等等。
+	- 上世紀的畫講馬太福音的故事：自古以來成功之路就是崎嶇、困難與無聊的，中庸之路通常是寬廣、平坦、歡樂的！
+	  再讓我選擇一次，希望時間不是花在那些 branch merging, hotfix retesting. 這世代的 talent 值得花在更有創意的地方！
+	  Unit-test  ~ o11y / Quality, automation ～ Efficiency 都守備範圍，中庸（X）不如當個 RD 就好！
+	  
+	  簡報重點是希望大家能把精力轉移到 DevOps elite culter 所擘劃的那樣一個情境，慢慢地花時間在「快 」所需要的基礎打好上面，例如單元測試、需求探索方法等等。Retesting, alpha, beta 等等都是不斷在消耗 resources …
