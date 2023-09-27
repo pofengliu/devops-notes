@@ -97,3 +97,4 @@ type:: blogpost
 		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_41.jpg)
 - Your Choice
 	- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_42.jpg)
+	- 簡報重點是希望大家能把精力
