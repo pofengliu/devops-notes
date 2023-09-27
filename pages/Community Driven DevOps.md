@@ -100,5 +100,5 @@ type:: blogpost
 	- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_42.jpg)
 	- 上世紀的畫講馬太福音的故事：自古以來成功之路就是崎嶇、困難與無聊的，中庸之路通常是寬廣、平坦、歡樂的！
 	- 再讓我選擇一次，希望時間不是花在那些 branch merging, hotfix retesting 上面。這世代的 talent 值得花在更有創意的地方！
-	- 對於 DevOps evangelist，從單元測試到可觀測性、或是自動化縮短 lead-time 到組織效率都是你的守備範圍，如果只是要做到中庸等級那不如當個 RD 就好，！
+	- 對於 DevOps evangelist，從單元測試到可觀測性、或是自動化縮短 lead-time 到組織效率都是你的守備範圍，如果操心這麼多事只是要做到中庸等級，那不如當個  就好！
 	  簡報重點是希望大家能把精力轉移到 DevOps elite culter 所擘劃的那樣一個情境，慢慢地花時間在「快 」所需要的基礎打好上面，例如單元測試、需求探索方法等等。
