@@ -73,7 +73,7 @@ type:: blogpost
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_30.jpg)
 			- DevOps + SRE + Development team play will together, but communication, mindset changes and prepare workshops took a lot of time!!
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_31.jpg)
-			- DevOps state report 裡面也提到只有 10% 的團隊能夠完整實踐 SRE 相關的指導方案。這裡面的原因不外乎 SRE 只用了 infra team 的思維而缺乏持續溝通來改變工程團隊的想法進而促進改變的意願。導入可觀測性就是一個明顯的例子，大部份 RD 想要的只是能查詢 log 來推斷問題原因，但 DevOps 想的是如何用可觀測性來降低 MTTR 進而減少爆炸範圍、生產線救火而降低 unplanned work 比例
+			- DevOps state report 裡面也提到只有 10% 的團隊能夠完整實踐 SRE 相關的指導方案。這裡面的原因不外乎 SRE 只用了 infra team 的思維而缺乏持續溝通來改變工程團隊的想法進而促進改變的意願。導入可觀測性就是一個明顯的例子，大部份 RD 想要的只是能查詢 log 來推斷問題原因，但 DevOps 想的是如何用可觀測性來降低 MTTR 進而減少爆炸範圍、生產線救火而降低 unplanned work 比例等等
 		- ##### DevGov
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_32.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_33.jpg)
