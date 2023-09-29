@@ -73,7 +73,7 @@ type:: blogpost
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_30.jpg)
 			- DevOps + SRE + Development team play will together, but communication, mindset changes and prepare workshops took a lot of time!!
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_31.jpg)
-			- DevOps state report 裡面也提到只有 10% 的團隊能夠完整實踐 SRE 所給出的指導方案
+			- DevOps state report 裡面也提到只有 10% 的團隊能夠完整實踐 SRE 相關的指導方案。這裡面的原因不外乎 SRE 只用了 infra team 的思維
 		- ##### DevGov
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_32.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_33.jpg)
