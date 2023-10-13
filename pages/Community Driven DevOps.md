@@ -27,7 +27,7 @@ type:: blogpost
 				  所以不進則退，==但我想要講的是 release on-demand 在實作上、思維、策略跟技巧跟其它的等級都不一樣！這也是為何一直想強調 elite culture 後面的道理的！==
 				- ![](https://speakerd.s3.amazonaws.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_15.jpg)
 				  #+BEGIN_QUOTE
-				  Sally realized that it wasn’t necessary for the software to be perfect and bug free at the moment that it was released to the readers. “The risk of not getting software to our users is greater” 
+				  Sally realized that it wasn’t necessary for the software to be perfect and bug free at the moment that it was released to the readers. “The risk of not getting software to our users is greater”  [Ref](video https://www.youtube.com/watch?v=L-WOJmCcA9g)
 				  #+END_QUOTE 
 				  ![](https://speakerd.s3.amazonaws.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_16.jpg)這邊常會有誤會，舉例來說，葉問葉師傅可以一次打20個，這是一個苦練出來的能力，但不代表他每天都要出去打 20 個，難道要打到沒朋友？對企業來講也是一樣，我能夠做到 multiple release a day，那我可以根據商業的需求改成 daily、weekly 或是 monthly release 都是沒問題的。但反過來說，哪天當 biz 醒過來，要求你做到更快速地交付時，你有辦法嗎？其實是很難的，因為這是要長時間培養的能力！==所以不要抱怨 planner 要求的功能做出來都沒有人用，你的 pipeline 能提供簡單、快速、低成本的 A/B testing 來讓他可以快速去驗證他的假設嗎？==
 				- 這邊我們看到 SpaceX 每天可以在 production release 一萬七千多次，他們試錯成本這麼高每個火箭造價動輒上百萬美元，有時上面還坐了人呢！他們講 DevOps 跟 continuous testing ！另外，特斯拉也是用 SCRUM、講 Agile，可是你看人家生產線上的 sprint 可是以五個小時為單位，有些工作站的節點甚至是以三個小時為一個 sprint。所以當我在聽這些 podcast 或conference 的時候，==你會發現他們談的 DevOps, Agile 跟 Scrum 裡面的核心原理跟做法與我們學到的完全一模一樣，但差別在於他們能夠將這些原理極致化，強調極短的 release cycle！==
