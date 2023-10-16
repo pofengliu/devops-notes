@@ -40,13 +40,9 @@ type:: blogpost
 				- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_17.jpg)
 				  ==想要快，最好、最安全的起手勢就是 Trunk-based 加上 feature toggling。這邊講最安全是因為你在網路上可以找到太多的成功案例、教材、工法與工具==。單主幹開發細節在這就不多說，但一個功能開關（feature toggle）可以讓你把未完成的代碼藏起來讓你每天可以至少跟主幹合併一次做到真正的 CI。另外同一個開關可以讓 QA 打開來做手動測試却不會影響到同一個環境上的 regression CI bot，還能 staged rollout  DB migration 確認沒有效能問題，更不用說拿來做後續的 canary release 及 A/B testing。功能開關使用情境之多，能帶來效率、彈性與降低上版風險及風暴範圍，為何不用呢？
 				  對了，==圖上面的 DORA tags，說的是這些 toggling practices 能為四項的 DORA metrics 帶來哪些改善！（所導入的任何做法最終還是要能反應到這些效率指標，對吧！ ）==
-				- #+BEGIN_QUOTE
+				- #+BEGIN_NOTE
 				  使用 canary release 和 observability 所建構出的安全網來替代傳統的 Alpha、Beta、Staging 等層層關卡，可提高效率並降低上版風險。真正做到有考慮風險意識地快速假設、上版、實驗、反饋，然後依反饋提改進計畫。
-				  #+END_QUOTE
-				  
-				  #+BEGIN_IMPORTANT
-				  使用 canary release 和 observability 所建構出的安全網來替代傳統的 Alpha、Beta、Staging 等層層關卡，可提高效率並降低上版風險。真正做到有考慮風險意識地快速假設、上版、實驗、反饋，然後依反饋提改進計畫。
-				  #+END_IMPORTANT
+				  #+END_NOTE
 		- #### 基本定義 (Definitions)
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_18.jpg)
 			- 持續交付書中，特別是CI、CD 的定義對於 RD 非常重要，每一個定義背後都有其存在的理由。選擇性地採納或拒絕某些做法，一般正是導致轉型失敗的主因。所以當團隊找我討論，這樣做好不好，那樣做行不行的時候，我都是拿這些 definitions 來跟大家解釋。因此 resources 或 schedule 等因素都有空間可以討論，但這些 essential rules 是沒有辦法妥協的，這是要跟團隊達成的共識。 這些作法很多都是反人性的，但 DevOps 這幾年的發展已經證明這跟行業別、公司大小都無關，其實都是做得到的，重點是要去了解每一項背後所代表的意義。
