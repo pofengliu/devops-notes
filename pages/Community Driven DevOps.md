@@ -43,6 +43,10 @@ type:: blogpost
 				- #+BEGIN_QUOTE
 				  使用 canary release 和 observability 所建構出的安全網來替代傳統的 Alpha、Beta、Staging 等層層關卡，可提高效率並降低上版風險。真正做到有考慮風險意識地快速假設、上版、實驗、反饋，然後依反饋提改進計畫。
 				  #+END_QUOTE
+				  
+				  #+BEGIN_IMPORTANT
+				  使用 canary release 和 observability 所建構出的安全網來替代傳統的 Alpha、Beta、Staging 等層層關卡，可提高效率並降低上版風險。真正做到有考慮風險意識地快速假設、上版、實驗、反饋，然後依反饋提改進計畫。
+				  #+END_IMPORTANT
 		- #### 基本定義 (Definitions)
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_18.jpg)
 			- 持續交付書中，特別是CI、CD 的定義對於 RD 非常重要，每一個定義背後都有其存在的理由。選擇性地採納或拒絕某些做法，一般正是導致轉型失敗的主因。所以當團隊找我討論，這樣做好不好，那樣做行不行的時候，我都是拿這些 definitions 來跟大家解釋。因此 resources 或 schedule 等因素都有空間可以討論，但這些 essential rules 是沒有辦法妥協的，這是要跟團隊達成的共識。 這些作法很多都是反人性的，但 DevOps 這幾年的發展已經證明這跟行業別、公司大小都無關，其實都是做得到的，重點是要去了解每一項背後所代表的意義。
