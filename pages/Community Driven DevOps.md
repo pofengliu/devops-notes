@@ -36,7 +36,7 @@ type:: blogpost
 				- #+BEGIN_QUOTE
 				  This is systems thinking — a core principle of DevOps — and it is leadership: Musk is thinking about how to empower his engineers and enable them to get things from design to test as quickly and easily as possible — in other words, how they can reduce cycle time. [ref.](https://cliffberg.medium.com/spacexs-use-of-agile-methods-c63042178a33)
 				  #+END_QUOTE
-					- 對 team leader 及 manager 來說，能夠幫
+					- 對 team leader 及 manager 來說，能夠幫開發者
 			- ##### 具備「快」的「能力」
 				- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_17.jpg)
 				  ==想要快，最好、最安全的起手勢就是 Trunk-based 加上 feature toggling。這邊講最安全是因為你在網路上可以找到太多的成功案例、教材、工法與工具==。單主幹開發細節在這就不多說，但一個功能開關（feature toggle）可以讓你把未完成的代碼藏起來讓你每天可以至少跟主幹合併一次做到真正的 CI。另外同一個開關可以讓 QA 打開來做手動測試却不會影響到同一個環境上的 regression CI bot，還能 staged rollout  DB migration 確認沒有效能問題，更不用說拿來做後續的 canary release 及 A/B testing。功能開關使用情境之多，能帶來效率、彈性與降低上版風險及風暴範圍，為何不用呢？
