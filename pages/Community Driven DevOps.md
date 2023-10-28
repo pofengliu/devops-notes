@@ -5,6 +5,7 @@ type:: blogpost
 - ## DevOps Evangelist 經驗分享
 	- ### About Me & LINE TW & Demo
 	- ![image.png](../assets/image_1698469943866_0.png)
+	  Figure. DevOpsDays
 	- ![](https://speakerd.s3.amazonaws.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_2.jpg)
 	- ### DevOps Evangelist & Faiths
 		- #### 信仰來源
