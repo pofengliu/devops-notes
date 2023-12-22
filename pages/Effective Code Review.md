@@ -62,3 +62,10 @@
 	  * Demo refactoring, identifying code smells and associated methods to remove them
 	  * Live coding with the TDD approach (Example: baby steps, red light green light)
 	  * Hands on practice
+- ### **Measure the progress**
+	- >**If you can’t see it, you can’t measure it, you can’t improve it!**
+	- By leveraging visual impact with public dashboards, message notification to continuously remind everyone in pursuit our goals, we have the following dashboards displayed in rotation on a big screen by the entrance gate.
+	  * SonarQube project dashboard(#sonarqube-project-dashboard)
+	  * Team-based code coverage(#team-based-code-coverage)
+	  * PR size and resolution time(#pr-size-resolution-time)
+	  * PR comment notification(#pr-comment-notification)
