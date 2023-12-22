@@ -104,9 +104,8 @@
 	  First, we collected and monitored the distribution of new code coverage from each pull request, as long as developer comply with the rules above, do not merge the code if the new code coverage is low. With the dashboard below, it's easy to monitor the execution status in each service or project.
 	  ![image2022-3-29_17-33-47.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-33-47.png?version=1&modificationDate=1648546429000&api=v2)
 	- As we also found, when new code coverage is low for the most of the pull requests, then not surprisedly, the overall coverage is gradually getting lower.
-	- ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_18-49-23.png?version=1&modificationDate=1648550964000&api=v2)
+	  ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_18-49-23.png?version=1&modificationDate=1648550964000&api=v2)
 	- In Github pull request page which is integrated with sonarQube:
-	- |
 	- ![image2022-3-29_17-24-6.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-24-6.png?version=1&modificationDate=1648545848000&api=v2)
 	- |
 	- ![image2022-3-29_17-13-30.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-13-30.png?version=1&modificationDate=1648545210000&api=v2)
@@ -114,7 +113,7 @@
 	- ![image2022-3-29_17-19-33.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-19-33.png?version=1&modificationDate=1648545574000&api=v2)
 	- |
 	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
-	- ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_17-47-24.png?version=1&modificationDate=1648549371000&api=v2)
+	  ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_17-47-24.png?version=1&modificationDate=1648549371000&api=v2)
 - ### Reference
   * [Gerrit] [Code Review - Contributing](https://gerritcodereview-test.gsrc.io/dev-contributing.html#code-organization)
   * [Phabricator] [Writing Reviewable Code](https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/)
