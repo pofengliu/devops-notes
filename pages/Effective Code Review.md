@@ -115,4 +115,12 @@
 	- ![image2022-3-29_17-19-33.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-19-33.png?version=1&modificationDate=1648545574000&api=v2)
 	- |
 	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
-- ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_17-47-24.png?version=1&modificationDate=1648549371000&api=v2)
+	- ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_17-47-24.png?version=1&modificationDate=1648549371000&api=v2)
+- ### Reference
+  * [Gerrit] [Code Review - Contributing](https://gerritcodereview-test.gsrc.io/dev-contributing.html#code-organization)
+  * [Phabricator] [Writing Reviewable Code](https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/)
+  * [Phabricator] [Differential User Guide: Test Plans](https://secure.phabricator.com/book/phabricator/article/differential_test_plans/)
+	- [MSFT] [Code Reviews and SW quality, Empirical Research Results](https://www.linkedin.com/pulse/code-reviews-software-quality-empirical-research-results-avteniev/)
+	- [Cisco] [Best Practice for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+	- [Book] [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM)
+	- [Drive] [The Surprising Truth About Motivating Others](https://www.danpink.com/books/drive)
