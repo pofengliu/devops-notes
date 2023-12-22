@@ -33,6 +33,7 @@
 	  pic image2018-9-28_18-0-11.png
 		- Examples of using Github PR template
 - ### Linting and Code Style Check
-	- Leave static code analysis and coding style check to machines with tools like [SonarQube](https://www.sonarqube.org/)([https://www.sonarqube.org/](https://www.sonarqube.org/)) and [ESLint](https://eslint.org/)([https://eslint.org/](https://eslint.org/)), and spare human eyes for important parts like business logics and algorithms. These code scanning tools, type checking tools and linting tools can report bugs, [code smells](https://en.wikipedia.org/wiki/Code_smell()([https://en.wikipedia.org/wiki/Code_smell](https://en.wikipedia.org/wiki/Code_smell)) and vulnerabilities, along with a good test suite can certainly increase the confidence level.
+	- Leave static code analysis and coding style check to machines with tools like [SonarQube](https://www.sonarqube.org/)([https://www.sonarqube.org/](https://www.sonarqube.org/)) and [ESLint](https://eslint.org/)([https://eslint.org/](https://eslint.org/)), and spare human eyes for important parts like business logics and algorithms. These code scanning tools, type checking tools and linting tools can report bugs, [code smells](https://en.wikipedia.org/wiki/Code_smell) and vulnerabilities, along with a good test suite can certainly increase the confidence level.
 	- ![](https://engineering.linecorp.com/wp-content/uploads/2018/10/24/1540351983588.png)
-	- Detect issues in SonarQube from [SonarQube website](https://www.sonarqube.org/)
+		- Detect issues in SonarQube from [SonarQube website](https://www.sonarqube.org/)
+-
