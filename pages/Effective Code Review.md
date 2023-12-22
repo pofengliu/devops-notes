@@ -69,16 +69,16 @@
 	  * Team-based code coverage(#team-based-code-coverage)
 	  * PR size and resolution time(#pr-size-resolution-time)
 	  * PR comment notification(#pr-comment-notification)
-- #### SonarQube project dashboard
-	- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
-	- pic: image2018-10-11_18-53-33.png
-- #### Team based code coverage
-	- Team based code coverage chart shows the coverage trend of each repository of a team, so you don't have to navigate into each SonarQube project page. By putting this type of charts side by side, it's easy to compare how different teams are doing.
-	- pic: image2018-10-5_18-43-49.png?version=1&modificationDate=1538736230000&api=v2)
-- #### PR size and resolution time
-	- The core idea of DevOps is how to release software changes into production frequently but also with good quality. Making each deployment unit small is the trick here. Large PRs not only make good code review impossible but also costs in code quality and release cycle, so making a task/change small is a valid skill in DevOps. We try to promote this idea with the following "Resolution time vs. PR size" chart:
-	- pic: image2018-10-5_18-17-3.png
-		- Bubble size: Change set size (line of code)
-		- Resolution time: PR creation time to PR merge time
-		- `#n`: PR number
-- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
+	- #### SonarQube project dashboard
+		- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
+		- pic: image2018-10-11_18-53-33.png
+	- #### Team based code coverage
+		- Team based code coverage chart shows the coverage trend of each repository of a team, so you don't have to navigate into each SonarQube project page. By putting this type of charts side by side, it's easy to compare how different teams are doing.
+		- pic: image2018-10-5_18-43-49.png?version=1&modificationDate=1538736230000&api=v2)
+	- #### PR size and resolution time
+		- The core idea of DevOps is how to release software changes into production frequently but also with good quality. Making each deployment unit small is the trick here. Large PRs not only make good code review impossible but also costs in code quality and release cycle, so making a task/change small is a valid skill in DevOps. We try to promote this idea with the following "Resolution time vs. PR size" chart:
+		- pic: image2018-10-5_18-17-3.png
+			- Bubble size: Change set size (line of code)
+			- Resolution time: PR creation time to PR merge time
+			- `#n`: PR number
+	- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
