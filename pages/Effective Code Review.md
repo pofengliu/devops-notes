@@ -82,3 +82,15 @@
 			- Resolution time: PR creation time to PR merge time
 			- `#n`: PR number
 	- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
+	- #### PR Comment Notification
+		- Each commit submitted to PR triggers a webhook to post a github comment as below. This is to remind the PR creator to add tests and fix new vulnerabilities found right inside this PR, because this is more efficient than making these up after two weeks later when changes are released to production. To make the quality index better, reviewers should also help to find out why the reviewee is having a problem.
+		- pic: image2018-10-5_18-9-36.png
+			- Last n Avg.: Shows the trend of each metric
+			- xxx_violations: The number of bug, vulnerability and code smell found
+			- line_coverage: The percentage of LoC which are executed by unit tests
+- ## Summary & Future plans
+	- How to write clean code and how to identify code smells and remove them provide a great context for code review discussion, and when team really spend time addressing these common issues, the culture is fostered along the way.
+	- From the other side, metrics that do not get tracked are not useful; showing data trends over time is important, which gives context to allowing us to make corresponding actions. Looking at the trend lines shown in the charts above, things are moving with progress. Also we are going to consider adding more dashboards for the following:
+- -
+- Quality: bug open / close count with severities, defect density
+	- Velocity: deployment frequency, lead time to production, change failure rate and MTTR
