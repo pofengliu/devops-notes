@@ -14,5 +14,6 @@
 	  * [Linting and code style check]
 - ### Keep changes small
 - A study by a Cisco System programming team has shown that 60 to 90 minute long review over 200 to 400 LoC (Line of Code) yields 70–90% defect discovery. Treat each PR as a releasable unit (feature, bug fix) or a cohesive idea which is meaningful to the PR. To learn why a large pull request hurts and what the optimal size for pull requests is, check [here](https://smallbusinessprogramming.com/optimal-pull-request-size/)([https://smallbusinessprogramming.com/optimal-pull-request-size/](https://smallbusinessprogramming.com/optimal-pull-request-size/)).
-- ![](https://wiki.linecorp.com/download/attachments/1269966465/codereview_1.png?version=1&modificationDate=1538724603000&api=v2&effects=drop-shadow)       ![](https://wiki.linecorp.com/download/attachments/1269966465/codereview_2.png?version=1&modificationDate=1538724603000&api=v2)
-- Code reviews, from [@iamdeveloper](https://twitter.com/iamdevloper)([https://twitter.com/iamdevloper](https://twitter.com/iamdevloper)) on Twitter & Defect density vs LoC, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)([https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/))
+- pic
+  pic
+- Code reviews, from [@iamdeveloper](https://twitter.com/iamdevloper) on Twitter & Defect density vs LoC, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
