@@ -44,6 +44,21 @@
 	  * Mastery: Continuously performing good coding practices and learning from each other through code review can eventually enhance personal coding skills
 	  * Purpose: Code quality is our ultimate goal, find bugs at an early stage instead of putting fire off in production
 	- Thus to facilitate team culture building, I started my efforts with following two items:
-	- -
-	- Enhance Skill(#enhance-skill)
-		- Measure the progress(#measure-progress)
+	  * Enhance Skill(#enhance-skill)
+	  * Measure the progress(#measure-progress)
+- ### **Enhance Skill **
+	- Yes, to get to the bottom of making this work, developers still need to have a sound concept and complete knowledge to reach the growing consensus(practices) of their team in their daily work. To help developers, we leverage local consultancy to give workshops on unit test, refactoring and TDD (Test-Driven Development).
+	- We address the following topics in the workshop (listed but not limited):
+	- 1. Unit test
+	- Design test cases to reveal intention rather than to test code implementation
+		- Identify and isolate dependency
+		- Introduce extract & overwrite and dependency injection methods
+		- Explain stub & mock framework and assertion libraries
+		- Practice refactoring skills like extract method, inline variables, and many others.
+	- [Kata](https://en.wikipedia.org/wiki/Kata_(programming))([https://en.wikipedia.org/wiki/Kata_(programming)](https://en.wikipedia.org/wiki/Kata_(programming))) hands on
+	- Requirement analysis, refine scenarios and find key examples
+		- Code design and implementation
+	- 3. TDD and refactoring
+	- Demo refactoring, identifying code smells and associated methods to remove them
+		- Live coding with the TDD approach (Example: baby steps, red light green light)
+		- Hands on practice
