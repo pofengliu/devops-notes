@@ -77,8 +77,8 @@
 	- pic: image2018-10-5_18-43-49.png?version=1&modificationDate=1538736230000&api=v2)
 - #### PR size and resolution time
 	- The core idea of DevOps is how to release software changes into production frequently but also with good quality. Making each deployment unit small is the trick here. Large PRs not only make good code review impossible but also costs in code quality and release cycle, so making a task/change small is a valid skill in DevOps. We try to promote this idea with the following "Resolution time vs. PR size" chart:
-	- pic: image2018-10-5_18-17-3.png?version=1&modificationDate=1538734624000&api=v2)
-	- Bubble size: Change set size (line of code)
-	- Resolution time: PR creation time to PR merge time
-	- #n: PR number
-	- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
+	- pic: image2018-10-5_18-17-3.png
+		- Bubble size: Change set size (line of code)
+		- Resolution time: PR creation time to PR merge time
+		- `#n`: PR number
+- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
