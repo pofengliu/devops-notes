@@ -36,4 +36,14 @@
 	- Leave static code analysis and coding style check to machines with tools like [SonarQube](https://www.sonarqube.org/)([https://www.sonarqube.org/](https://www.sonarqube.org/)) and [ESLint](https://eslint.org/)([https://eslint.org/](https://eslint.org/)), and spare human eyes for important parts like business logics and algorithms. These code scanning tools, type checking tools and linting tools can report bugs, [code smells](https://en.wikipedia.org/wiki/Code_smell) and vulnerabilities, along with a good test suite can certainly increase the confidence level.
 	- ![](https://engineering.linecorp.com/wp-content/uploads/2018/10/24/1540351983588.png)
 		- Detect issues in SonarQube from [SonarQube website](https://www.sonarqube.org/)
--
+- One of the most important part of code reviews is to reward developers for growth and effort, so try to offer *as many compliment** **as possible*.
+  Lastly, you can't give a proper review if you can't understand parts of the code. If your discussion seems to go back and forth, picking it up and finalizing the discussion in person would be more efficient.
+- ## Make this part of our engineer culture
+	- Someone said that "culture is what people do while no one is looking". Will you still write adequate tests for your code when code review process is skipped? Not easy right? But it's still worth trying! If your project has employed Agile, consider the following factors to make your team culture self-directed, continuously improving and learning:
+		- * Autonomy: Team members take their responsibilities and work in the ways they prefer (Example: Scrum, pair programming)
+			- Mastery: Continuously performing good coding practices and learning from each other through code review can eventually enhance personal coding skills
+			- Purpose: Code quality is our ultimate goal, find bugs at an early stage instead of putting fire off in production
+	- Thus to facilitate team culture building, I started my efforts with following two items:
+	- -
+	- Enhance Skill(#enhance-skill)
+		- Measure the progress(#measure-progress)
