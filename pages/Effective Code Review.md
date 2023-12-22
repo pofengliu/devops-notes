@@ -40,9 +40,9 @@
   Lastly, you can't give a proper review if you can't understand parts of the code. If your discussion seems to go back and forth, picking it up and finalizing the discussion in person would be more efficient.
 - ## Make this part of our engineer culture
 	- Someone said that "culture is what people do while no one is looking". Will you still write adequate tests for your code when code review process is skipped? Not easy right? But it's still worth trying! If your project has employed Agile, consider the following factors to make your team culture self-directed, continuously improving and learning:
-		- * Autonomy: Team members take their responsibilities and work in the ways they prefer (Example: Scrum, pair programming)
-			- Mastery: Continuously performing good coding practices and learning from each other through code review can eventually enhance personal coding skills
-			- Purpose: Code quality is our ultimate goal, find bugs at an early stage instead of putting fire off in production
+	  * Autonomy: Team members take their responsibilities and work in the ways they prefer (Example: Scrum, pair programming)
+	  * Mastery: Continuously performing good coding practices and learning from each other through code review can eventually enhance personal coding skills
+	  * Purpose: Code quality is our ultimate goal, find bugs at an early stage instead of putting fire off in production
 	- Thus to facilitate team culture building, I started my efforts with following two items:
 	- -
 	- Enhance Skill(#enhance-skill)
