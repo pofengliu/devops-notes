@@ -69,3 +69,6 @@
 	  * Team-based code coverage(#team-based-code-coverage)
 	  * PR size and resolution time(#pr-size-resolution-time)
 	  * PR comment notification(#pr-comment-notification)
+- #### SonarQube project dashboard
+	- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
+	- pic: image2018-10-11_18-53-33.png
