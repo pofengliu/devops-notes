@@ -99,20 +99,20 @@
 	- In year 2021, we found that the improvement of test coverage is stalled in some projects and thus we introduced new practices focus on the 'new' code coverage. And this was also the moment we move metric dashboards into Grafana.
 - #### 
   Practices for new code coverage
-- Most importantly is to define threshold limit value for** new code coverage** in Sonarqube quality gate as part of PR review check.
-- Check the blog '[why quality on new code matters?](https://blog.sonarsource.com/clean-as-you-code)' to find out more and follow the '[The boy scout rule](https://engineering.linecorp.com/en/blog/effective-code-review/)', developer has to be responsible for his (new) code (not legacies from others) and these new code coverage metrics make reviewer easily to check quality of the new code when performing code review.
-- You can found details from screenshots below, in our Grafana code quality dashboard:
-- First, we collected and monitored the distribution of new code coverage from each pull request, as long as developer comply with the rules above, do not merge the code if the new code coverage is low. With the dashboard below, it's easy to monitor the execution status in each service or project.
-- ![image2022-3-29_17-33-47.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-33-47.png?version=1&modificationDate=1648546429000&api=v2)
-- As we also found, when new code coverage is low for the most of the pull requests, then not surprisedly, the overall coverage is gradually getting lower.
-- ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_18-49-23.png?version=1&modificationDate=1648550964000&api=v2)
-- In Github pull request page which is integrated with sonarQube:
-- |
-- ![image2022-3-29_17-24-6.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-24-6.png?version=1&modificationDate=1648545848000&api=v2)
-- |
-- ![image2022-3-29_17-13-30.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-13-30.png?version=1&modificationDate=1648545210000&api=v2)
-- |
-- ![image2022-3-29_17-19-33.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-19-33.png?version=1&modificationDate=1648545574000&api=v2)
-- |
-- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
+	- Most importantly is to define threshold limit value for** new code coverage** in Sonarqube quality gate as part of PR review check.
+	- Check the blog '[why quality on new code matters?](https://blog.sonarsource.com/clean-as-you-code)' to find out more and follow the '[The boy scout rule](https://engineering.linecorp.com/en/blog/effective-code-review/)', developer has to be responsible for his (new) code (not legacies from others) and these new code coverage metrics make reviewer easily to check quality of the new code when performing code review.
+	- You can found details from screenshots below, in our Grafana code quality dashboard:
+	- First, we collected and monitored the distribution of new code coverage from each pull request, as long as developer comply with the rules above, do not merge the code if the new code coverage is low. With the dashboard below, it's easy to monitor the execution status in each service or project.
+	- ![image2022-3-29_17-33-47.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-33-47.png?version=1&modificationDate=1648546429000&api=v2)
+	- As we also found, when new code coverage is low for the most of the pull requests, then not surprisedly, the overall coverage is gradually getting lower.
+	- ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_18-49-23.png?version=1&modificationDate=1648550964000&api=v2)
+	- In Github pull request page which is integrated with sonarQube:
+	- |
+	- ![image2022-3-29_17-24-6.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-24-6.png?version=1&modificationDate=1648545848000&api=v2)
+	- |
+	- ![image2022-3-29_17-13-30.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-13-30.png?version=1&modificationDate=1648545210000&api=v2)
+	- |
+	- ![image2022-3-29_17-19-33.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-19-33.png?version=1&modificationDate=1648545574000&api=v2)
+	- |
+	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
 - ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_17-47-24.png?version=1&modificationDate=1648549371000&api=v2)
