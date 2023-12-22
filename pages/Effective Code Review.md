@@ -55,10 +55,10 @@
 		- Introduce extract & overwrite and dependency injection methods
 		- Explain stub & mock framework and assertion libraries
 		- Practice refactoring skills like extract method, inline variables, and many others.
-	- [Kata](https://en.wikipedia.org/wiki/Kata_(programming))([https://en.wikipedia.org/wiki/Kata_(programming)](https://en.wikipedia.org/wiki/Kata_(programming))) hands on
-	- Requirement analysis, refine scenarios and find key examples
-		- Code design and implementation
+	- 2. [Kata](https://en.wikipedia.org/wiki/Kata_(programming)) hands on
+	  * Requirement analysis, refine scenarios and find key examples
+	  * Code design and implementation
 	- 3. TDD and refactoring
-	- Demo refactoring, identifying code smells and associated methods to remove them
+	  * Demo refactoring, identifying code smells and associated methods to remove them
 		- Live coding with the TDD approach (Example: baby steps, red light green light)
 		- Hands on practice
