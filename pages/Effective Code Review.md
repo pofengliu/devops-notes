@@ -91,6 +91,9 @@
 - ## Summary & Future plans
 	- How to write clean code and how to identify code smells and remove them provide a great context for code review discussion, and when team really spend time addressing these common issues, the culture is fostered along the way.
 	- From the other side, metrics that do not get tracked are not useful; showing data trends over time is important, which gives context to allowing us to make corresponding actions. Looking at the trend lines shown in the charts above, things are moving with progress. Also we are going to consider adding more dashboards for the following:
-- -
-- Quality: bug open / close count with severities, defect density
-	- Velocity: deployment frequency, lead time to production, change failure rate and MTTR
+	  * Quality: bug open / close count with severities, defect density
+	  * Velocity: deployment frequency, lead time to production, change failure rate and MTTR
+- ## Updates from the Year of 2022
+	- It is not updated since the end of 2018 and now it is spring time of 2022. We continue to promote and monitor status of each project, host workshops each year and I would say that writing unit test is part of our engineer culture. The average of code coverage of each service is around 50+%, and in each service there are many components and it quite common that those major components are with 80+%, 90+% of test coverage.
+	- ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_18-17-31.png?version=1&modificationDate=1648549053000&api=v2)
+	- In year 2021, we found that the improvement of test coverage is stalled in some projects and thus we introduced new practices focus on the 'new' code coverage. And this was also the moment we move metric dashboards into Grafana.
