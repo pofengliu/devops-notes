@@ -102,7 +102,7 @@
 	- Most importantly is to define threshold limit value for** new code coverage** in Sonarqube quality gate as part of PR review check. Check the blog '[why quality on new code matters?](https://blog.sonarsource.com/clean-as-you-code)' to find out more and follow the '[The boy scout rule](https://engineering.linecorp.com/en/blog/effective-code-review/)', developer has to be responsible for his (new) code (not legacies from others) and these new code coverage metrics make reviewer easily to check quality of the new code when performing code review.
 	- You can found details from screenshots below, in our Grafana code quality dashboard:
 	  First, we collected and monitored the distribution of new code coverage from each pull request, as long as developer comply with the rules above, do not merge the code if the new code coverage is low. With the dashboard below, it's easy to monitor the execution status in each service or project.
-	  ![image2022-3-29_17-33-47.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-33-47.png?version=1&modificationDate=1648546429000&api=v2)
+	  ![image.png](../assets/image_1703413689667_0.png)
 	- As we also found, when new code coverage is low for the most of the pull requests, then not surprisedly, the overall coverage is gradually getting lower.
 	- ![image.png](../assets/image_1703413525796_0.png)
 	- In Github pull request page which is integrated with sonarQube:
