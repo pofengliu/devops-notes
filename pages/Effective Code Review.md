@@ -66,9 +66,9 @@
 	- >**If you can’t see it, you can’t measure it, you can’t improve it!**
 	- By leveraging visual impact with public dashboards, message notification to continuously remind everyone in pursuit our goals, we have the following dashboards displayed in rotation on a big screen by the entrance gate.
 	  * [SonarQube project dashboard](logseq://graph/DevOpsNotes?block-id=65855477-d320-4003-aaac-7829ff5fe177)
-	  * [Team-based code coverage](#team-based-code-coverage)
-	  * [PR size and resolution time](#pr-size-resolution-time)
-	  * [PR comment notification](#pr-comment-notification)
+	  * [Team-based code coverage](logseq://graph/DevOpsNotes?block-id=658554a3-75c5-4a3c-91eb-600d1926805c)
+	  * [PR size and resolution time](logseq://graph/DevOpsNotes?block-id=658554a3-06f6-43ec-be26-4adee24cdecb)
+	  * [PR comment notification](logseq://graph/DevOpsNotes?block-id=6585555b-ed9b-4ed2-8665-1ccbf6f51eec)
 	- #### SonarQube project dashboard
 	  id:: 65855477-d320-4003-aaac-7829ff5fe177
 		- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
@@ -78,6 +78,7 @@
 		- Team based code coverage chart shows the coverage trend of each repository of a team, so you don't have to navigate into each SonarQube project page. By putting this type of charts side by side, it's easy to compare how different teams are doing.
 		- ![image.png](../assets/image_1703420544667_0.png)
 	- #### PR size and resolution time
+	  id:: 658554a3-06f6-43ec-be26-4adee24cdecb
 		- The core idea of DevOps is how to release software changes into production frequently but also with good quality. Making each deployment unit small is the trick here. Large PRs not only make good code review impossible but also costs in code quality and release cycle, so making a task/change small is a valid skill in DevOps. We try to promote this idea with the following "Resolution time vs. PR size" chart:
 		- ![image.png](../assets/image_1703420431601_0.png)
 			- Bubble size: Change set size (line of code)
@@ -85,6 +86,7 @@
 			- `#n`: PR number
 	- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
 	- #### PR Comment Notification
+	  id:: 6585555b-ed9b-4ed2-8665-1ccbf6f51eec
 		- Each commit submitted to PR triggers a webhook to post a github comment as below. This is to remind the PR creator to add tests and fix new vulnerabilities found right inside this PR, because this is more efficient than making these up after two weeks later when changes are released to production. To make the quality index better, reviewers should also help to find out why the reviewee is having a problem.
 		- ![image.png](../assets/image_1703420397514_0.png)
 			- Last n Avg.: Shows the trend of each metric
