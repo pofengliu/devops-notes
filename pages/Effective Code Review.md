@@ -29,12 +29,12 @@
 	- >***Reviewer resource is very limited, treat it wisely!***
 	- To help a reviewer get into the context quickly, providing sufficient information is important, such as why and how the change is being made, as well as any risks or concerns observed. Such information is a good catalyst for generating good discussions later. As an added benefit, the author will often find additional errors before the review even begins. Though not every PR is worthy writing such detail, but you can briefly annotate what's been done and tested or which part should a reviewer pay more attention to!
 	- [Github issue and pull request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/) might do some help. Also, attaching a screenshot to describe what you are up to is a good idea! Here are a couple of examples on using PR templates to provide meaningful context for code review and further QA verification.
-	- pic image2018-10-11_19-27-47.png
+	- ![image.png](../assets/image_1703420987212_0.png)   
 	  pic image2018-9-28_18-0-11.png
 		- Examples of using Github PR template
 - ### Linting and Code Style Check
 	- Leave static code analysis and coding style check to machines with tools like [SonarQube](https://www.sonarqube.org/)([https://www.sonarqube.org/](https://www.sonarqube.org/)) and [ESLint](https://eslint.org/)([https://eslint.org/](https://eslint.org/)), and spare human eyes for important parts like business logics and algorithms. These code scanning tools, type checking tools and linting tools can report bugs, [code smells](https://en.wikipedia.org/wiki/Code_smell) and vulnerabilities, along with a good test suite can certainly increase the confidence level.
-	- ![](https://engineering.linecorp.com/wp-content/uploads/2018/10/24/1540351983588.png)
+	- ![image.png](../assets/image_1703420964675_0.png)
 		- Detect issues in SonarQube from [SonarQube website](https://www.sonarqube.org/)
 - One of the most important part of code reviews is to reward developers for growth and effort, so try to offer *as many compliment** **as possible*.
   Lastly, you can't give a proper review if you can't understand parts of the code. If your discussion seems to go back and forth, picking it up and finalizing the discussion in person would be more efficient.
