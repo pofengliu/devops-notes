@@ -75,6 +75,7 @@ type:: blogpost
 		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_24.jpg)
 		  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_25.jpg)
 		- ##### Unit test and dashboards
+		  id:: 65103e74-d3ce-478f-8e76-c904e59a3cdd
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_26.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_27.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_28.jpg)
