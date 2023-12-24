@@ -7,20 +7,23 @@
 - ## Tips for effective code review
 	- The most efficient way to do code review is through pair programming, but using PRs (Pull Request) on Github is okay, if this suits your team better. To get code review done, I mean *really* done, we should first try to increase the efficiency of code review processes; the idea is to treat reviewer as a rare resource, because none of our major responsibility is code reviewing, right?!
 	  And here are some tips for effective and efficient code review:
-	  * [Keep changes small]
-	  * [Review often and shorten sessions]
-	  * [Send pull request for review as early as possible]
+	  * [Keep changes small](logseq://graph/DevOpsNotes?block-id=6585511f-2b98-4e9b-b27a-e3b7e4d40ad8)
+	  * [Review often and shorten sessions](logseq://graph/DevOpsNotes?block-id=658551c8-5398-4be8-aef7-56641e557991)
+	  * [Send pull request for review as early as possible](logseq://graph/DevOpsNotes?block-id=658551ed-d427-45d0-8ae2-e00a5240eddb)
 	  * [Provide enough context for creating meaningful pull request]
 	  * [Linting and code style check]
 - ### Keep changes small
+  id:: 6585511f-2b98-4e9b-b27a-e3b7e4d40ad8
 	- A study by a Cisco System programming team has shown that 60 to 90 minute long review over 200 to 400 LoC (Line of Code) yields 70–90% defect discovery. Treat each PR as a releasable unit (feature, bug fix) or a cohesive idea which is meaningful to the PR. To learn why a large pull request hurts and what the optimal size for pull requests is, check [here](https://smallbusinessprogramming.com/optimal-pull-request-size/)([https://smallbusinessprogramming.com/optimal-pull-request-size/](https://smallbusinessprogramming.com/optimal-pull-request-size/)).
-	- |![image.png](../assets/image_1703421130956_0.png){:height 259, :width 471}|![image.png](../assets/image_1703421119971_0.png){:height 347, :width 428}|
+	- |![image.png](../assets/image_1703421130956_0.png){:height 259, :width 471}|![image.png](../assets/image_1703421119971_0.png){:height 303, :width 439}|
 		- Code reviews, from [@iamdeveloper](https://twitter.com/iamdevloper) on Twitter & Defect density vs LoC, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 - ### Review often and shorten sessions
+  id:: 658551c8-5398-4be8-aef7-56641e557991
 	- Code reviews in reasonable quantity, at a slower pace, for a limited amount of time result in the most effective code review. Beyond 400 LoC, the ability to find defects diminishes. Inspection rates under 300 LoC/hr is the best.
 	- ![image.png](../assets/image_1703421101010_0.png){:height 315, :width 514}
 		- Defect density vs inspection rate, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 - ### Send pull request to review as early as possible
+  id:: 658551ed-d427-45d0-8ae2-e00a5240eddb
 	- To get a valuable code review, start a discussion before implementing details and try not to send big chunks of diffs. Separate different ideas into different PRs and assign different reviewers if needed, by dividing large problems into smaller problems and solving the small problems one at a time.
 	- ![image.png](../assets/image_1703421081431_0.png){:height 335, :width 520}
 		- How workaround gets applied, if architectural/design problems found in the last minute PR during code review, from [@isoiphone on Twitter](https://twitter.com/isoiphone/status/824771226585296896)
