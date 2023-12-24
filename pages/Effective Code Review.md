@@ -65,11 +65,12 @@
 - ### **Measure the progress**
 	- >**If you can’t see it, you can’t measure it, you can’t improve it!**
 	- By leveraging visual impact with public dashboards, message notification to continuously remind everyone in pursuit our goals, we have the following dashboards displayed in rotation on a big screen by the entrance gate.
-	  * SonarQube project dashboard(#sonarqube-project-dashboard)
+	  * [SonarQube project dashboard](logseq://graph/DevOpsNotes?block-id=65855477-d320-4003-aaac-7829ff5fe177)
 	  * Team-based code coverage(#team-based-code-coverage)
 	  * PR size and resolution time(#pr-size-resolution-time)
 	  * PR comment notification(#pr-comment-notification)
 	- #### SonarQube project dashboard
+	  id:: 65855477-d320-4003-aaac-7829ff5fe177
 		- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
 		- ![image.png](../assets/image_1703420574344_0.png)
 	- #### Team based code coverage
