@@ -106,8 +106,8 @@
 	- As we also found, when new code coverage is low for the most of the pull requests, then not surprisedly, the overall coverage is gradually getting lower.
 	- ![image.png](../assets/image_1703413525796_0.png)
 	- In Github pull request page which is integrated with sonarQube:
-	- ![image.png](../assets/image_1703413957678_0.png){:height 200}
-	- |![image.png](../assets/image_1703413981722_0.png)|![image.png](../assets/image_1703414003642_0.png)|
+	- ![image.png](../assets/image_1703413957678_0.png){:height 525, :width 421}
+	- |![image.png](../assets/image_1703413981722_0.png){:height 174, :width 388}|![image.png](../assets/image_1703414003642_0.png){:height 182, :width 344}|
 	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
 		- ![image2022-3-29_17-47-24.png](../assets/image2022-3-29_17-47-24_1703413149412_0.png)
 - ### Reference
