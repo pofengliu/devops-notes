@@ -104,8 +104,7 @@
 	  First, we collected and monitored the distribution of new code coverage from each pull request, as long as developer comply with the rules above, do not merge the code if the new code coverage is low. With the dashboard below, it's easy to monitor the execution status in each service or project.
 	  ![image2022-3-29_17-33-47.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-33-47.png?version=1&modificationDate=1648546429000&api=v2)
 	- As we also found, when new code coverage is low for the most of the pull requests, then not surprisedly, the overall coverage is gradually getting lower.
-	  
-	  ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_18-49-23.png?version=1&modificationDate=1648550964000&api=v2)
+	-
 	- In Github pull request page which is integrated with sonarQube:
 	- ![image2022-3-29_17-24-6.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-24-6.png?version=1&modificationDate=1648545848000&api=v2)
 	- |
