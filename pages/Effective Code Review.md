@@ -71,10 +71,10 @@
 	  * PR comment notification(#pr-comment-notification)
 	- #### SonarQube project dashboard
 		- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
-		- pic: image2018-10-11_18-53-33.png
+		- ![image.png](../assets/image_1703420574344_0.png)
 	- #### Team based code coverage
 		- Team based code coverage chart shows the coverage trend of each repository of a team, so you don't have to navigate into each SonarQube project page. By putting this type of charts side by side, it's easy to compare how different teams are doing.
-		- pic: image2018-10-5_18-43-49.png?version=1&modificationDate=1538736230000&api=v2)
+		- ![image.png](../assets/image_1703420544667_0.png)
 	- #### PR size and resolution time
 		- The core idea of DevOps is how to release software changes into production frequently but also with good quality. Making each deployment unit small is the trick here. Large PRs not only make good code review impossible but also costs in code quality and release cycle, so making a task/change small is a valid skill in DevOps. We try to promote this idea with the following "Resolution time vs. PR size" chart:
 		- ![image.png](../assets/image_1703420431601_0.png)
