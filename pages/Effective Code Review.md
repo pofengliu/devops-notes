@@ -106,7 +106,7 @@
 	- As we also found, when new code coverage is low for the most of the pull requests, then not surprisedly, the overall coverage is gradually getting lower.
 	- ![image.png](../assets/image_1703413525796_0.png)
 	- In Github pull request page which is integrated with sonarQube:
-	- ![image2022-3-29_17-24-6.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-24-6.png?version=1&modificationDate=1648545848000&api=v2)
+	-
 	- |
 	- ![image2022-3-29_17-13-30.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-13-30.png?version=1&modificationDate=1648545210000&api=v2)
 	- |
