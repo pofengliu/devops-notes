@@ -84,7 +84,7 @@
 	- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
 	- #### PR Comment Notification
 		- Each commit submitted to PR triggers a webhook to post a github comment as below. This is to remind the PR creator to add tests and fix new vulnerabilities found right inside this PR, because this is more efficient than making these up after two weeks later when changes are released to production. To make the quality index better, reviewers should also help to find out why the reviewee is having a problem.
-		- pic: image2018-10-5_18-9-36.png
+		- ![image.png](../assets/image_1703420225784_0.png)
 			- Last n Avg.: Shows the trend of each metric
 			- xxx_violations: The number of bug, vulnerability and code smell found
 			- line_coverage: The percentage of LoC which are executed by unit tests
