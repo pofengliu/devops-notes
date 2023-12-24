@@ -112,9 +112,8 @@
 	- |
 	- ![image2022-3-29_17-19-33.png](https://wiki.linecorp.com/download/attachments/2277106199/image2022-3-29_17-19-33.png?version=1&modificationDate=1648545574000&api=v2)
 	- |
-	- ![image2022-3-29_17-47-24.png](../assets/image2022-3-29_17-47-24_1703413149412_0.png)
 	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
-	  ![](https://wiki.linecorp.com/download/attachments/1269966465/image2022-3-29_17-47-24.png?version=1&modificationDate=1648549371000&api=v2)
+		- ![image2022-3-29_17-47-24.png](../assets/image2022-3-29_17-47-24_1703413149412_0.png)
 - ### Reference
   * [Gerrit] [Code Review - Contributing](https://gerritcodereview-test.gsrc.io/dev-contributing.html#code-organization)
   * [Phabricator] [Writing Reviewable Code](https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/)
