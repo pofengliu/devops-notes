@@ -14,8 +14,8 @@
 	  * [Linting and code style check]
 - ### Keep changes small
 	- A study by a Cisco System programming team has shown that 60 to 90 minute long review over 200 to 400 LoC (Line of Code) yields 70–90% defect discovery. Treat each PR as a releasable unit (feature, bug fix) or a cohesive idea which is meaningful to the PR. To learn why a large pull request hurts and what the optimal size for pull requests is, check [here](https://smallbusinessprogramming.com/optimal-pull-request-size/)([https://smallbusinessprogramming.com/optimal-pull-request-size/](https://smallbusinessprogramming.com/optimal-pull-request-size/)).
-	- ![image.png](../assets/image_1703421130956_0.png)  
-	  ![image.png](../assets/image_1703421119971_0.png)
+	- |![image.png](../assets/image_1703421130956_0.png){:height 451, :width 386} |
+	  ![image.png](../assets/image_1703421119971_0.png)|
 		- Code reviews, from [@iamdeveloper](https://twitter.com/iamdevloper) on Twitter & Defect density vs LoC, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 - ### Review often and shorten sessions
 	- Code reviews in reasonable quantity, at a slower pace, for a limited amount of time result in the most effective code review. Beyond 400 LoC, the ability to find defects diminishes. Inspection rates under 300 LoC/hr is the best.
