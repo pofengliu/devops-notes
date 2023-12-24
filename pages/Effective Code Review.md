@@ -95,7 +95,7 @@
 	  * Velocity: deployment frequency, lead time to production, change failure rate and MTTR
 - ## Updates from the Year of 2022
 	- It is not updated since the end of 2018 and now it is spring time of 2022. We continue to promote and monitor status of each project, host workshops each year and I would say that writing unit test is part of our engineer culture. The average of code coverage of each service is around 50+%, and in each service there are many components and it quite common that those major components are with 80+%, 90+% of test coverage.
-	- pic: image2022-3-29_18-17-31.png?version=1&modificationDate=1648549053000&api=v2)
+	- ![image.png](../assets/image_1703420149216_0.png)
 	- In year 2021, we found that the improvement of test coverage is stalled in some projects and thus we introduced new practices focus on the 'new' code coverage. And this was also the moment we move metric dashboards into Grafana.
 - #### 
   Practices for new code coverage
