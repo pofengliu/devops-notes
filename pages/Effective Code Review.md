@@ -119,6 +119,8 @@
 	- |![image.png](../assets/image_1703413981722_0.png){:height 174, :width 388}|![image.png](../assets/image_1703414003642_0.png){:height 182, :width 344}|
 	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
 		- ![image2022-3-29_17-47-24.png](../assets/image2022-3-29_17-47-24_1703413149412_0.png)
+- ## Updates from the Year of 2023
+	-
 - ### Reference
   * [Gerrit] [Code Review - Contributing](https://gerritcodereview-test.gsrc.io/dev-contributing.html#code-organization)
   * [Phabricator] [Writing Reviewable Code](https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/)
