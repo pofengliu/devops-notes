@@ -120,7 +120,8 @@
 	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
 		- ![image2022-3-29_17-47-24.png](../assets/image2022-3-29_17-47-24_1703413149412_0.png)
 - ## Updates from the Year of 2023
-	- ((65103e74-d3ce-478f-8e76-c904e59a3cdd))
+	- Autonomy team culture (test coverage)
+	  * ((65103e74-d3ce-478f-8e76-c904e59a3cdd))
 - ### Reference
   * [Gerrit] [Code Review - Contributing](https://gerritcodereview-test.gsrc.io/dev-contributing.html#code-organization)
   * [Phabricator] [Writing Reviewable Code](https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/)
