@@ -10,35 +10,37 @@
 	  * [Keep changes small](logseq://graph/DevOpsNotes?block-id=6585511f-2b98-4e9b-b27a-e3b7e4d40ad8)
 	  * [Review often and shorten sessions](logseq://graph/DevOpsNotes?block-id=658551c8-5398-4be8-aef7-56641e557991)
 	  * [Send pull request for review as early as possible](logseq://graph/DevOpsNotes?block-id=658551ed-d427-45d0-8ae2-e00a5240eddb)
-	  * [Provide enough context for creating meaningful pull request]
-	  * [Linting and code style check]
-- ### Keep changes small
-  id:: 6585511f-2b98-4e9b-b27a-e3b7e4d40ad8
-	- A study by a Cisco System programming team has shown that 60 to 90 minute long review over 200 to 400 LoC (Line of Code) yields 70–90% defect discovery. Treat each PR as a releasable unit (feature, bug fix) or a cohesive idea which is meaningful to the PR. To learn why a large pull request hurts and what the optimal size for pull requests is, check [here](https://smallbusinessprogramming.com/optimal-pull-request-size/)([https://smallbusinessprogramming.com/optimal-pull-request-size/](https://smallbusinessprogramming.com/optimal-pull-request-size/)).
-	- |![image.png](../assets/image_1703421130956_0.png){:height 259, :width 471}|![image.png](../assets/image_1703421119971_0.png){:height 303, :width 439}|
-		- Code reviews, from [@iamdeveloper](https://twitter.com/iamdevloper) on Twitter & Defect density vs LoC, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
-- ### Review often and shorten sessions
-  id:: 658551c8-5398-4be8-aef7-56641e557991
-	- Code reviews in reasonable quantity, at a slower pace, for a limited amount of time result in the most effective code review. Beyond 400 LoC, the ability to find defects diminishes. Inspection rates under 300 LoC/hr is the best.
-	- ![image.png](../assets/image_1703421101010_0.png){:height 315, :width 514}
-		- Defect density vs inspection rate, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
-- ### Send pull request to review as early as possible
-  id:: 658551ed-d427-45d0-8ae2-e00a5240eddb
-	- To get a valuable code review, start a discussion before implementing details and try not to send big chunks of diffs. Separate different ideas into different PRs and assign different reviewers if needed, by dividing large problems into smaller problems and solving the small problems one at a time.
-	- ![image.png](../assets/image_1703421081431_0.png){:height 335, :width 520}
-		- How workaround gets applied, if architectural/design problems found in the last minute PR during code review, from [@isoiphone on Twitter](https://twitter.com/isoiphone/status/824771226585296896)
-- ### Provide enough context for creating meaningful pull request
-	- >***Reviewer resource is very limited, treat it wisely!***
-	- To help a reviewer get into the context quickly, providing sufficient information is important, such as why and how the change is being made, as well as any risks or concerns observed. Such information is a good catalyst for generating good discussions later. As an added benefit, the author will often find additional errors before the review even begins. Though not every PR is worthy writing such detail, but you can briefly annotate what's been done and tested or which part should a reviewer pay more attention to!
-	- [Github issue and pull request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/) might do some help. Also, attaching a screenshot to describe what you are up to is a good idea! Here are a couple of examples on using PR templates to provide meaningful context for code review and further QA verification.
-	- ![image.png](../assets/image_1703420987212_0.png){:height 602, :width 518} ![image.png](../assets/image_1703421026403_0.png){:height 508, :width 699}
-		- Examples of using Github PR template
-- ### Linting and Code Style Check
-	- Leave static code analysis and coding style check to machines with tools like [SonarQube](https://www.sonarqube.org/)([https://www.sonarqube.org/](https://www.sonarqube.org/)) and [ESLint](https://eslint.org/)([https://eslint.org/](https://eslint.org/)), and spare human eyes for important parts like business logics and algorithms. These code scanning tools, type checking tools and linting tools can report bugs, [code smells](https://en.wikipedia.org/wiki/Code_smell) and vulnerabilities, along with a good test suite can certainly increase the confidence level.
-	- ![image.png](../assets/image_1703420964675_0.png)
-		- Detect issues in SonarQube from [SonarQube website](https://www.sonarqube.org/)
-- One of the most important part of code reviews is to reward developers for growth and effort, so try to offer *as many compliment** **as possible*.
-  Lastly, you can't give a proper review if you can't understand parts of the code. If your discussion seems to go back and forth, picking it up and finalizing the discussion in person would be more efficient.
+	  * [Provide enough context for creating meaningful pull request](logseq://graph/DevOpsNotes?block-id=65855225-f50c-4783-82f8-c94cfbdce7e4)
+	  * [Linting and code style check](logseq://graph/DevOpsNotes?block-id=6585529c-7af2-44a2-b5b5-ee3ad89e7e4f)
+	- ### Keep changes small
+	  id:: 6585511f-2b98-4e9b-b27a-e3b7e4d40ad8
+		- A study by a Cisco System programming team has shown that 60 to 90 minute long review over 200 to 400 LoC (Line of Code) yields 70–90% defect discovery. Treat each PR as a releasable unit (feature, bug fix) or a cohesive idea which is meaningful to the PR. To learn why a large pull request hurts and what the optimal size for pull requests is, check [here](https://smallbusinessprogramming.com/optimal-pull-request-size/)([https://smallbusinessprogramming.com/optimal-pull-request-size/](https://smallbusinessprogramming.com/optimal-pull-request-size/)).
+		- |![image.png](../assets/image_1703421130956_0.png){:height 259, :width 471}|![image.png](../assets/image_1703421119971_0.png){:height 303, :width 439}|
+			- Code reviews, from [@iamdeveloper](https://twitter.com/iamdevloper) on Twitter & Defect density vs LoC, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+	- ### Review often and shorten sessions
+	  id:: 658551c8-5398-4be8-aef7-56641e557991
+		- Code reviews in reasonable quantity, at a slower pace, for a limited amount of time result in the most effective code review. Beyond 400 LoC, the ability to find defects diminishes. Inspection rates under 300 LoC/hr is the best.
+		- ![image.png](../assets/image_1703421101010_0.png){:height 315, :width 514}
+			- Defect density vs inspection rate, from [Cisco study case](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+	- ### Send pull request to review as early as possible
+	  id:: 658551ed-d427-45d0-8ae2-e00a5240eddb
+		- To get a valuable code review, start a discussion before implementing details and try not to send big chunks of diffs. Separate different ideas into different PRs and assign different reviewers if needed, by dividing large problems into smaller problems and solving the small problems one at a time.
+		- ![image.png](../assets/image_1703421081431_0.png){:height 335, :width 520}
+			- How workaround gets applied, if architectural/design problems found in the last minute PR during code review, from [@isoiphone on Twitter](https://twitter.com/isoiphone/status/824771226585296896)
+	- ### Provide enough context for creating meaningful pull request
+	  id:: 65855225-f50c-4783-82f8-c94cfbdce7e4
+		- >***Reviewer resource is very limited, treat it wisely!***
+		- To help a reviewer get into the context quickly, providing sufficient information is important, such as why and how the change is being made, as well as any risks or concerns observed. Such information is a good catalyst for generating good discussions later. As an added benefit, the author will often find additional errors before the review even begins. Though not every PR is worthy writing such detail, but you can briefly annotate what's been done and tested or which part should a reviewer pay more attention to!
+		- [Github issue and pull request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/) might do some help. Also, attaching a screenshot to describe what you are up to is a good idea! Here are a couple of examples on using PR templates to provide meaningful context for code review and further QA verification.
+		- ![image.png](../assets/image_1703420987212_0.png){:height 602, :width 518} ![image.png](../assets/image_1703421026403_0.png){:height 508, :width 699}
+			- Examples of using Github PR template
+	- ### Linting and Code Style Check
+	  id:: 6585529c-7af2-44a2-b5b5-ee3ad89e7e4f
+		- Leave static code analysis and coding style check to machines with tools like [SonarQube](https://www.sonarqube.org/)([https://www.sonarqube.org/](https://www.sonarqube.org/)) and [ESLint](https://eslint.org/)([https://eslint.org/](https://eslint.org/)), and spare human eyes for important parts like business logics and algorithms. These code scanning tools, type checking tools and linting tools can report bugs, [code smells](https://en.wikipedia.org/wiki/Code_smell) and vulnerabilities, along with a good test suite can certainly increase the confidence level.
+		- ![image.png](../assets/image_1703420964675_0.png)
+			- Detect issues in SonarQube from [SonarQube website](https://www.sonarqube.org/)
+	- One of the most important part of code reviews is to reward developers for growth and effort, so try to offer *as many compliment** **as possible*.
+	  Lastly, you can't give a proper review if you can't understand parts of the code. If your discussion seems to go back and forth, picking it up and finalizing the discussion in person would be more efficient.
 - ## Make this part of our engineer culture
 	- Someone said that "culture is what people do while no one is looking". Will you still write adequate tests for your code when code review process is skipped? Not easy right? But it's still worth trying! If your project has employed Agile, consider the following factors to make your team culture self-directed, continuously improving and learning:
 	  * Autonomy: Team members take their responsibilities and work in the ways they prefer (Example: Scrum, pair programming)
