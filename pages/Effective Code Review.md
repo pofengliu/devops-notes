@@ -44,9 +44,10 @@
 	  * Mastery: Continuously performing good coding practices and learning from each other through code review can eventually enhance personal coding skills
 	  * Purpose: Code quality is our ultimate goal, find bugs at an early stage instead of putting fire off in production
 	- Thus to facilitate team culture building, I started my efforts with following two items:
-	  * Enhance Skill(#enhance-skill)
+	  * [Enhance Skill](logseq://graph/DevOpsNotes?block-id=6585538e-8b30-4661-b8c1-168c17872f6f)
 	  * Measure the progress(#measure-progress)
 - ### **Enhance Skill **
+  id:: 6585538e-8b30-4661-b8c1-168c17872f6f
 	- Yes, to get to the bottom of making this work, developers still need to have a sound concept and complete knowledge to reach the growing consensus(practices) of their team in their daily work. To help developers, we leverage local consultancy to give workshops on unit test, refactoring and TDD (Test-Driven Development). 
 	  We address the following topics in the workshop (listed but not limited):
 	- 1. Unit test
@@ -63,6 +64,7 @@
 	  * Live coding with the TDD approach (Example: baby steps, red light green light)
 	  * Hands on practice
 - ### **Measure the progress**
+  id:: 65855425-ae5e-4c02-be0b-5ca62310ff2a
 	- >**If you can’t see it, you can’t measure it, you can’t improve it!**
 	- By leveraging visual impact with public dashboards, message notification to continuously remind everyone in pursuit our goals, we have the following dashboards displayed in rotation on a big screen by the entrance gate.
 	  * [SonarQube project dashboard](logseq://graph/DevOpsNotes?block-id=65855477-d320-4003-aaac-7829ff5fe177)
