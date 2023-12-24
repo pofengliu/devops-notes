@@ -49,54 +49,54 @@
 	- Thus to facilitate team culture building, I started my efforts with following two items:
 	  * [Enhance Skill](logseq://graph/DevOpsNotes?block-id=6585538e-8b30-4661-b8c1-168c17872f6f)
 	  * [Measure the progress](logseq://graph/DevOpsNotes?block-id=65855425-ae5e-4c02-be0b-5ca62310ff2a)
-- ### **Enhance Skill **
-  id:: 6585538e-8b30-4661-b8c1-168c17872f6f
-	- Yes, to get to the bottom of making this work, developers still need to have a sound concept and complete knowledge to reach the growing consensus(practices) of their team in their daily work. To help developers, we leverage local consultancy to give workshops on unit test, refactoring and TDD (Test-Driven Development). 
-	  We address the following topics in the workshop (listed but not limited):
-	- 1. Unit test
-	  * Design test cases to reveal intention rather than to test code implementation
-	  * Identify and isolate dependency
-	  * Introduce extract & overwrite and dependency injection methods
-	  * Explain stub & mock framework and assertion libraries
-	  * Practice refactoring skills like extract method, inline variables, and many others.
-	- 2. [Kata](https://en.wikipedia.org/wiki/Kata_(programming)) hands on
-	  * Requirement analysis, refine scenarios and find key examples
-	  * Code design and implementation
-	- 3. TDD and refactoring
-	  * Demo refactoring, identifying code smells and associated methods to remove them
-	  * Live coding with the TDD approach (Example: baby steps, red light green light)
-	  * Hands on practice
-- ### **Measure the progress**
-  id:: 65855425-ae5e-4c02-be0b-5ca62310ff2a
-	- >**If you can’t see it, you can’t measure it, you can’t improve it!**
-	- By leveraging visual impact with public dashboards, message notification to continuously remind everyone in pursuit our goals, we have the following dashboards displayed in rotation on a big screen by the entrance gate.
-	  * [SonarQube project dashboard](logseq://graph/DevOpsNotes?block-id=65855477-d320-4003-aaac-7829ff5fe177)
-	  * [Team-based code coverage](logseq://graph/DevOpsNotes?block-id=658554a3-75c5-4a3c-91eb-600d1926805c)
-	  * [PR size and resolution time](logseq://graph/DevOpsNotes?block-id=658554a3-06f6-43ec-be26-4adee24cdecb)
-	  * [PR comment notification](logseq://graph/DevOpsNotes?block-id=6585555b-ed9b-4ed2-8665-1ccbf6f51eec)
-	- #### SonarQube project dashboard
-	  id:: 65855477-d320-4003-aaac-7829ff5fe177
-		- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
-		- ![image.png](../assets/image_1703420574344_0.png)
-	- #### Team based code coverage
-	  id:: 658554a3-75c5-4a3c-91eb-600d1926805c
-		- Team based code coverage chart shows the coverage trend of each repository of a team, so you don't have to navigate into each SonarQube project page. By putting this type of charts side by side, it's easy to compare how different teams are doing.
-		- ![image.png](../assets/image_1703420544667_0.png)
-	- #### PR size and resolution time
-	  id:: 658554a3-06f6-43ec-be26-4adee24cdecb
-		- The core idea of DevOps is how to release software changes into production frequently but also with good quality. Making each deployment unit small is the trick here. Large PRs not only make good code review impossible but also costs in code quality and release cycle, so making a task/change small is a valid skill in DevOps. We try to promote this idea with the following "Resolution time vs. PR size" chart:
-		- ![image.png](../assets/image_1703420431601_0.png)
-			- Bubble size: Change set size (line of code)
-			- Resolution time: PR creation time to PR merge time
-			- `#n`: PR number
-	- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
-	- #### PR Comment Notification
-	  id:: 6585555b-ed9b-4ed2-8665-1ccbf6f51eec
-		- Each commit submitted to PR triggers a webhook to post a github comment as below. This is to remind the PR creator to add tests and fix new vulnerabilities found right inside this PR, because this is more efficient than making these up after two weeks later when changes are released to production. To make the quality index better, reviewers should also help to find out why the reviewee is having a problem.
-		- ![image.png](../assets/image_1703420397514_0.png)
-			- Last n Avg.: Shows the trend of each metric
-			- xxx_violations: The number of bug, vulnerability and code smell found
-			- line_coverage: The percentage of LoC which are executed by unit tests
+	- ### **Enhance Skill **
+	  id:: 6585538e-8b30-4661-b8c1-168c17872f6f
+		- Yes, to get to the bottom of making this work, developers still need to have a sound concept and complete knowledge to reach the growing consensus(practices) of their team in their daily work. To help developers, we leverage local consultancy to give workshops on unit test, refactoring and TDD (Test-Driven Development). 
+		  We address the following topics in the workshop (listed but not limited):
+		- 1. Unit test
+		  * Design test cases to reveal intention rather than to test code implementation
+		  * Identify and isolate dependency
+		  * Introduce extract & overwrite and dependency injection methods
+		  * Explain stub & mock framework and assertion libraries
+		  * Practice refactoring skills like extract method, inline variables, and many others.
+		- 2. [Kata](https://en.wikipedia.org/wiki/Kata_(programming)) hands on
+		  * Requirement analysis, refine scenarios and find key examples
+		  * Code design and implementation
+		- 3. TDD and refactoring
+		  * Demo refactoring, identifying code smells and associated methods to remove them
+		  * Live coding with the TDD approach (Example: baby steps, red light green light)
+		  * Hands on practice
+	- ### **Measure the progress**
+	  id:: 65855425-ae5e-4c02-be0b-5ca62310ff2a
+		- >**If you can’t see it, you can’t measure it, you can’t improve it!**
+		- By leveraging visual impact with public dashboards, message notification to continuously remind everyone in pursuit our goals, we have the following dashboards displayed in rotation on a big screen by the entrance gate.
+		  * [SonarQube project dashboard](logseq://graph/DevOpsNotes?block-id=65855477-d320-4003-aaac-7829ff5fe177)
+		  * [Team-based code coverage](logseq://graph/DevOpsNotes?block-id=658554a3-75c5-4a3c-91eb-600d1926805c)
+		  * [PR size and resolution time](logseq://graph/DevOpsNotes?block-id=658554a3-06f6-43ec-be26-4adee24cdecb)
+		  * [PR comment notification](logseq://graph/DevOpsNotes?block-id=6585555b-ed9b-4ed2-8665-1ccbf6f51eec)
+		- #### SonarQube project dashboard
+		  id:: 65855477-d320-4003-aaac-7829ff5fe177
+			- All stats of static code analysis come from SonarQube, code repos directly link to production services should publish reports here.
+			- ![image.png](../assets/image_1703420574344_0.png)
+		- #### Team based code coverage
+		  id:: 658554a3-75c5-4a3c-91eb-600d1926805c
+			- Team based code coverage chart shows the coverage trend of each repository of a team, so you don't have to navigate into each SonarQube project page. By putting this type of charts side by side, it's easy to compare how different teams are doing.
+			- ![image.png](../assets/image_1703420544667_0.png)
+		- #### PR size and resolution time
+		  id:: 658554a3-06f6-43ec-be26-4adee24cdecb
+			- The core idea of DevOps is how to release software changes into production frequently but also with good quality. Making each deployment unit small is the trick here. Large PRs not only make good code review impossible but also costs in code quality and release cycle, so making a task/change small is a valid skill in DevOps. We try to promote this idea with the following "Resolution time vs. PR size" chart:
+			- ![image.png](../assets/image_1703420431601_0.png)
+				- Bubble size: Change set size (line of code)
+				- Resolution time: PR creation time to PR merge time
+				- `#n`: PR number
+		- These charts continuously create awareness to remind everyone the progresses of adopting good practices and goals we pursue. These are just some examples we made here. Think of your own which can visually show your intention to others. By the way, these are also useful to give a summary of progress during monthly meetings.
+		- #### PR Comment Notification
+		  id:: 6585555b-ed9b-4ed2-8665-1ccbf6f51eec
+			- Each commit submitted to PR triggers a webhook to post a github comment as below. This is to remind the PR creator to add tests and fix new vulnerabilities found right inside this PR, because this is more efficient than making these up after two weeks later when changes are released to production. To make the quality index better, reviewers should also help to find out why the reviewee is having a problem.
+			- ![image.png](../assets/image_1703420397514_0.png)
+				- Last n Avg.: Shows the trend of each metric
+				- xxx_violations: The number of bug, vulnerability and code smell found
+				- line_coverage: The percentage of LoC which are executed by unit tests
 - ## Summary & Future plans
 	- How to write clean code and how to identify code smells and remove them provide a great context for code review discussion, and when team really spend time addressing these common issues, the culture is fostered along the way.
 	- From the other side, metrics that do not get tracked are not useful; showing data trends over time is important, which gives context to allowing us to make corresponding actions. Looking at the trend lines shown in the charts above, things are moving with progress. Also we are going to consider adding more dashboards for the following:
