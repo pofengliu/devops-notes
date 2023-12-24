@@ -45,7 +45,7 @@
 	  * Purpose: Code quality is our ultimate goal, find bugs at an early stage instead of putting fire off in production
 	- Thus to facilitate team culture building, I started my efforts with following two items:
 	  * [Enhance Skill](logseq://graph/DevOpsNotes?block-id=6585538e-8b30-4661-b8c1-168c17872f6f)
-	  * Measure the progress(#measure-progress)
+	  * [Measure the progress](logseq://graph/DevOpsNotes?block-id=65855425-ae5e-4c02-be0b-5ca62310ff2a)
 - ### **Enhance Skill **
   id:: 6585538e-8b30-4661-b8c1-168c17872f6f
 	- Yes, to get to the bottom of making this work, developers still need to have a sound concept and complete knowledge to reach the growing consensus(practices) of their team in their daily work. To help developers, we leverage local consultancy to give workshops on unit test, refactoring and TDD (Test-Driven Development). 
