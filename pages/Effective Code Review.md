@@ -107,8 +107,7 @@
 	- ![image.png](../assets/image_1703413525796_0.png)
 	- In Github pull request page which is integrated with sonarQube:
 	- ![image.png](../assets/image_1703413957678_0.png)
-	-
-	- |![image.png](../assets/image_1703413957678_0.png){:height 35, :width60}|![image.png](../assets/image_1703413981722_0.png){:height 35, :width 180}|![image.png](../assets/image_1703414003642_0.png){:height 35, :width 218}|
+	- |![image.png](../assets/image_1703413981722_0.png){:height 35, :width 180}|![image.png](../assets/image_1703414003642_0.png){:height 35, :width 218}|
 	- We also monitor long term trends of these quality metrics and promote the most improvement projects monthly.
 		- ![image2022-3-29_17-47-24.png](../assets/image2022-3-29_17-47-24_1703413149412_0.png)
 - ### Reference
