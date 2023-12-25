@@ -11,11 +11,11 @@ type:: blogpost
 - ## Tips for effective code review
 	- The most efficient way to do code review is through pair programming, but using PRs (Pull Request) on Github is okay, if this suits your team better. To get code review done, I mean *really* done, we should first try to increase the efficiency of code review processes; the idea is to treat reviewer as a rare resource, because none of our major responsibility is code reviewing, right?!
 	  And here are some tips for effective and efficient code review:
-	  * [Keep changes small](logseq://graph/DevOpsNotes?block-id=6585511f-2b98-4e9b-b27a-e3b7e4d40ad8)
-	  * [Review often and shorten sessions](logseq://graph/DevOpsNotes?block-id=658551c8-5398-4be8-aef7-56641e557991)
-	  * [Send pull request for review as early as possible](logseq://graph/DevOpsNotes?block-id=658551ed-d427-45d0-8ae2-e00a5240eddb)
-	  * [Provide enough context for creating meaningful pull request](logseq://graph/DevOpsNotes?block-id=65855225-f50c-4783-82f8-c94cfbdce7e4)
-	  * [Linting and code style check](logseq://graph/DevOpsNotes?block-id=6585529c-7af2-44a2-b5b5-ee3ad89e7e4f)
+	  * ((6585511f-2b98-4e9b-b27a-e3b7e4d40ad8))
+	  * ((658551c8-5398-4be8-aef7-56641e557991))
+	  * ((658551ed-d427-45d0-8ae2-e00a5240eddb))
+	  * ((65855225-f50c-4783-82f8-c94cfbdce7e4))
+	  * ((6585529c-7af2-44a2-b5b5-ee3ad89e7e4f))
 	- ### Keep changes small
 	  id:: 6585511f-2b98-4e9b-b27a-e3b7e4d40ad8
 		- A study by a Cisco System programming team has shown that 60 to 90 minute long review over 200 to 400 LoC (Line of Code) yields 70–90% defect discovery. Treat each PR as a releasable unit (feature, bug fix) or a cohesive idea which is meaningful to the PR. To learn why a large pull request hurts and what the optimal size for pull requests is, check [here](https://smallbusinessprogramming.com/optimal-pull-request-size/)([https://smallbusinessprogramming.com/optimal-pull-request-size/](https://smallbusinessprogramming.com/optimal-pull-request-size/)).
@@ -51,8 +51,8 @@ type:: blogpost
 	  * Mastery: Continuously performing good coding practices and learning from each other through code review can eventually enhance personal coding skills
 	  * Purpose: Code quality is our ultimate goal, find bugs at an early stage instead of putting fire off in production
 	- Thus to facilitate team culture building, I started my efforts with following two items:
-	  * [Enhance Skill](logseq://graph/DevOpsNotes?block-id=6585538e-8b30-4661-b8c1-168c17872f6f)
-	  * [Measure the progress](logseq://graph/DevOpsNotes?block-id=65855425-ae5e-4c02-be0b-5ca62310ff2a)
+	  * ((6585538e-8b30-4661-b8c1-168c17872f6f))
+	  * ((65855425-ae5e-4c02-be0b-5ca62310ff2a))
 	- ### **Enhance Skill **
 	  id:: 6585538e-8b30-4661-b8c1-168c17872f6f
 		- Yes, to get to the bottom of making this work, developers still need to have a sound concept and complete knowledge to reach the growing consensus(practices) of their team in their daily work. To help developers, we leverage local consultancy to give workshops on unit test, refactoring and TDD (Test-Driven Development). 
@@ -70,7 +70,7 @@ type:: blogpost
 		  * Demo refactoring, identifying code smells and associated methods to remove them
 		  * Live coding with the TDD approach (Example: baby steps, red light green light)
 		  * Hands on practice
-	- ### **Measure the progress**
+	- ### **Measure the Progress**
 	  id:: 65855425-ae5e-4c02-be0b-5ca62310ff2a
 		- >**If you can’t see it, you can’t measure it, you can’t improve it!**
 		- By leveraging visual impact with public dashboards, message notification to continuously remind everyone in pursuit our goals, we have the following dashboards displayed in rotation on a big screen by the entrance gate.
@@ -101,7 +101,7 @@ type:: blogpost
 				- Last n Avg.: Shows the trend of each metric
 				- xxx_violations: The number of bug, vulnerability and code smell found
 				- line_coverage: The percentage of LoC which are executed by unit tests
-- ## Summary & Future plans
+- ## Summary & future plans
 	- How to write clean code and how to identify code smells and remove them provide a great context for code review discussion, and when team really spend time addressing these common issues, the culture is fostered along the way.
 	- From the other side, metrics that do not get tracked are not useful; showing data trends over time is important, which gives context to allowing us to make corresponding actions. Looking at the trend lines shown in the charts above, things are moving with progress. Also we are going to consider adding more dashboards for the following:
 	  * Quality: bug open / close count with severities, defect density
@@ -126,7 +126,9 @@ type:: blogpost
 - ## Updates from the Year of 2023
 	- Autonomy team culture (test coverage)
 	  * ((65103e74-d3ce-478f-8e76-c904e59a3cdd))
-- ### Reference
+	- One more thing
+	  * We are moving all engineering operations metrics to [Faros CE](https://community.faros.ai/docs).
+- ## Reference
   * [Gerrit] [Code Review - Contributing](https://gerritcodereview-test.gsrc.io/dev-contributing.html#code-organization)
   * [Phabricator] [Writing Reviewable Code](https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/)
   * [Phabricator] [Differential User Guide: Test Plans](https://secure.phabricator.com/book/phabricator/article/differential_test_plans/)
