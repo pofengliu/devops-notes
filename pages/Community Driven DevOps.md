@@ -28,6 +28,7 @@ type:: blogpost
 				- ![](https://speakerd.s3.amazonaws.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_12.jpg){:height 378, :width 657}
 				  ![](https://speakerd.s3.amazonaws.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_13.jpg)對於企業來說呢，哈佛商業評論裡面講到，過去的50年美國最大的五百家企業，S&P500，平均企業壽命已經從 60 年降到 18 年，wow 這個差距之大讓後續有更多針對這課題的討論。DevOps 的 Enterprise Journal 裡面也提及==業務的敏捷是生存的基本，先行者優勢已經被速度快的所取代。然後商業上的大規模轉型呢得要依賴科技，基本上之後的公司大概都是軟體公司， 能夠快速交付就變成企業生存的關鍵！所以難怪說軟體的相關指標超過上百個都不為過，那為何 DORA 偏偏挑這四個，且其中三個還是跟速度、頻率有關係，可見交付速度的重要性！！==
 				- ![](https://speakerd.s3.amazonaws.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_14.jpg)這張圖是State Report 裡面交付效率的一個分群，所以你看到 2021 年 elite 加上 high 的比例已經超過 66%，那如果大家都是高分那就沒什麼意思了，所以在 2022 年的時候他就把 elite 等級拿掉並把 high 的要求拉高。所以原本能夠做到 weekly release 就是 high 的等級，到了2022年你如果還要維持在 high 那勢必得做到 release on demand 就是所謂的 "multiple deploys per Day"。
+				  id:: 6513ce96-959f-4704-860b-406d41dada4b
 				  所以不進則退，==但我想要講的是 release on-demand 在實作上、思維、策略跟技巧跟其它的等級都不一樣！這也是為何一直想強調 elite culture 後面的道理的！==
 				- ![](https://speakerd.s3.amazonaws.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_15.jpg)
 				  #+BEGIN_QUOTE
