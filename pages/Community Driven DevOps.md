@@ -99,7 +99,7 @@ type:: blogpost
 			- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_34.jpg)
 			  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_35.jpg)
 - ### Takeaway
-	- #### You created your own problems
+	- #### We created our own problems
 	  id:: 65103e74-97b6-4ff0-a337-c9ab3fd2539c
 		- ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_37.jpg)
 	- #### Trunk-based or NOT
