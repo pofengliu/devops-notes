@@ -42,6 +42,7 @@ type:: blogpost
 		- ![nokia_symbian](https://speakerd.s3.amazonaws.com/presentations/cf04f08b30f54c41ad76d0b180effd0b/slide_5.jpg)
 		- Nokia 在2013年將手機業務賣給了 Microsoft，背後的因素除了太慢進入智慧型手機外，開發效率也是其中原因之一。2010年當其董事會主席Risto Siilasmaa 視察公司時發現， Symbian 作業系統建製一次需要48小時，當時的他猶如當頭棒喝，但內部一直有這淘汰 Symbian 的建議也一直沒被管理層所採納...。建製時間要48小時，也就代表開發人員要兩天後才能知道提交的代碼是否有問題，這樣的迭代速度就算再加一倍的人力，可能也改變不了現況，更何況它所面對的是像 Google 這樣有效率的公司。 Google 或 Amazon 從2003年起的那些 Test automation 及 Continuous integration 的轉變， Nokia 應該也是完全沒跟上。 #build_time_matters
 		- ![productivity_satya](https://speakerd.s3.amazonaws.com/presentations/cf04f08b30f54c41ad76d0b180effd0b/slide_6.jpg)
+		  id:: 64381dc1-f2f1-4ae3-b3b7-cd872041d756
 		- 所以再深再廣的護城河，只要別人的效率是你的兩倍、五倍甚至十倍，那麼護城河也很快就會有被填滿的一天。 是的，就像 DevOps Handbooks 所提，==『改善日常工作甚至比進行日常工作更重要』==，而且要及早做，而非放到最後，層層堆疊，想改也改不動。方法就是用 3% ~ 5% 的開發人力或是至少 20% 的時間週期用於持續改善的活動，這當中就包含了==有意識地 (consciously)== 償還技術債及推動技術與架構的現代化。 架構要使團隊能够獨立開發、测試及向客户部署價值，減少跨團隊的協作與耦合，其中微服務（Microservices）間能有各自的軟體的交付週期（release cycle）便是其中一例！
 		- 當然，這邊講到的效率提升是奠基在一樣或更好的品質上，你不會為了讓生產力增加十倍而犧牲了品質！對於效率與品質從來就不會是只要求做到七十分就好，而是採用持續改善的方式不斷向上提升，永遠都有進步的空間 [(Toyota Kata)](https://en.wikipedia.org/wiki/Toyota_Kata#The_Improvement_Kata)。 是的，改善工作永遠沒有結束的一天，而在這個快速變動的行業裡，大家早就應該了解到，沒有改變的風險跟改變本身的風險是一樣高的！
 - ## 如何開始 #qa #onepipeline
