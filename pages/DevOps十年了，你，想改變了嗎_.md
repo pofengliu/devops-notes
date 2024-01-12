@@ -44,6 +44,7 @@ type:: blogpost
 		- ![productivity_satya](https://speakerd.s3.amazonaws.com/presentations/cf04f08b30f54c41ad76d0b180effd0b/slide_6.jpg)
 		  id:: 64381dc1-f2f1-4ae3-b3b7-cd872041d756
 		- 所以再深再廣的護城河，只要別人的效率是你的兩倍、五倍甚至十倍，那麼護城河也很快就會有被填滿的一天。 是的，就像 DevOps Handbooks 所提，==『改善日常工作甚至比進行日常工作更重要』==，而且要及早做，而非放到最後，層層堆疊，想改也改不動。方法就是用 3% ~ 5% 的開發人力或是至少 20% 的時間週期用於持續改善的活動，這當中就包含了==有意識地 (consciously)== 償還技術債及推動技術與架構的現代化。 架構要使團隊能够獨立開發、测試及向客户部署價值，減少跨團隊的協作與耦合，其中微服務（Microservices）間能有各自的軟體的交付週期（release cycle）便是其中一例！
+		  id:: 64381dc1-ae8e-4336-b99e-2e103f387afa
 		- 當然，這邊講到的效率提升是奠基在一樣或更好的品質上，你不會為了讓生產力增加十倍而犧牲了品質！對於效率與品質從來就不會是只要求做到七十分就好，而是採用持續改善的方式不斷向上提升，永遠都有進步的空間 [(Toyota Kata)](https://en.wikipedia.org/wiki/Toyota_Kata#The_Improvement_Kata)。 是的，改善工作永遠沒有結束的一天，而在這個快速變動的行業裡，大家早就應該了解到，沒有改變的風險跟改變本身的風險是一樣高的！
 - ## 如何開始 #qa #onepipeline
 	- 實踐方法除了Agile 的 mindset, Scrum process 或是 DevOps Handbooks 中提到的三步工法等，但這些網路上已經有太多好文在講述其中的概念，==所以我更想用技術方面的實作來闡述所需相關的能力==。這些數位化的改革中，擁抱改變是必要的，因為每個人的工作模式多多少少都需要改變，比如說開發人員除了單元測試外也必需負責 "Acceptance Test" 的自動化創建與維護，以達到快速回饋與避免類似 "Waterfall pipeline" 的反模式產生（如下圖），這將會在『持續集成』的章節再詳述。
