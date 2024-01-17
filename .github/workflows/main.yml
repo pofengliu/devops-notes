@@ -24,6 +24,8 @@ jobs:
 
       - name: Logseq Publish 🚩
         uses: logseq/publish-spa@v0.3.0
+        with:
+          graph-directory: DevOpsNotes
 
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
