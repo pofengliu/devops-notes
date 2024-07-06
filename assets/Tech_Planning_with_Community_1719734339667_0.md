@@ -2,7 +2,8 @@ public:: true
 type:: blogpost
 
 - ## Tech Planning
-   ![PE  Team-2024-04-10-1449.svg](../assets/PE_Team-2024-04-10-1449_1719734359319_0.svg){:height 528, :width 780}
+  
+ {:height 528, :width 780}
 - ### 目標
 	- 大規模敏捷組織中，通過建立公會等組織形式，為跨團隊的共同決策過程提供制度化的支持，加速決策的形成和落實，並鼓勵和支持跨團隊的影響力工作，讓不同職能和背景的成員能夠有效溝通和協作，共同推進組織目標的實現。
 	  
@@ -13,23 +14,11 @@ type:: blogpost
 	- #### Architechture Review Board
 	  * Architecture review with RFC (supplement with ADRs)
 	- #### Purposes of   `Guild`   for each domain
-		- Each guild has authority to define engineering guidelines and practices 
-		  * Maintain process, techdoc templates
-		  * Suggest courses for career path
-		  * Setup Golden paths and onboarding guide
-		  * Host periodical meeting to review above agenda and Tech Radar
-	- #### Suggestion of topics
-		- General practices
-			- Onboarding guide and collect onboarding time metrics
-			- Mock server tooling and practice guide
-			- Test isolation - testContainers, mock server, CDCT
-		- DevGov
-			- SonarQube profiles and periodically review
-			- Dependency and vulnerability management
-			- How to store credentials
-		- Tech stack planning with Tech Radar
-			- Collective intelligence over personal/team preferences
-			- Pay attention to tech trend shift
+	  * Each guild has authority to define engineering guidelines and practices 
+	  * Maintain process, techdoc templates
+	  * Suggest courses for career path
+	  * Setup Golden paths and onboarding guide
+	  * Host periodical meeting to review above agenda and Tech Radar
 	- #### Platform & Tooling
 	  * Docs as Code: including ARD and RFC, to enable knowledge authoring and sharing
 	  * Backsage: a developer portal, for each guild to publish discussion results and practices
@@ -63,8 +52,3 @@ type:: blogpost
 		       * 有核心成員或協調人來引導和支持其他成員，特別是在初期階段。
 	- ### 參考來源
 		- [Spotify Guilds – Cultivating Knowledge Sharing in Large-scale Agile Organizations(https://ieeexplore.ieee.org/document/8648260
-		- Tech Radar 環的[定義](https://www.thoughtworks.com/radar)如下：
-			- 採納 (Adopt)。我們認為團隊應該認真考慮使用的點。
-			- 試驗 (Trial)。我們認為可以放心使用的點，但還沒有達到「採納」環中那麼成熟的程度。
-			- 評估 (Assess)。值得關注的點，但除非非常適合您的需求，否則目前可能不需要試用。
-			- 暫緩 (Hold)。需要謹慎對待的點。
