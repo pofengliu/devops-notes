@@ -1,7 +1,7 @@
 public:: true
 type:: blogpost
 
-- DevOpsDays Taipei 2024 - DevOps 變革困局與平台工程內容筆記
+- DevOpsDays Taipei 2024 - DevOps 變革困局與平台工程內容筆記 [[SpeakerDeck](https://speakerdeck.com/bryan0817/devops-bian-ge-kun-ju-yu-ping-tai-gong-cheng)]
 - ![image.png](../assets/image_1720322865780_0.png)
 - ![image.png](../assets/image_1720322919447_0.png)
 - ## Our Platform Team
