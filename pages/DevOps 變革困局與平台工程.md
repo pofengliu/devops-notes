@@ -85,7 +85,7 @@ type:: blogpost
 		  不懂為何而戰，改變將難以持久!
 		  #+END_QUOTE
 		- ![image.png](../assets/image_1720325274385_0.png)
-	- ### 改變才是平台的終點
+	- ### 行為改變才是平台的目的
 		- #### DevOps Elite Culture
 			- ![image.png](../assets/image_1720325345825_0.png)
 			- 這邊就不再重複了，請看 [[Community Driven DevOps]]。
