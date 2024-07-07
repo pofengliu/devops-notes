@@ -92,7 +92,7 @@ type:: blogpost
 		- #### Docs As Code (Knowledge sharing)
 			- 為解決工程師在 Wiki 上查找技術文件的挫折與 Wiki spaces 帶來的 silos 與跨組織合作的不利。Wiki 上面的技術文件常常忘了更新，以及越來越多獨立的 document sites 也缺乏一個統一的 portal site 可供搜尋與瀏覽。
 			- ![image.png](../assets/image_1720325416355_0.png)
-			  ![image.png](../assets/image_1720331822449_0.png)
+			  ![image.png](../assets/image_1720345617583_0.png)
 		- #### Engineering Operations BI for Agile
 			- ![image.png](../assets/image_1720331355020_0.png)
 			- Agile and value driven development 以及 SRE 談的 SLO & Error budget 來決定開發應該專注穩定性還是應該要衝刺新功能，或是 DORA 要求的 elite culture，這些沒有一個有效且公開的觀測系統，那將會是難以推動的改變。==一個能觀看整個 SDLC 的 BI 系統，將為組織帶來開放及有效的管理風格。==
