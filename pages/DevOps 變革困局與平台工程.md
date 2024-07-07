@@ -1,6 +1,9 @@
 public:: true
 type:: blogpost
 
+- DevOpsDays Taipei 2024 - DevOps 變革困局與平台工程內容筆記
+- ![image.png](../assets/image_1720322865780_0.png)
+- ![image.png](../assets/image_1720322919447_0.png)
 - ## Our Platform Team
 	- ### 簡介 Intro
 		- #+BEGIN_QUOTE
@@ -22,7 +25,6 @@ type:: blogpost
 		  * Don’t reinvent the wheel
 		  Source [platformengineering.org](https://platformengineering.org/blog/what-is-platform-engineering)
 			- 只是個通用原則但如何做、怎麼做和做什麼，每家公司都不一樣且差異很大。這些都是幾家走在前沿的公司，根據自身的經驗、需求為了更有效率解決某些問題而推導出來的一些守則 (disciplines)。然後經由某些書籍、研討會議做出更具體的結論與推廣而更廣為人知。平台工程並非全新，它是一種新興模式，旨在不僅==簡化開發人員的生活==，還通過一套精心挑選的黃金標準工具來達成這些目的。
-			- DevOps, SRE 跟 Platform Engineering 這三個角色、定義與權責劃分一直是社群討論的話題！企業了解這三個領域的重疊和不重疊之處，將有助於組織在準備好時利用機會並發展，企業權責區分清楚、成立這些組織的確很好，但並不是所有企業一開始都有辦法這樣做。了解這三種角色的使命，讓角色重疊來完成任務，及早提出問題、解決問題，從失敗中學習經驗做到持續改善，才是學習這些守則的主要目的！
 		- #### Higher Purposes of platform engineering
 		  * Increase organization-wide efficiency and effectiveness
 		  * Intentionally strive to optimize time-to-market
@@ -30,10 +32,21 @@ type:: blogpost
 		  * Enable efficient governance and compliance
 		  * Other cross-cutting requirements
 		- 有時候，應該從更高視角來看平台工程，意思是它更需要專注在組織效率與業務價值，而非只是滿足客戶 (developer) 的需求，這點後面也會再討論。
+	- ![image.png](../assets/image_1720323128624_0.png)
+	  LINE TW 目前對內平台的簡圖
+	  * POS System: Release, incident management and reporting system
+	  * Faros: Engineering Operations BI System for full SDLC measurement
+	  * OpenFlagr + OpenFeature: Feature toggle platform
+	  * Backstage: Developer portal and knowledge sharing
+	  * SRE platform: Observability, Infra Ops and GitOps ...
 	- ### 工作模式 Working Model
-		-
+		- ![image.png](../assets/image_1720323174248_0.png)
+		  個平台之前的交互利用，其實 DevOps, SRE 跟 platform 團隊常一起開會。
 		- 從目前合作模式來看，SRE 與平台工程人員交互合作機會非常多，其實很多會議兩邊人員都會互相參與。也有想過成立另一個部門包含 SRE 與 platform engineers，因為兩者都有需求打造內部平台，策略方向最好要有一定的討論與共識。
+		- ![image.png](../assets/image_1720323215032_0.png)
 	- ### 組織與價值 Org and It's Value
+		- ![image.png](../assets/image_1720324436293_0.png)
+		- DevOps, SRE 跟 Platform Engineering 這三個角色、定義與權責劃分一直是社群討論的話題！企業了解這三個領域的重疊和不重疊之處，將有助於組織在準備好時利用機會並發展，企業權責區分清楚、成立這些組織的確很好，但並不是所有企業一開始都有辦法這樣做。了解這三種角色的使命，讓角色重疊來完成任務，及早提出問題、解決問題，從失敗中學習經驗做到持續改善，才是學習這些守則的主要目的！
 		- 熟悉這些角色間差異的目的：
 		          * DevOps 模型通過高質量與快速交付顯著提高了業務價值和反應能力。
 		          * 平台工程和 SRE 的出現進一步增強了 DevOps 流程，解決了特定挑戰。
@@ -50,16 +63,18 @@ type:: blogpost
 		- 這些內部平台其實都是花了許多時間與專案團隊坐下來對焦，想清楚如何制訂大家都能接受的指標定義以及如何無痛注入在現有的開發流程中。
 		- 最後，2023 年中又成立了另一個 Backstage side-project，目的是為了解決內部知識共享與技術文件撰寫與查找的效率問題。這些問題一直都在且日趨嚴重，光是在 wiki 上面搜尋日常要遵守的開發守則與規範就令人沮喪不已。在 2023 4Q，以 Backstage 為主的解決方案也在內部的 DevOpsDays 中展示 PoC 的結果，並收到超過 95 % 開發人員的支持。但其實背後仰賴的是大家從 wiki 為主體的知識管理系統轉向以 "Documents as Code" 的思維轉變，但用了十幾年的 wiki 要轉向以 Markdown 為主的書寫習慣，談何容易？！週邊的配套措施與流程自動化工具等的開發工作也是如火如荼的在進行中。
 	- ### 從改變思維進入到執行期
-		- 從 2018 年開始就一直在倡導這些 DevOps Elite Culture 跟單主幹開發， 但是苦於缺乏這些 Feature toggle 的平台，還有可以監控改善效率的工具，所以變革的進展遲遲無法大步跨越，只能專注在單元測試習慣培養、自動化測試效益改善與 pipeline 穩定度等基層改變做起。直到這些所謂的 side projects 的成立， 並開發出來了這些內部開發平台才看到專案團隊顯著地開始採用這些新的開發方式，正式進入了變革執行期。
+		- 從 2018 年開始就一直在倡導這些 DevOps Elite Culture 跟單主幹開發， 但是苦於缺乏這些 Feature toggle 的平台以及可以監控改善效率的工具，所以變革的進展遲遲無法大步跨越，只能專注在單元測試習慣培養、自動化測試效益改善與 pipeline 穩定度等基層改變做起。直到這些所謂的 side projects 的成立， 並開發出來了這些內部開發平台才看到專案團隊顯著地開始採用這些新的開發方式，正式進入了變革執行期。
 - ## 平台談產品思維
 	- ### 客戶要的不一定是對的
-		- 前言：產品思維談需求講求反饋，但跟一般產品一樣，客戶不見得知道自己想要的是什麼，而且內部團隊對於平台或是技術桟常常也是意見分歧。經驗是不管推出什麼樣的平台與產品，不管結果有多成功，初期總是有反對的聲音。
+		- ![image.png](../assets/image_1720324973598_0.png) 
+		  產品思維談需求講求反饋，但跟一般產品一樣，客戶不見得知道自己想要的是什麼，而且內部團隊對於平台或是技術桟常常也是意見分歧。經驗是不管推出什麼樣的平台與產品，不管結果有多成功，初期總是有反對的聲音。
 		- 2019年，台灣這邊決定將所有的服務搬上雲端， 那時候我建議要搬上雲端沒有問題，但是配套的observability 一定要開始一起做。所以當初就介紹了Grafana 的 Loki 讓大家開始試著用。但是幾周時間過去了，不少開發人員就反應這個  Loki 不好用，所以想回去用原本的 Elasticsearch 跟 Kibana。前期當然有介紹也溝通過了，你==想解決的是雲端可觀測性的不易，但開發人員心裡想的只如何能方便查找 log 解決眼前問題==。在當時 Grafana stacks 還有許多項目在 beta 階段，但整體方向就是往實現 O11y 在走，比起 ELK stacks 在 community 的版本並看不到這樣清楚的政策方向！如果當初不堅持，在今天我們也絕對沒有能力實踐端到端 tracing 的能力。
 	- ### 專注在有需要的團隊
 		- 在有人的地方總會存在一些 outlier，總會有人不同意或是各種理由跟不上轉變。平台一開始就是約定大家同意的最大公約數，設定這些規範、守則與工具鏈起初就要針對最有需求的團隊，對於那些無法馬上做到的團隊給予多一些彈性與時間，但對於新成立的專案就一定得遵守了，原因會在規範性價值章節再細談。開始一件事總是不容易，但原則還是在你能夠影響的範圍內先做出影響力。
-		- ![flexible_schedule.webp](../assets/flexible_schedule_1719996020045_0.webp)
+		- ![image.png](../assets/image_1720325130648_0.png) 
 		  [source: medium.com/@ZaradarTR](https://medium.com/@ZaradarTR/internal-developer-platforms-team-topologies-and-the-journey-beyond-one-size-fits-all-solutions-7fa18de1394a)
 	- ### 解決問題上而非擴張
+		- ![image.png](../assets/image_1720325175385_0.png)
 		- 既然開發了平台，當然會想要推廣到全公司。但在初期整合度及 DevEX 不夠好情況下，貿然要求大規模採用，很容易就耗盡使用者的耐心。專注解決問題及其它配套措施都是可以優先考慮的，目的是能讓==問題在客戶所花成本最少、對現有流程影響最小的情況下得到解決==。Airbnb 的 CEO Brian Chesky 說的「Do things that don’t scale.」（做那些不具規模化的事情），就是這個意思，初期應該專注在**重視用戶體驗**並與之**建立深度連接**。
 - ## 文化信仰才是平台需求的根源！
 	- ### 它改變平台的全貌 (Landscape)
@@ -67,12 +82,14 @@ type:: blogpost
 		- #+BEGIN_QUOTE
 		  不懂為何而戰，改變將難以持久!
 		  #+END_QUOTE
-		- 大圖
+		- ![image.png](../assets/image_1720325274385_0.png)
 	- ### 改變才是平台的終點
 		- 前言：這些非 CI/CD 類的平台，最終目的就是加速或完成文化（行為）的變革。
-		- #### Docs As Code (Knowledge sharing)
 		- #### DevOps Elite Culture
+			- ![image.png](../assets/image_1720325345825_0.png)
 			- 這邊就不再重複了，請看 [[Community Driven DevOps]]。
+		- #### Docs As Code (Knowledge sharing)
+			- ![image.png](../assets/image_1720325416355_0.png)
 		- #### Engineering Operations BI for Agile
 			- Agile and value driven development 以及 SRE 談的 SLO & Error budget 來決定開發應該專注穩定性還是應該要衝刺新功能，或是 DORA 要求的 elite culture，這些沒有一個有效且公開的觀測系統，那將會是難以推動的改變。一個能觀看整個 SDLC 的 BI 系統，將為組織帶來開放及有效的管理風格。
 			- #+BEGIN_QUOTE
