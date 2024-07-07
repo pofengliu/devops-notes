@@ -90,6 +90,7 @@ type:: blogpost
 			- ![image.png](../assets/image_1720325345825_0.png)
 			- 這邊就不再重複了，請看 [[Community Driven DevOps]]。
 		- #### Docs As Code (Knowledge sharing)
+			- 為解決工程師在 Wiki 上查找技術文件的挫折與 Wiki spaces 帶來的 silos 與跨組織合作的不利。Wiki 上面的技術文件常常忘了更新，以及越來越多獨立的 document sites 也缺乏一個統一的 portal site 可供搜尋與瀏覽。
 			- ![image.png](../assets/image_1720325416355_0.png)
 			  ![image.png](../assets/image_1720331822449_0.png)
 		- #### Engineering Operations BI for Agile
