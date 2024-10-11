@@ -30,6 +30,12 @@ jobs:
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
 
+      - name: Add robots.txt
+        run: |
+          echo 'User-agent: *' >> $GITHUB_WORKSPACE/www/robots.txt
+          echo 'Allow: /' >> $GITHUB_WORKSPACE/www/robots.txt
+          echo 'Sitemap: https://pofengliu.github.io/devops-notes/sitemap.xml' >> $GITHUB_WORKSPACE/www/robots.txt
+  
       - name: Add SEO Meta Tags
         run: |
           echo '<meta name="description" content="DevOps Task-Force Blog">' >> $GITHUB_WORKSPACE/www/index.html
