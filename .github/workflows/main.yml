@@ -38,8 +38,9 @@ jobs:
       - name: Generate Sitemap
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: 'https://pofengliu.github.io/devops-notes/#/'
+          base-url-path: 'https://pofengliu.github.io/devops-notes/'
           path-to-root: www
+          include-pdf: false
   
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.1
