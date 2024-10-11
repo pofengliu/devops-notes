@@ -36,10 +36,9 @@ jobs:
           echo '<meta name="keywords" content="devops, platform engineering, sbe">' >> $GITHUB_WORKSPACE/www/index.html
 
       - name: Generate Sitemap
-        uses: simply007/sitemap-generator-action@v1
+        uses: cicirello/generate-sitemap@v1
         with:
-          base-url: 'https://pofengliu.github.io/devops-notes'
-          output-folder: 'www'
+          base-url-path: 'https://pofengliu.github.io/devops-notes/#/'
   
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.1
