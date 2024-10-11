@@ -32,8 +32,8 @@ jobs:
 
       - name: Add SEO Meta Tags
         run: |
-          echo '<meta name="description" content="Your site description here">' >> $GITHUB_WORKSPACE/www/index.html
-          echo '<meta name="keywords" content="keyword1, keyword2, keyword3">' >> $GITHUB_WORKSPACE/www/index.html
+          echo '<meta name="description" content="DevOps Task-Force Blog">' >> $GITHUB_WORKSPACE/www/index.html
+          echo '<meta name="keywords" content="devops, platform engineering, sbe">' >> $GITHUB_WORKSPACE/www/index.html
 
       - name: Generate Sitemap
         uses: simply007/sitemap-generator-action@v1
