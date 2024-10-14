@@ -40,6 +40,7 @@ jobs:
         run: |
           echo '<meta name="description" content="DevOps Task-Force Blog">' >> $GITHUB_WORKSPACE/www/index.html
           echo '<meta name="keywords" content="devops, platform engineering, sbe">' >> $GITHUB_WORKSPACE/www/index.html
+          echo '<meta name="google-site-verification" content="P4wBJTeTYEZskITJo-PTVVJhwd4YYOpvFXJt4MbcCbw" />' >> $GITHUB_WORKSPACE/www/index.html
 
       - name: Generate Sitemap
         run: |
