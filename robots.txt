@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pofengliu.github.io/devops-notes/sitemap.xml
