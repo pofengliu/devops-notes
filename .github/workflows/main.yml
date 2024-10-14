@@ -29,6 +29,10 @@ jobs:
 
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      
+      - name: Add Google Verification
+        run: |
+          echo 'google-site-verification: google95599d807a6231ed.html' >> $GITHUB_WORKSPACE/www/google95599d807a6231ed.html   
 
       - name: Add robots.txt
         run: |
