@@ -70,7 +70,7 @@ type:: blogpost
 				  id:: 65117d81-bffa-4976-8c51-7396b3e29487
 				  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_22.jpg)
 				  這邊想要強調的是基於兩週交付一次，二週內讓所有 regression tests 變成綠色的，跟每次的 commit 都要在 PR check 內跑完大部份的 regressions 而且一天要跑 25次、50次，還要跑超快（因為要 reduce cycle-time）且 non-flaky，所用的心態、策略、工具與作法完全不一樣。更多詳見[[什麼是自動化測試的標的？]]
-				  * 在 PR 內跑完大部份 regression：Test isolations, Mock, Stub, TestContainers
+				  * 在 PR 內跑完大部份 regression：[Test isolations, Mock, Stub, TestContainers](https://github.com/pofengliu/test-isolation-demo)
 				  * 要能 non-flaky 且能平行跑：TestContext
 				  * Test in MicroServices: Consumer Driven Contract Testing
 				  ![](https://files.speakerdeck.com/presentations/8e24732701ff45af870421e9abd29e4a/slide_23.jpg)

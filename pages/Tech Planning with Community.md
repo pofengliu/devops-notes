@@ -23,6 +23,7 @@ type:: blogpost
 			- Onboarding guide and collect onboarding time metrics
 			- Mock server tooling and practice guide
 			- Test isolation - testContainers, mock server, CDCT
+				- [Here](https://github.com/pofengliu/test-isolation-demo) to demo three levels of test isolation for parallel auto testing and pipeline stability
 		- DevGov
 			- SonarQube profiles and periodically review
 			- Dependency and vulnerability management

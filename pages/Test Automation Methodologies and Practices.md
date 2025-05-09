@@ -1,6 +1,7 @@
-- ## Three levels of test isolation
+## Three levels of test isolation
 	- #### TestContainers (mocks, stubs)
-- ## TestContext & default objects
+	- #### TestContext & default objects
+		- To demo three levels of test isolation for parallel auto testing and pipeline stability: [test-isolation-demo](https://github.com/pofengliu/test-isolation-demo)
 - ## Other practices
 	- Tests should be useful:  integrated and AC first
 	- Tests should be maintainable: tests are written to be refactorable in the future

@@ -62,7 +62,7 @@ type:: blogpost
 			- [[實例化需求 (Specification by Example)/1.Workshop]]
 			- 測試自動化（Fast Test Automation）
 				- API 測試？ 想想 Consumer Driven Contract Testing
-				- 想更快？ 先做好 Test Isolation
+				- 想更快？ 先做好 [Test Isolation](https://github.com/pofengliu/test-isolation-demo)
 				- 自動化測試戰略與工具（Strategy & Tools）
 		- 測試右移（在生產環境中監控，並且實時穫取用户反饋）
 			- Low Risk Deployment（低風險部署）
