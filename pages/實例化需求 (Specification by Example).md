@@ -2,7 +2,7 @@ public:: true
 type:: blogpost
 
 - {{video https://youtu.be/zvDOsxskrHI}}
-	- 影片中教具程式使用 [GoodNotes](https://www.goodnotes.com/)，需要由此 [SbE Workshop.goodnotes](../assets/SbE_Workshop_1747904280219_0.goodnotes) 下載。
+	- 影片中教具程式使用 [GoodNotes](https://www.goodnotes.com/)，需要由此 [SbE Workshop.goodnotes](https://github.com/pofengliu/devops-notes/blob/main/assets/SbE_Workshop_1747904280219_0.goodnotes) 下載。
 - ## Process Overview:
   ![SeB & Acceptance Test.jpg](../assets/SeB_&_Acceptance_Test_1650361331009_0.jpg)
 - ## 實例化需求 (Specification By Example)
